@@ -1,26 +1,112 @@
-package main
+package parser
 
 import (
 	"encoding/xml"
 	"strings"
-	"unicode"
 )
 
-// getOutputPath returns the output path: if outputPath is empty, replaces inputPath's extension with .md
-func getOutputPath(inputPath, outputPath string) string {
-	if outputPath != "" {
-		return outputPath
+// parseSingleDishToMarkdown processes a single dish node and returns its markdown representation
+func parseSingleDishToMarkdown(dishNode Node) string {
+	var sb strings.Builder
+
+	// Dish name: first child node with a data-cy attribute (not wrapper/ingredients)
+	dishName := findFirstDishNameNode(dishNode)
+	if dishName == "" {
+		return ""
 	}
-	outPath := inputPath
-	if dot := strings.LastIndex(outPath, "."); dot != -1 {
-		outPath = outPath[:dot] + ".md"
+
+	sb.WriteString("## " + dishName + "\n")
+
+	// Try to find ingredients for this dish
+	ingredients := findIngredients(dishNode)
+	if ingredients != "" {
+		sb.WriteString("**Składniki:**\n")
+		// Fix broken percentage numbers in ingredients (e.g. 62\n5%) -> 62.5%)
+		fixedIngs := fixIngredientPercentages(strings.Split(ingredients, ","))
+		// Special handling: append 'bez skóry' to previous ingredient
+		var mergedIngs []string
+		for i := 0; i < len(fixedIngs); i++ {
+			ing := strings.TrimSpace(fixedIngs[i])
+			if ing == "bez skóry" && len(mergedIngs) > 0 {
+				mergedIngs[len(mergedIngs)-1] += " (bez skóry)"
+				continue
+			}
+			if isAllUppercase(ing) {
+				ing = utf8TitleCase(ing)
+			}
+			mergedIngs = append(mergedIngs, ing)
+		}
+		for _, ing := range mergedIngs {
+			sb.WriteString("- " + ing + "\n")
+		}
+		sb.WriteString("\n")
 	} else {
-		outPath = outPath + ".md"
+		sb.WriteString("\n")
 	}
-	return outPath
+
+	return sb.String()
 }
 
-// Find the first child node with a data-cy attribute (excluding wrappers/ingredients) and return its text
+// parseAllDishFromMealToMarkdown processes all dishes within a meal and returns their markdown representation
+func parseAllDishFromMealToMarkdown(meal Node) string {
+	var sb strings.Builder
+
+	// Find dish wrappers and extract dish names and ingredients
+	var stack []Node
+	stack = append(stack, meal)
+	for len(stack) > 0 {
+		n := stack[len(stack)-1]
+		stack = stack[:len(stack)-1]
+		if _, val := getAttr(n, "data-cy"); val == "dish-tile__wrapper" {
+			sb.WriteString(parseSingleDishToMarkdown(n))
+		}
+		for i := len(n.Nodes) - 1; i >= 0; i-- {
+			stack = append(stack, n.Nodes[i])
+		}
+	}
+
+	return sb.String()
+}
+
+// ParseXMLToMarkdown parses XML data and returns Markdown output
+func ParseXMLToMarkdown(data []byte) (string, error) {
+	var root Node
+	err := xml.Unmarshal(data, &root)
+	if err != nil {
+		return "", err
+	}
+
+	meals := findMeals(root)
+	var sb strings.Builder
+	for _, meal := range meals {
+		// For meal name, use the first non-empty text node (not data-cy based)
+		mealName := ""
+		var findFirstTextNode func(Node) string
+		findFirstTextNode = func(n Node) string {
+			if strings.TrimSpace(n.Content) != "" {
+				return strings.TrimSpace(n.Content)
+			}
+			for _, c := range n.Nodes {
+				if t := findFirstTextNode(c); t != "" {
+					return t
+				}
+			}
+			return ""
+		}
+		mealName = findFirstTextNode(meal)
+		if mealName == "" {
+			continue
+		}
+		sb.WriteString("# " + mealName + "\n\n")
+
+		// Process all dishes in this meal
+		sb.WriteString(parseAllDishFromMealToMarkdown(meal))
+	}
+
+	return sb.String(), nil
+}
+
+// findFirstDishNameNode finds the first child node with a data-cy attribute (excluding wrappers/ingredients) and return its text
 func findFirstDishNameNode(n Node) string {
 	if ok, val := getAttr(n, "data-cy"); ok && val == "" {
 		text := strings.TrimSpace(n.Content)
@@ -36,7 +122,7 @@ func findFirstDishNameNode(n Node) string {
 	return ""
 }
 
-// Find ingredients for a dish node
+// findIngredients finds ingredients for a dish node
 func findIngredients(n Node) string {
 	if _, val := getAttr(n, "data-cy"); val == "IngredientsAndRecipes_span" && strings.TrimSpace(n.Content) != "" {
 		return strings.TrimSpace(n.Content)
@@ -49,6 +135,7 @@ func findIngredients(n Node) string {
 	return ""
 }
 
+// Node represents an XML node structure
 type Node struct {
 	XMLName xml.Name
 	Attr    []xml.Attr `xml:",any,attr"`
@@ -66,6 +153,7 @@ func getAttr(n Node, key string) (bool, string) {
 	return false, ""
 }
 
+// findMeals finds all meal nodes in the XML structure
 func findMeals(root Node) []Node {
 	var meals []Node
 	var stack []Node
@@ -81,20 +169,6 @@ func findMeals(root Node) []Node {
 		}
 	}
 	return meals
-}
-
-// utf8TitleCase capitalizes only the first letter, rest is lowercased (UTF-8 aware)
-func utf8TitleCase(s string) string {
-	s = strings.TrimSpace(s)
-	if s == "" {
-		return s
-	}
-	runes := []rune(s)
-	runes[0] = unicode.ToUpper(runes[0])
-	for i := 1; i < len(runes); i++ {
-		runes[i] = unicode.ToLower(runes[i])
-	}
-	return string(runes)
 }
 
 // fixIngredientPercentages joins lines that are broken by percentage numbers (e.g. 62\n5%) -> 62.5%)
@@ -160,13 +234,4 @@ func joinPercent(a, b string) (string, bool) {
 		}
 	}
 	return "", false
-}
-
-func isAllDigits(s string) bool {
-	for _, r := range s {
-		if r < '0' || r > '9' {
-			return false
-		}
-	}
-	return true
 }
