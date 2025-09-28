@@ -3,22 +3,9 @@ package parser
 import (
 	"encoding/xml"
 	"strings"
+
+	"github.com/toszr/dietician/meal"
 )
-
-// Dish represents a single dish with its name and ingredients
-type Dish struct {
-	Name        string
-	Ingredients []string
-}
-
-// Meal represents a meal with its name and dishes
-type Meal struct {
-	Name   string
-	Dishes []Dish
-}
-
-// MealPlan represents the structured data for all meals
-type MealPlan []Meal
 
 // Node represents an XML node structure
 type Node struct {
@@ -37,31 +24,31 @@ func ParseXMLToMarkdown(data []byte) (string, error) {
 	}
 
 	// Step 2: Format meal plan to markdown
-	return formatMealPlanToMarkdown(mealPlan), nil
+	return mealPlan.FormatToMarkdown(), nil
 }
 
-// parseXMLToMealPlan converts XML data to the structured MealPlan format
-func parseXMLToMealPlan(data []byte) (MealPlan, error) {
+// parseXMLToMealPlan converts XML data to the structured meal.Plan format
+func parseXMLToMealPlan(data []byte) (meal.Plan, error) {
 	var root Node
 	err := xml.Unmarshal(data, &root)
 	if err != nil {
-		return MealPlan{}, err
+		return meal.Plan{}, err
 	}
 
-	var mealPlan MealPlan
+	var mealPlan meal.Plan
 	meals := findMeals(root)
 
-	for _, meal := range meals {
+	for _, mealNode := range meals {
 		// Get meal name
-		mealName := findFirstTextNode(meal)
+		mealName := findFirstTextNode(mealNode)
 		if mealName == "" {
 			continue
 		}
 
 		// Parse dishes for this meal
-		dishes := parseDishesFromMeal(meal)
+		dishes := parseDishesFromMeal(mealNode)
 		// Always add the meal, even if it has no valid dishes
-		mealPlan = append(mealPlan, Meal{
+		mealPlan = append(mealPlan, meal.Meal{
 			Name:   mealName,
 			Dishes: dishes,
 		})
@@ -71,12 +58,12 @@ func parseXMLToMealPlan(data []byte) (MealPlan, error) {
 }
 
 // parseDishesFromMeal extracts all dishes from a meal node
-func parseDishesFromMeal(meal Node) []Dish {
-	var dishes []Dish
+func parseDishesFromMeal(mealNode Node) []meal.Dish {
+	var dishes []meal.Dish
 
 	// Find dish wrappers
 	var stack []Node
-	stack = append(stack, meal)
+	stack = append(stack, mealNode)
 	for len(stack) > 0 {
 		n := stack[len(stack)-1]
 		stack = stack[:len(stack)-1]
@@ -95,8 +82,8 @@ func parseDishesFromMeal(meal Node) []Dish {
 }
 
 // parseSingleDish extracts dish information from a dish node
-func parseSingleDish(dishNode Node) Dish {
-	dish := Dish{}
+func parseSingleDish(dishNode Node) meal.Dish {
+	dish := meal.Dish{}
 
 	// Get dish name
 	dish.Name = findFirstDishNameNode(dishNode)
@@ -129,31 +116,6 @@ func parseSingleDish(dishNode Node) Dish {
 	}
 
 	return dish
-}
-
-// formatMealPlanToMarkdown converts a MealPlan to Markdown format
-func formatMealPlanToMarkdown(mealPlan MealPlan) string {
-	var sb strings.Builder
-
-	// Iterate through meals in the original order
-	for _, meal := range mealPlan {
-		sb.WriteString("# " + meal.Name + "\n\n")
-
-		for _, dish := range meal.Dishes {
-			sb.WriteString("## " + dish.Name + "\n")
-			if len(dish.Ingredients) > 0 {
-				sb.WriteString("**Składniki:**\n")
-				for _, ing := range dish.Ingredients {
-					sb.WriteString("- " + ing + "\n")
-				}
-				sb.WriteString("\n")
-			} else {
-				sb.WriteString("\n")
-			}
-		}
-	}
-
-	return sb.String()
 }
 
 func findFirstTextNode(n Node) string {
