@@ -36,6 +36,13 @@ func (d *Dish) UnmarshalJSON(data []byte) error {
 
 	if len(d.Ingredients) == 0 && d.IngredientsList != "" {
 		d.Ingredients = ProcessIngredients(d.IngredientsList)
+	} else if len(d.Ingredients) > 0 {
+		// Even if ingredients are provided, we need to process them
+		processedIngredients := make([]string, 0, len(d.Ingredients))
+		for _, ing := range d.Ingredients {
+			processedIngredients = append(processedIngredients, ProcessIngredients(ing)...)
+		}
+		d.Ingredients = processedIngredients
 	}
 
 	return nil
