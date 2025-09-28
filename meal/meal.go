@@ -4,14 +4,15 @@ import "strings"
 
 // Dish represents a single dish with its name and ingredients
 type Dish struct {
-	Name        string
-	Ingredients []string
+	Name            string   `json:"dishName"`
+	Ingredients     []string `json:"ingredients"`
+	IngredientsList string   `json:"ingredientsList"`
 }
 
 // Meal represents a meal with its name and dishes
 type Meal struct {
-	Name   string
-	Dishes []Dish
+	Name   string `json:"mealName"`
+	Dishes []Dish `json:"dishes"`
 }
 
 // Plan represents the structured data for all meals

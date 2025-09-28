@@ -29,7 +29,7 @@ function ensureJQueryLoadedAsync() {
 }
 
 function getMealsAndIngredients() {
-  let meals = {};
+  let meals = [];
 
   $('[data-cy="MealDropdownOptions_div"]').each(function() {
     // Meal type: first non-empty text node inside the meal node
@@ -51,12 +51,15 @@ function getMealsAndIngredients() {
       var ingredients = $(this).find('[data-cy="IngredientsAndRecipes_span"]').text().trim();
 
       dishes.push({
-        name: dishName,
-        ingredients: ingredients
+        dishName: dishName,
+        ingredientsList: ingredients
       });
     });
 
-    meals[mealType] = dishes;
+    meals.push({
+      mealName: mealType,
+      dishes: dishes
+    });
   });
   return meals;
 }
@@ -65,5 +68,5 @@ function getMealsAndIngredients() {
 (async function() {
   await ensureJQueryLoadedAsync();
   const meals = getMealsAndIngredients();
-  console.log(JSON.stringify(meals, null, 2));
+  console.log(meals);
 })();
