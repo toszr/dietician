@@ -65,8 +65,38 @@ function getMealsAndIngredients() {
 }
 
 
+function saveToFile(data, filename) {
+  const json = JSON.stringify(data, null, 2);
+  const blob = new Blob([json], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+function getBestFilename() {
+  let filename = 'meals.json';
+  const dateNode = $('[data-cy="DateItemDetails_div"]');
+  if (dateNode.length) {
+    const dateText = dateNode.text(); // Get all text inside the node
+    const dateMatch = dateText.match(/(\d{2})-(\d{2})-(20\d{2})/); // Find a date with a 20xx year
+    if (dateMatch) {
+      const day = dateMatch[1];
+      const month = dateMatch[2];
+      const year = dateMatch[3];
+      filename = `${day}${month}${year.slice(-2)}.json`;
+    }
+  }
+  return filename;
+}
+
 (async function() {
   await ensureJQueryLoadedAsync();
   const meals = getMealsAndIngredients();
-  console.log(meals);
+  const filename = getBestFilename();
+  saveToFile(meals, filename);
 })();

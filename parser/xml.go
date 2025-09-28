@@ -94,25 +94,7 @@ func parseSingleDish(dishNode Node) meal.Dish {
 	// Get ingredients
 	ingredients := findIngredients(dishNode)
 	if ingredients != "" {
-		// Process ingredients (fix percentages, handle special cases, etc.)
-		fixedIngs := fixIngredientPercentages(strings.Split(ingredients, ","))
-		var mergedIngs []string
-		for i := 0; i < len(fixedIngs); i++ {
-			ing := strings.TrimSpace(fixedIngs[i])
-			if (ing == "bez skóry" || ing == "bez skóry)") && len(mergedIngs) > 0 {
-				if ing == "bez skóry)" {
-					mergedIngs[len(mergedIngs)-1] += ", bez skóry)"
-				} else {
-					mergedIngs[len(mergedIngs)-1] += " (bez skóry)"
-				}
-				continue
-			}
-			if isAllUppercase(ing) {
-				ing = utf8TitleCase(ing)
-			}
-			mergedIngs = append(mergedIngs, ing)
-		}
-		dish.Ingredients = mergedIngs
+		dish.Ingredients = meal.ProcessIngredients(ingredients)
 	}
 
 	return dish
@@ -185,69 +167,4 @@ func findMeals(root Node) []Node {
 		}
 	}
 	return meals
-}
-
-// fixIngredientPercentages joins lines that are broken by percentage numbers (e.g. 62\n5%) -> 62.5%)
-func fixIngredientPercentages(ings []string) []string {
-	var out []string
-	i := 0
-	for i < len(ings) {
-		ing := strings.TrimSpace(ings[i])
-		// If this line ends with a number and the next line starts with a percent, join them
-		if i+1 < len(ings) {
-			next := strings.TrimSpace(ings[i+1])
-			if perc, ok := joinPercent(ing, next); ok {
-				out = append(out, perc)
-				i += 2
-				continue
-			}
-		}
-		out = append(out, ing)
-		i++
-	}
-	// Now join lines that are part of the same parenthesis group
-	return joinParenthesisGroup(out)
-}
-
-// joinParenthesisGroup joins ingredient lines until parentheses are balanced
-func joinParenthesisGroup(ings []string) []string {
-	var result []string
-	var buf string
-	open := 0
-	for _, ing := range ings {
-		if buf != "" {
-			buf += ", " + ing
-		} else {
-			buf = ing
-		}
-		open += strings.Count(ing, "(")
-		open -= strings.Count(ing, ")")
-		if open <= 0 {
-			result = append(result, buf)
-			buf = ""
-			open = 0
-		}
-	}
-	if buf != "" {
-		result = append(result, buf)
-	}
-	return result
-}
-
-// joinPercent joins e.g. "62" and "5%)" into "62.5%)" if next starts with digit(s) and ends with %
-func joinPercent(a, b string) (string, bool) {
-	// a must end with digits, b must start with digits and end with % or %)
-	a = strings.TrimSpace(a)
-	b = strings.TrimSpace(b)
-	if len(a) > 0 && len(b) > 0 && isAllDigits(a[len(a)-1:]) && (strings.HasSuffix(b, "%") || strings.HasSuffix(b, "%)")) {
-		// Find leading digits in b
-		j := 0
-		for j < len(b) && b[j] >= '0' && b[j] <= '9' {
-			j++
-		}
-		if j > 0 {
-			return a + "." + b[:j] + b[j:], true
-		}
-	}
-	return "", false
 }

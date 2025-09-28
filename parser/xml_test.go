@@ -51,9 +51,9 @@ func TestParseXMLToMarkdown(t *testing.T) {
 
 ## Jajecznica
 **Składniki:**
-- jajka 2 szt.
-- masło 10g
-- sól
+- Jajka 2 szt.
+- Masło 10g
+- Sól
 
 `
 
@@ -85,15 +85,15 @@ func TestParseXMLToMarkdown(t *testing.T) {
 
 ## Owsianka
 **Składniki:**
-- płatki owsiane 50g
-- mleko 200ml
+- Płatki owsiane 50g
+- Mleko 200ml
 
 # Obiad
 
 ## Kotlet
 **Składniki:**
-- mięso wieprzowe 100g
-- bułka tarta 20g
+- Mięso wieprzowe 100g
+- Bułka tarta 20g
 
 `
 
@@ -140,8 +140,8 @@ func TestParseXMLToMarkdown(t *testing.T) {
 
 ## Sałatka
 **Składniki:**
-- POMIDOR 100g
-- OGÓREK 50g
+- Pomidor 100g
+- Ogórek 50g
 
 `
 
@@ -167,9 +167,8 @@ func TestParseXMLToMarkdown(t *testing.T) {
 
 ## Mięso
 **Składniki:**
-- wołowina 62
-5%
-- sól
+- Wołowina 62.5%
+- Sól
 
 `
 
@@ -194,8 +193,8 @@ func TestParseXMLToMarkdown(t *testing.T) {
 
 ## Kurczak
 **Składniki:**
-- pierś z kurczaka (bez skóry)
-- sól
+- Pierś z kurczaka (bez skóry)
+- Sól
 
 `
 
@@ -234,8 +233,7 @@ func TestParseXMLToMarkdownWithComplexIngredients(t *testing.T) {
 		Obiad
 		<div data-cy="dish-tile__wrapper">
 			<div data-cy="">Kotlet schabowy</div>
-			<span data-cy="IngredientsAndRecipes_span">mięso wieprzowe (schab 80
-5%), bułka tarta (pszenica), jajko (klasa M, bez skóry), sól morska</span>
+			<span data-cy="IngredientsAndRecipes_span">mięso wieprzowe (schab 80,5%), bułka tarta (pszenica), jajko (klasa M, bez skóry), sól morska</span>
 		</div>
 	</div>
 </root>`
@@ -244,11 +242,10 @@ func TestParseXMLToMarkdownWithComplexIngredients(t *testing.T) {
 
 ## Kotlet schabowy
 **Składniki:**
-- mięso wieprzowe (schab 80
-5%)
-- bułka tarta (pszenica)
-- jajko (klasa M, bez skóry)
-- sól morska
+- Mięso wieprzowe (schab 80.5%)
+- Bułka tarta (pszenica)
+- Jajko (klasa m, bez skóry)
+- Sól morska
 
 `
 
