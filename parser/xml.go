@@ -5,6 +5,51 @@ import (
 	"strings"
 )
 
+// Node represents an XML node structure
+type Node struct {
+	XMLName xml.Name
+	Attr    []xml.Attr `xml:",any,attr"`
+	Nodes   []Node     `xml:",any"`
+	Content string     `xml:",chardata"`
+}
+
+// ParseXMLToMarkdown parses XML data and returns Markdown output
+func ParseXMLToMarkdown(data []byte) (string, error) {
+	var root Node
+	err := xml.Unmarshal(data, &root)
+	if err != nil {
+		return "", err
+	}
+
+	meals := findMeals(root)
+	var sb strings.Builder
+	for _, meal := range meals {
+		// For meal name, use the first non-empty text node (not data-cy based)
+		mealName := findFirstTextNode(meal)
+		if mealName == "" {
+			continue
+		}
+		sb.WriteString("# " + mealName + "\n\n")
+
+		// Process all dishes in this meal
+		sb.WriteString(parseAllDishFromMealToMarkdown(meal))
+	}
+
+	return sb.String(), nil
+}
+
+func findFirstTextNode(n Node) string {
+	if strings.TrimSpace(n.Content) != "" {
+		return strings.TrimSpace(n.Content)
+	}
+	for _, c := range n.Nodes {
+		if t := findFirstTextNode(c); t != "" {
+			return t
+		}
+	}
+	return ""
+}
+
 // parseSingleDishToMarkdown processes a single dish node and returns its markdown representation
 func parseSingleDishToMarkdown(dishNode Node) string {
 	var sb strings.Builder
@@ -68,44 +113,6 @@ func parseAllDishFromMealToMarkdown(meal Node) string {
 	return sb.String()
 }
 
-// ParseXMLToMarkdown parses XML data and returns Markdown output
-func ParseXMLToMarkdown(data []byte) (string, error) {
-	var root Node
-	err := xml.Unmarshal(data, &root)
-	if err != nil {
-		return "", err
-	}
-
-	meals := findMeals(root)
-	var sb strings.Builder
-	for _, meal := range meals {
-		// For meal name, use the first non-empty text node (not data-cy based)
-		mealName := ""
-		var findFirstTextNode func(Node) string
-		findFirstTextNode = func(n Node) string {
-			if strings.TrimSpace(n.Content) != "" {
-				return strings.TrimSpace(n.Content)
-			}
-			for _, c := range n.Nodes {
-				if t := findFirstTextNode(c); t != "" {
-					return t
-				}
-			}
-			return ""
-		}
-		mealName = findFirstTextNode(meal)
-		if mealName == "" {
-			continue
-		}
-		sb.WriteString("# " + mealName + "\n\n")
-
-		// Process all dishes in this meal
-		sb.WriteString(parseAllDishFromMealToMarkdown(meal))
-	}
-
-	return sb.String(), nil
-}
-
 // findFirstDishNameNode finds the first child node with a data-cy attribute (excluding wrappers/ingredients) and return its text
 func findFirstDishNameNode(n Node) string {
 	if ok, val := getAttr(n, "data-cy"); ok && val == "" {
@@ -133,14 +140,6 @@ func findIngredients(n Node) string {
 		}
 	}
 	return ""
-}
-
-// Node represents an XML node structure
-type Node struct {
-	XMLName xml.Name
-	Attr    []xml.Attr `xml:",any,attr"`
-	Nodes   []Node     `xml:",any"`
-	Content string     `xml:",chardata"`
 }
 
 // getAttr returns (ok, value) where ok is true if the attribute is present
