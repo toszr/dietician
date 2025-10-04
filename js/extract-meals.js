@@ -109,4 +109,6 @@ async function extractMeals() {
   saveToFile(meals, filename);
 }
 
-extractMeals();
+(async () => {
+  await extractMeals();
+})();
