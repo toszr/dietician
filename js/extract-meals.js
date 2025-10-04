@@ -1,6 +1,14 @@
+/* Snippet to load and run this script from browser console:
+------------------------------------------------------------------------------
+ fetch('https://cdn.jsdelivr.net/gh/toszr/dietician@main/js/extract-meals.js')
+   .then(response => response.text())
+   .then(text => eval(text));
+------------------------------------------------------------------------------
+*/
+
 "use strict";
 
-function ensureJQueryLoadedAsync() {
+async function ensureJQueryLoadedAsync() {
   return new Promise((resolve) => {
     if (typeof jQuery !== "undefined") {
       resolve();
@@ -94,9 +102,11 @@ function getBestFilename() {
   return filename;
 }
 
-(async function() {
+async function extractMeals() {
   await ensureJQueryLoadedAsync();
   const meals = getMealsAndIngredients();
   const filename = getBestFilename();
   saveToFile(meals, filename);
-})();
+}
+
+await extractMeals();

@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Owsianka kokosowa z jogurtem i musem z owoców tropikalnych z chia",
+        "ingredientsList": "MLEKO, JOGURT NATURALNY, Banan, Ananas, Melon, PŁATKI OWSIANE, Wiórki kokosowe, Płatki kokosowe bez cukru, Granat, Sok z cytryny, Nasiona chia, Ksylitol, Sól"
+      },
+      {
+        "dishName": "Pasta z białego sera i pieczonego łososia z pomidorkami koktajlowymi i bułeczką pszenną",
+        "ingredientsList": "TWARÓG CHUDY, Pomidory koktajlowe, BUŁECZKA MAŁA (PSZENNA 30 G) (MĄKA PSZENNA, WODA, DROŻDŻE, SÓL, OLEJ RZEPAKOWY, KWAS ASKORBINOWY), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), DYNIA PESTKI, ŁOSOŚ (ŚWIEŻY) FILET Z/S TRYM D, Koper ogrodowy, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Guacamole, chips z szynki dojrzewającej i ser ementaler z pieczywem ketogenicznym",
+        "ingredientsList": "Pomidor malinowy, Guacamole, SER EMENTALER, JAJA KURZE, SER GOUDA, Szynka dojrzewająca wędzona, MĄKA MIGDAŁOWA, Sałata rzymska, Szczypiorek, SEZAM BIAŁY, PROSZEK DO PIECZENIA, Oregano"
+      },
+      {
+        "dishName": "Placuszki bananowe z winogronami i jogurtem brzoskwiniowym",
+        "ingredientsList": "JOGURT NATURALNY, Banan, JAJA KURZE, MĄKA OWSIANA (PEŁNOZIARNISTA), Winogrona jasne, Winogrona ciemne, Brzoskwinia kostka, MIGDAŁY, PŁATKI, Cukier wanilinowy, Mięta liście, PROSZEK DO PIECZENIA"
+      },
+      {
+        "dishName": "Naleśniki pełnoziarniste z twarożkiem waniliowym i musem truskawkowym",
+        "ingredientsList": "NALEŚNIKI HOLENDERSKIE PEŁNOZIARNISTE (WODA, MĄKA Z PEŁNEGO ZIARNA PSZENICY, JAJA, OLIWA Z OLIWEK, SÓL, SODA OCZYSZCZONA), TWARÓG RACIBORSKI, JOGURT NATURALNY, Truskawki, Ksylitol, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), CZEKOLADA DESEROWA, Olej rzepakowy"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Paszteciki drożdżowe z mięsem z polędwiczek z kurczaka",
+        "ingredientsList": "MĄKA PSZENNA, TYP 500, Polędwiczki z kurczaka, Woda, Wątróbka (z kurczaka), BULION WARZYWNY, Marchew, Pietruszka, korzeń, MLEKO, Oliwa z oliwek, Drożdże suszone, Profesor Ziółko - groszek czepny, Tymianek, Sól morska, Pieprz mielony, Majeranek"
+      },
+      {
+        "dishName": "Gnocchi buraczane ze szpinakiem i parmezanem",
+        "ingredientsList": "GNOCCHI Z BURAKIEM (SEMOLINA Z PSZENICY DURUM, ZIEMNIAKI, WODA, SUSZONE BURAKI, SÓL), ŚMIETANKA 15% (BEZ LAKTOZY), Szpinak, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), PARMEZAN, ORZECHY LASKOWE, Szpinak baby, Oliwa z oliwek, Oliwa czosnkowa, Olej rzepakowy, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Zupa krem z czerwonej soczewicy z nasionami słonecznika, grzanki z rozmarynem",
+        "ingredientsList": "BULION WARZYWNY, Ziemniaki obrane, CHLEB WIELOZIARNISTY MIX: (MĄKA (PSZENNA, ŻYTNIA, WODA, PŁATKI OWSIANE, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, DROŻDŻE, SEZAM, SÓL, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Papryka mix kostka, Pomidory pelati, Soczewica czerwona, nasiona suche, Cebula, Koncentrat pomidorowy, Słonecznik, Oliwa z oliwek, Czosnek, Kolendra (świeża), Sambal, Sól, Rozmaryn (świeży)"
+      },
+      {
+        "dishName": "Makaron pełnoziarnisty z cytrynowym sosem i orzeszkami nerkowca",
+        "ingredientsList": "Woda, MAKARON PENNE (PEŁNOZIARNISTY), ŚMIETANKA 15% (BEZ LAKTOZY), Cukinia zielona, Cebula, Skórka z limonki (starta), ORZECHY NERKOWCA, SER PARMEZAN, MASŁO, Czosnek, Cytryna, Natka pietruszki"
+      },
+      {
+        "dishName": "Keto ciasteczka \"jeżyki\" z jogurtem orzechowym",
+        "ingredientsList": "JOGURT NATURALNY, MĄKA MIGDAŁOWA, JAJA KURZE, MASŁO KLAROWANE, CZEKOLADA CIEMNA 60% BEZ CUKRU, ORZECHY LASKOWE, Mąka kokosowa, MASŁO ORZECHOWE, Ksylitol, Erytrol"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Caponata z filetem z piersi indyka, mozzarellą i ryżem basmati z bazylią",
+        "ingredientsList": "Filet z piersi indyka, bez skóry, Pomidory pelati kostka, Woda, Ryż basmati Punjabi, Bakłażan, Papryka zielona, Papryka żółta, Suszone pomidory, Bazylia świeża, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), WINO BIAŁE PÓŁWYTRAWNE, Cebula, Cebula czerwona, Oliwki zielone krojone*, Oliwki czarne całe b/p*, Oliwa z oliwek, Tymianek, Czosnek, Natka pietruszki, Oliwa z oliwek"
+      },
+      {
+        "dishName": "Szwedzkie klopsiki wołowe z sosem borówkowym, puree ziemniaczanym i zielonym groszkiem",
+        "ingredientsList": "Ziemniaki obrane, Mięso wołowe zrazowa górna, Groszek zielony, Borówka do mięs, Groszek cukrowy strączkowy Snap Peas Bond, MLEKO, BUŁKA TARTA, JAJA KURZE, ŚMIETANKA 15% (BEZ LAKTOZY), Pieprz mielony, Sól, Mielona gałka muszkatołowa, Ziele angielskie, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA)"
+      },
+      {
+        "dishName": "Boczniaki z truflami w delikatnym sosie na bazie mleczka kokosowego z makaronem chow main",
+        "ingredientsList": "Woda, MAKARON CHOW MEIN, Mleczko kokosowe RealThai, Brokuły, Marchew, Cukinia zielona, Boczniaki, ŚMIETANKA VEGETOP 33%, Cebula, BULION WARZYWNY, Papryka zielona, ORZECHY ZIEMNE GRYS, Kiełki fasoli mung, Por, SEZAM BIAŁY, Czosnek, Pasta truflowa, OLEJ SEZAMOWY, Sól, Pieprz mielony, Natka pietruszki"
+      },
+      {
+        "dishName": "Rostbef wołowy w sosie dijon z frytkami z pietruszki, selera i rzepy i kaszą bulgur",
+        "ingredientsList": "Wołowina, rostbef, Woda, ŚMIETANKA 15% (BEZ LAKTOZY), KASZA BULGUR, Rzepa arbuzowa, Pietruszka, korzeń, SELER KORZENIOWY, BULION WARZYWNY, Oliwa z oliwek, MUSZTARDA DIJON, Cebula, Sok z cytryny, Natka pietruszki, Profesor Ziółko - groszek czepny, Czosnek, Rozmaryn (świeży), Sól"
+      },
+      {
+        "dishName": "Filet kurczęcy w sosie musztardowo - tymiankowym z \"ziemniaczkami\" z kalarepy i kalafiorem",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Kalarepa, Kalafior, BULION WARZYWNY, ŚMIETANKA VEGETOP 33%, Słonecznik, Cebula, MUSZTARDA FRANCUSKA, Czosnek, Mąka z tapioki, Oliwa z oliwek, Tymianek, MUSZTARDA, Pieprz mielony, Sól, Sól morska, Koper ogrodowy, Przyprawa do ziemniaków, Sambal, Czosnek granulowany, Majeranek, Kurkuma"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Pudding czekoladowy z tapioki z chipsem kokosowym",
+        "ingredientsList": "MLEKO SPOŻYWCZE 2%, Tapioka (granulat suchy), CZEKOLADA GORZKA, Chipsy kokosowe, Ksylitol"
+      },
+      {
+        "dishName": "Terrina owocowa z mango i borówkami",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, MLEKO SPOŻYWCZE 2%, Truskawki, Jagody czarne (mrożone), Mango, Borówki amerykańskie, BIAŁKO JAJA (KURZEGO), ŻÓŁTKO JAJA, Ksylitol, Miód pszczeli, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Żelatyna, MĄKA PSZENNA, TYP 500, Skrobia ziemniaczana"
+      },
+      {
+        "dishName": "Quasedilla wegetariańska zapiekana z mozzarellą",
+        "ingredientsList": "TORTILLA PEŁNOZIARNISTA (MĄKA PSZENNA PEŁNOZIARNISTA, WODA, OLEJ RZEPAKOWY, STABILIZATORY: GLICEROL, GUMA GUAR, GLUTEN PSZENNY, SÓL, GLUKOZA, EMULGATOR: MONO- I DIGLICERYDY KW. TŁUSZCZOWYCH, WĘGLANY SODU), Chrupiąca Sałatka Sombrero Minute 2,5 kg, Pomidory pelati, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), Kukurydza konserwowa, Fasola czerwona w zalewie (konserwowa), Cebula, Pietruszka, korzeń, Koncentrat pomidorowy, Szpinak baby, Marchew, Czosnek, Sól, Przyprawa fajita, Pieprz mielony, Ksylitol"
+      },
+      {
+        "dishName": "Gofry cukiniowo - kokosowe z mixem past: z zielonej soczewicy i twarożku ziołowego",
+        "ingredientsList": "JAJA KURZE, TWARÓG RACIBORSKI, Cukinia zielona, Woda, Soczewica zielona nasiona suche, MĄKA ORKISZOWA JASNA, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Suszone pomidory (w oleju z ziołami, odsączone), SER CHEDDAR, Sok cytrynka, JOGURT NATURALNY, MASŁO, Tahini, Cebula, Czosnek, Oliwa z suszonych pomidorów (oliwa), Pieprz mielony, Czarnuszka, PROSZEK DO PIECZENIA, Szczypiorek, Koper ogrodowy, Bazylia świeża, Natka pietruszki, Profesor Ziółko - kiełki słonecznika, Kurkuma, Sól"
+      },
+      {
+        "dishName": "Jogurt wiśniowy z chipsami kokosowymi",
+        "ingredientsList": "JOGURT NATURALNY, Wiśnie, KREM ANGIELSKI, Chipsy kokosowe, Ksylitol"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Makaron tagliatelle alfredo z szynką Prociutto Crudo i suszonymi pomidorami",
+        "ingredientsList": "Woda, MAKARON TAGLIATELLE (JASNY), ŚMIETANKA VEGETOP 33%, Szynka Prosciutto Crudo, BULION WARZYWNY, Rukola, Suszone pomidory, Cebula, SER PARMEZAN, Czosnek, Oliwa z oliwek, WINO BIAŁE PÓŁWYTRAWNE, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Makaron Tortiglioni z kolorowymi warzywami w kremowym sosie pomidorowym",
+        "ingredientsList": "Woda, MAKARON TORTIGLIONI, Pomidory pelati, Marchew, Cukinia zielona, Oliwki czarne, ŚMIETANKA 15% (BEZ LAKTOZY), SER RICOTTA MIĘKKA, Bakłażan, Szpinak baby, Oliwa z oliwek, Bazylia świeża, Natka pietruszki, WINO BIAŁE PÓŁWYTRAWNE, Sól, Pieprz mielony, Pieprz młotkowany kolorowy"
+      },
+      {
+        "dishName": "Chili sin carne z czarnym ryżem i kolendrą",
+        "ingredientsList": "Pomidory pelati, Ryż czarny, Woda, Dynia piżmowa, BULION WARZYWNY, Woda, Fasola czarna nasiona suche, Cebula, ORZECHY ZIEMNE GRYS, Koncentrat pomidorowy, Oliwa z oliwek, Syrop klonowy, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Sok z limonki, Cynamon, Kolendra (świeża)"
+      },
+      {
+        "dishName": "Wegański paprykarz z pieczywem i pomidorkami koktajlowymi",
+        "ingredientsList": "Pomidory koktajlowe, CHLEB SŁONECZNIKOWY (MĄKA: ŻYTNIA TYP 2000, MĄKA PSZENNA TYP 1850, WODA, SŁONECZNIK, SÓL, DROŻDŻE), Cebula, Ryż biały, Woda, Marchew, Koncentrat pomidorowy, Oliwa z oliwek, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Algi nori (arkusze), Ziele angielskie, Papryka słodka (mielona), Papryka słodka, wędzona (mielona), Profesor Ziółko - groszek czepny, Liść laurowy, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Kotlety słonecznikowo - marchewkowe z sosem jogurtowo szczypiorkowym i kiszoną kapustą",
+        "ingredientsList": "Marchew Brunoise, Kapusta kiszona, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, JAJA KURZE, Słonecznik, Mąka kokosowa, Jabłko, Marchew, Szczypiorek, Olej kokosowy (rafinowany), Olej rzepakowy, Ksylitol, Sól, Natka pietruszki, Kmin rzymski (kumin), Pieprz mielony, Sok z cytryny, Mielona papryka chili"
+      }
+    ]
+  }
+]
