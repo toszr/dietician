@@ -1,8 +1,8 @@
 /* Snippet to load and run this script from browser console:
 ------------------------------------------------------------------------------
- fetch('https://cdn.jsdelivr.net/gh/toszr/dietician@main/js/extract-meals.js')
-   .then(response => response.text())
-   .then(text => eval(text));
+fetch('https://cdn.jsdelivr.net/gh/toszr/dietician@v0.2.0/js/extract-meals.js')
+  .then(response => response.text())
+  .then(text => eval(text));
 ------------------------------------------------------------------------------
 */
 
@@ -29,8 +29,14 @@ async function ensureJQueryLoadedAsync() {
     script.src = "https://code.jquery.com/jquery-3.7.1.min.js";
     script.type = "text/javascript";
     script.onload = function() {
-      window._loadingJQuery = false;
-      resolve();
+      // Poll until jQuery is available, as onload doesn't guarantee it's ready.
+      const poll = setInterval(function() {
+        if (typeof jQuery !== "undefined") {
+          clearInterval(poll);
+          window._loadingJQuery = false;
+          resolve();
+        }
+      }, 50);
     };
     document.head.appendChild(script);
   });
