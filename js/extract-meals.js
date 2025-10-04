@@ -109,4 +109,4 @@ async function extractMeals() {
   saveToFile(meals, filename);
 }
 
-await extractMeals();
+extractMeals();
