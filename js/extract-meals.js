@@ -1,8 +1,10 @@
 /* Snippet to load and run this script from browser console:
 ------------------------------------------------------------------------------
-fetch('https://cdn.jsdelivr.net/gh/toszr/dietician@v0.3.0/js/extract-meals.js')
+fetch('https://cdn.jsdelivr.net/gh/toszr/dietician@v0.4.0/js/extract-meals.js')
   .then(response => response.text())
   .then(text => eval(text));
+--------------------------------- or, a bookmarklet: -------------------------
+javascript:(function(){fetch('https://cdn.jsdelivr.net/gh/toszr/dietician@v0.4.0/js/extract-meals.js').then(r=>r.text()).then(t=>eval(t))})();
 ------------------------------------------------------------------------------
 */
 
@@ -22,11 +24,8 @@ function run($) {
 
       let dishes = [];
       $(this).find('[data-cy="dish-tile__wrapper"]').each(function() {
-        // Dish name: first child node with a data-cy attribute that is not a wrapper or ingredients
-        var dishName = $(this).find('[data-cy]').filter(function() {
-          var val = $(this).attr('data-cy');
-          return val !== "dish-tile__wrapper" && val !== "IngredientsAndRecipes_span";
-        }).first().text().trim();
+        // Dish name: all text from nodes with data-cy="MenuDishName_div"
+        var dishName = $(this).find('[data-cy="MenuDishName_div"]').text().trim();
 
         // Ingredients: all text from nodes with data-cy="IngredientsAndRecipes_span"
         var ingredients = $(this).find('[data-cy="IngredientsAndRecipes_span"]').text().trim();
