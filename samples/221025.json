@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Owsianka ze śliwkami, orzechami, jogurtem z miodem i owocami: melon, jabłko i winogrona",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Frittata z serem mozzarella i pieczarkami, sosem pomidorowo- paprykowym i pieczywo żytnie",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Tortilla de \"patatas\" z kalarepą  i sosem tatarskim",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Placuszki z morelami z serkiem waniliowym i musem truskawkowym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Baba ghanoush z pitą i sałatką libańską",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Koktajl brzoskwiniowy",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Placuszki gryczane z jabłkami, jogurtem naturalnym i kremem czekoladowym z cukinii",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Zupa curry na mleczku kokosowym z krewetką",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Ciasto jogurtowe z jagodami",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Mini kanapeczki z serem camembert, winogronami i orzechami włoskimi",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Polędwiczka wieprzowa w sosie grzybowym z kopytkami i buraczkami",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Filet z piersi kurczaka w sosie śliwkowym z kaszą bulgur i czerwoną kapustą",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Pieczony ser z sosem ogórkowym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Makaron soba z krewetkami z orzeszkami ziemnymi, groszkiem cukrowym, kiełkami fali mung i cukinią",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Makaron fetucinnie z sosem dyniowym i serem typu greckiego",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Muffiny czekoladowe z malinami",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Krem z cukinii z makaronem pełnoziarnistym i mini mozzarellą",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Paszteciki drożdżowe z kurczakiem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Placuszki cukiniowe z boczkiem wędzonym i sosem koperkowym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Smoothie truskawkowo-bananowe",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Twarożek z rzodkiewką i szczypiorkiem oraz pieczywem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Naleśnik pełnoziarnisty z kurczakiem, serkiem mascarpone i brokułem, sos szczypiorkowy na jogurcie",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Sałatka z kurczakiem, serem camembert i granatem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Krem z pieczonego jabłka z chrustem pszennym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Quinoa po meksykańsku",
+        "ingredientsList": ""
+      }
+    ]
+  }
+]

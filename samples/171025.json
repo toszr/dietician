@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Szakszuka z jajkiem i bagietką",
+        "ingredientsList": "JAJA KURZE, Cukinia zielona, Papryka czerwona, Pomidory pelati, PALUCH RUSTICO (MĄKA (PSZENNA, ŻYTNIA), PŁATKI OWSIANE, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, DROŻDŻE, SEZAM, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Cebula, Koncentrat pomidorowy, DYNIA PESTKI, Oliwa z oliwek, Papryka słodka (mielona), Papryka słodka, wędzona (mielona), Cynamon, Kurkuma, Natka pietruszki, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Owsianka waniliowa z musem rabarbarowo - pomarańczowym z kawałkami owoców",
+        "ingredientsList": "Woda, Rabarbar (mrożony), MLEKO SPOŻYWCZE 2%, JOGURT NATURALNY, PŁATKI OWSIANE, ŚMIETANA, KREM ANGIELSKI, Ksylitol, Figi suszone, MIGDAŁY, PŁATKI, Sok pomarańczowy, Nasiona chia, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%))"
+      },
+      {
+        "dishName": "Tortilla z pastą jajeczną i warzywami, ogórek i rzodkiewka",
+        "ingredientsList": "TORTILLA PSZENNA, Ogórek zielony (długi), JAJA KURZE, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Rzodkiewka, Szpinak baby, Sałata lodowa, Słonecznik, Koper ogrodowy, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Mix past: Pasta z zielonego groszku, twarożek z bazylią z grissini i słupkami warzyw",
+        "ingredientsList": "Groszek zielony, TWARÓG RACIBORSKI, Marchew, SELER NACIOWY, JOGURT NATURALNY, Woda, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), MĄKA ŻYTNIA, TYP 2000, MĄKA ORKISZOWA JASNA, Oliwa z oliwek, BULION WARZYWNY, Bazylia świeża, Koper ogrodowy, Flora Professional Plant 15%, Natka pietruszki, Sok cytrynka, Czosnek, Zioła prowansalskie, Płatki chili, Drożdże (piekarskie świeże), Ksylitol, Sól himalajska, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Placuszki z cytrynowym serkiem silken tofu i musem truskawkowym",
+        "ingredientsList": "Truskawki, TWARÓG BEZ LAKTOZY MLEKOVITA, Woda, BIAŁKO JAJA (KURZEGO), Ksylitol, ŻÓŁTKO JAJA, MĄKA MIGDAŁOWA, Babka płesznik (jajowata), JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Olej rzepakowy, ORZECHY LASKOWE, Sok cytrynka, Skórka z cytryny (starta)"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Pudding śmietankowy z sosem z czerwonej porzeczki",
+        "ingredientsList": "MLEKO, Porzeczki czerwone, KREM ANGIELSKI, Miód pszczeli, Skrobia ziemniaczana"
+      },
+      {
+        "dishName": "Pieczone kalafiory z pesto z rukoli i fistaszków",
+        "ingredientsList": "Kalafior, NAPÓJ SOJOWY BEZ CUKRU, Oliwa z oliwek, Mąka z ciecierzycy, Cebula prażona, Słonecznik, Rukola, ORZECHY ZIEMNE GRYS, Ser wegański Prosociano tarty, Natka pietruszki, Olej rzepakowy, Sok z cytryny, Czosnek, Rama Combi Profi, Curry, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Placek z burakiem i szpinakiem",
+        "ingredientsList": "MĄKA PSZENNA TYP \"00\" NA PIZZĘ, Burak gotowany, TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Woda, Szpinak baby, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), JAJA KURZE, Pieprz mielony, Drożdże suszone, Ksylitol, Sól"
+      },
+      {
+        "dishName": "Sałatka z batatem, serem pleśniowym, granatem i sosem vinaigrette",
+        "ingredientsList": "Brokuły, Bataty, SER LAZUR BŁĘKITNY ĆWIARTKI, Sałata lodowa, Oliwa z oliwek, Granat, Szpinak baby, MUSZTARDA FRANCUSKA, Woda, Ocet biały winny, Ksylitol, Natka pietruszki, MUSZTARDA, Koper ogrodowy"
+      },
+      {
+        "dishName": "Orzechowo-czekoladowa siemianka z wiśniami",
+        "ingredientsList": "MLEKO BEZLAKTOZOWE 1,5%UHT, Wiśnie, Siemię lniane (mielone), Erytrol, MASŁO ORZECHOWE, CZEKOLADA DESEROWA"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Dzwonek z halibuta z sosem holenderskim, patatkami i fasolką szparagową",
+        "ingredientsList": "HALIBUT TUSZKA, Ziemniaki Baby Patatki, Fasolka szparagowa żóła, Fasolka szparagowa zielona cięta 2,5kg, MASŁO, Cytryna, ŻÓŁTKO JAJA, Sok z cytryny, Sól, Pieprz mielony, Pieprz cytrynowy, Sok cytrynka, Oliwa z oliwek, Koper ogrodowy, Rozmaryn"
+      },
+      {
+        "dishName": "Pulpeciki z mozzarellą w sosie śmietanowym z kaszą kuskus i tartą marchewką z natką",
+        "ingredientsList": "Polędwiczki z kurczaka, Marchew, Woda, KUSKUS PERŁOWY, BULION WARZYWNY, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), ŚMIETANKA 15% (BEZ LAKTOZY), Natka pietruszki, Pietruszka, korzeń, Sok z cytryny, Erytrol, Pieprz mielony, Oliwa z oliwek, Sól"
+      },
+      {
+        "dishName": "Tofu Bourguignon - po burgundzku z champignons",
+        "ingredientsList": "Ziemniaki obrane, TOFU NATURALNE, BULION WARZYWNY, Por, Cebula, Koncentrat pomidorowy, Cebulka perłowa, Pieczarki, Marchew, TOFU WĘDZONE, Olej rzepakowy, Oliwa z oliwek, WINO CZERWONE (PÓŁWYTRAWNE), Sól, Pieprz mielony, Papryka słodka (mielona), Tymianek gałązka do ozdoby, Tymianek"
+      },
+      {
+        "dishName": "Miętus w pesto z rukoli z sosem cytrynowym, brązowym ryżem i pieczonymi warzywami: papryką i cukinią",
+        "ingredientsList": "MIĘTUS, FILET ZE SKÓRĄ, Ryż brązowy, Woda, Cukinia zielona, Papryka czerwona, BULION WARZYWNY, ŚMIETANKA 15% (BEZ LAKTOZY), Oliwa z oliwek, Rukola, Sok z cytryny, Szalotka, Słonecznik, Sok cytrynka, Mąka z tapioki, Czosnek, Skórka z cytryny (starta), Sól, Pieprz mielony, Tymianek"
+      },
+      {
+        "dishName": "Kuleczki wołowe z puree dyniowym i kiszoną kapustą",
+        "ingredientsList": "Mięso wołowe mielone (I trimming wołowy), Kapusta kiszona, Ziemniaki obrane, Dynia, Woda, ŚMIETANKA VEGETOP 33%, Cebula, ŚMIETANKA 15% (BEZ LAKTOZY), Jabłko, Marchew, MUSZTARDA DIJON, Pietruszka, korzeń, BULION WARZYWNY, Demi Glaze, Czosnek, MASŁO, Majeranek, Oliwa z oliwek, Olej rzepakowy, Ksylitol, Sól, Mielona gałka muszkatołowa, Pieprz mielony, Natka pietruszki, Sól morska"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Deser Red Velvet",
+        "ingredientsList": "SER NA SERNIK, RED VELVET (MĄKA PSZENNA, JAJA, OLEJ RZEPAKOWY, PROSZEK DO PIECZENIA, KSYLITOL, KONCENTRAT Z BURAKA), JOGURT NATURALNY, Olej rzepakowy, JAJA KURZE, KREM ANGIELSKI, Woda, Maliny (mrożone), CZEKOLADA OŁÓWKI MINI, Granat"
+      },
+      {
+        "dishName": "Koktajl bananowo - truskawkowy",
+        "ingredientsList": "MLEKO SPOŻYWCZE 2%, Truskawki, Banan, Ksylitol"
+      },
+      {
+        "dishName": "Pasta fava z pitą i warzywami: pomidorem, ogórkiem i cebulą",
+        "ingredientsList": "CHLEB PITA (MĄKA PSZENNA, WODA, DROŻDŻE, SÓL JODOWANA, CUKIER, OLEJ ROŚLINNY), Woda, Pomidor, Groch, nasiona suche, Ogórek zielony (długi), Cebula, Cebula czerwona, Oliwki zielone całe, Oliwa z oliwek, Sok z cytryny, Sól, Pieprz czarny ziarnisty, Liść laurowy"
+      },
+      {
+        "dishName": "Zapiekane placuszki warzywne z sałatką z serem mozzarella",
+        "ingredientsList": "Pomidory koktajlowe, SER MOZZARELLA MINI, JOGURT NATURALNY, Cukinia zielona, BIAŁKO JAJA (KURZEGO), Oliwki zielone krojone*, Por, Marchew, Papryka czerwona, Cebula czerwona, DYNIA PESTKI, Sałata lodowa, Skrobia ziemniaczana, SER HALLOUMI, PŁATKI OWSIANE, Szpinak baby, Szczypiorek, Słonecznik, Ksylitol, Pieprz mielony, Sól morska"
+      },
+      {
+        "dishName": "Panna Cotta z gorzką czekoladą",
+        "ingredientsList": "Mleczko kokosowe, JOGURT NATURALNY, Nasiona chia, CZEKOLADA DESEROWA, Ksylitol, Olej kokosowy (rafinowany), Żelatyna"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Sałatka Grecka",
+        "ingredientsList": "SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Pomidor malinowy, Pomidor żółty, Sałata lodowa, Papryka czerwona, Papryka zielona, Papryka żółta, Oliwki zielone całe Chalkidiki, Oliwki królewskie czarne, Oliwa z oliwek, DYNIA PESTKI, MUSZTARDA FRANCUSKA, Koper ogrodowy, Natka pietruszki, Sok cytrynka, Tymianek, Zioła prowansalskie, Oregano, Ksylitol"
+      },
+      {
+        "dishName": "Makaron spaghetti all ragu",
+        "ingredientsList": "Woda, Pomidory pelati, Polędwiczki z kurczaka, MAKARON SPAGHETTI JASNY, Marchew, Pietruszka, korzeń, Koncentrat pomidorowy, SER PARMEZAN, SELER NACIOWY, Oliwa z oliwek, Szpinak baby, Ksylitol, Oregano, WINO CZERWONE (PÓŁWYTRAWNE), Sól, Pieprz mielony, Majeranek"
+      },
+      {
+        "dishName": "Vege bulion z tempehem i makaronem orzo",
+        "ingredientsList": "BULION WARZYWNY, TEMPEH, MAKARON ORZO, Woda, Pieczarki, Boczniaki, Cebula, Pietruszka, korzeń, Marchew, SELER KORZENIOWY, Imbir świeży, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Por, Natka pietruszki, Oliwa z oliwek, Lubczyk, Kurkuma, Sól, Pieprz mielony, Papryka słodka (mielona), Papryka słodka, wędzona (mielona), Mielona papryka chili"
+      },
+      {
+        "dishName": "Pasztet staropolski z sosem malinowym, pieczywem i kiszonym ogórkiem",
+        "ingredientsList": "OGÓRKI KISZONE, Wątróbka (z kurczaka), CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Maliny (mrożone), Polędwiczki z kurczaka, Cebula, Wieprzowina (schab, szynka, karkówka), DYNIA PESTKI, BIAŁKO JAJA KURZEGO, ŚMIETANKA 15% (BEZ LAKTOZY), Marchew, Śliwki suszone, Natka pietruszki, Oliwa z oliwek, Pietruszka, korzeń, Czosnek, Ksylitol, Pieprz mielony, Rozmaryn (świeży), Sól, Jałowiec, Majeranek, Ziele angielskie"
+      },
+      {
+        "dishName": "Keto pizza na serowym spodzie z salami salsiccia piccante, panchettą i serem pleśniowym",
+        "ingredientsList": "SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Pomidory pelati, Oliwki czarne całe b/p*, JAJA KURZE, SER LAZUR SREBRZYSTY, Cebula czerwona, Salami popularne, Boczek Pancetta Arrotolata, ŻÓŁTKO JAJA, Rukola, Ksylitol, Sól, Pieprz mielony, Oregano"
+      }
+    ]
+  }
+]

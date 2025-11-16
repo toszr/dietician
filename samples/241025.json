@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Jajka na ubijanej fecie z pitą i pieczonymi warzywami",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Keto gofry z wegańskim twarożkiem brzoskwiniowym, sosem wiśniowym i bitą śmietaną",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Wytrawny pancake z oliwkami, serek ogórkowo-ziołowy i pomidorki cherry",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Owsianka z malinami, jogurtem waniliowym i jabłkiem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Pełnoziarniste placuszki ze śliwkami i jogurtem",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Mix past: Pasta ziołowa i pasta z suszonymi pomidorami, grissini z rozmarynem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Muffinki z awokado z sosem koperkowym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Zielona sałatka z kuskusem, serem typu feta i słonecznikiem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Zupa krem z selera z grzankami",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Lemon Ricotta Pasta - penne z sosem cytrynowym i płatkami migdałów",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Fishburger z sosem tatarskim, ogórkami kiszonymi, czerwoną cebulą i pomidorem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Okoń morski z kaszą pęczak, sosem koperkowym i surówką z białej kapusty",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Szynka wieprzowa z sosem grzybowym, kąskami serowymi i surówką z czerwonej kapusty",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Kurczak w sosie rozmarynowo-cytrynowym z ryżem jaśminowym i surówką z marchewki, jabłka i selera",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Pierogi z dynią, białym serem i sosem rozmarynowym",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Budyń czekoladowy z owocami leśnymi",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Risotto z dynią i serem gran regale",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Kardamonka - szwedzka bułeczka drożdżowa z kardamonem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Sałatka z serem Halloumi i ciecierzycą",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Jogurt waniliowy z płatkami migdałów",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Sałatka z dynią, burakiem i serem kozim",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Zupa Pho Bo z makaronem sojowym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Golonka pieczona z sosem musztardowym i kiszoną kapustą",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Pappardelle w buraczanym pesto z delikatnymi klopsikami z piersi kurczaka i kalafiora",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Quiche ze szpinakiem i serem typu feta",
+        "ingredientsList": ""
+      }
+    ]
+  }
+]

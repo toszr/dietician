@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Lana kasza manna z musem z czarnego bzu i jagód, z płatkami migdałów i melonem",
+        "ingredientsList": "MLEKO, Melon cantaloupe, Jagody czarne (mrożone), KASZA MANNA, ORZECHY ZIEMNE GRYS, MIGDAŁY (PŁATKI), Pasta owocowo smakowa Czarny Bez, Ksylitol, Miód pszczeli"
+      },
+      {
+        "dishName": "Tosty z burakiem i kozim serem na rukolii, sos szczypiorkowy",
+        "ingredientsList": "JOGURT NATURALNY, CHLEB TOSTOWY PEŁNOZIARNISTY (MĄKA PSZENNA, WODA, ZIARNO ŻYTA, SIEMIĘ LNIANE, ZIARNO SŁONECZNIKA, OTRĘBY PSZENNE, DROŻDŻE, SÓL, SŁÓD JĘCZMIENNY , ŚRODEK WYPIEKOWY), Burak gotowany, SER KOZI W PLASTRACH (PODPUSZCZKA MIKROBIOLOGICZNA), Cebula czerwona, Oliwa z oliwek, Rukola, Bazylia świeża, Koper ogrodowy, Czosnek, ORZECHY NERKOWCA, Płatki drożdżowe, Sok z cytryny, Krem balsamiczny, Pieprz mielony, Sól, Sól morska"
+      },
+      {
+        "dishName": "Cukiniowe muffiny śniadaniowe z szynką dojrzewającą i sosem bazyliowym",
+        "ingredientsList": "JOGURT NATURALNY, BIAŁKO JAJA KURZEGO, JAJA KURZE, Szynka dojrzewająca wędzona, Cukinia zielona, DYNIA PESTKI, OTRĘBY OWSIANE, Bazylia świeża, Por, Szpinak baby, Szczypiorek"
+      },
+      {
+        "dishName": "Pasta z wędzonego dorsza z keto pieczywem i pomidorami cherry",
+        "ingredientsList": "Pomidory cherry czerwone, SEREK ALMETTE BEZ LAKTOZY, DORSZ CZARNIAK B/S FILET MROŻONY, JAJA KURZE, Słonecznik, MAJONEZ Z OLEJEM RZEPAKOWYM, Olej kokosowy (rafinowany), Mąka kokosowa, Babka płesznik (jajowata), Koper ogrodowy, PROSZEK DO PIECZENIA, Pieprz mielony, Sól himalajska, Bazylia suszona, Oregano, Sok z cytryny, Dym wędzarniczy"
+      },
+      {
+        "dishName": "Jaglanka ze skórką cytrynową, rabarbar duszony z mango i jogurt naturalny",
+        "ingredientsList": "MLEKO SPOŻYWCZE 2%, JOGURT NATURALNY, Kasza jaglana, Rabarbar (mrożony), Mango, ORZECHY ZIEMNE GRYS, Ksylitol, Erytrol, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Skórka z cytryny (starta)"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Zupa Tom Yum z makaronem vermicelli",
+        "ingredientsList": "BULION WARZYWNY, Woda, Pomidory pelati, Włoszczyzna, Makaron ryżowy Vermicelli, Mleczko kokosowe RealThai, Cebula, SEZAM BIAŁY, OLEJ SEZAMOWY, Czosnek, SEZAM CZARNY, Sok cytrynka, Trawa cytrynowa surowa cała, Kolendra (świeża), Imbir świeży, Tom Yum, SOS RYBNY"
+      },
+      {
+        "dishName": "Sałatka z serem Lazur i sosem balsamicznym",
+        "ingredientsList": "SELER NACIOWY, Ogórek zielony (długi), SER LAZUR BŁĘKITNY ĆWIARTKI, Oliwki czarne całe b/p*, Oliwa z oliwek, ORZECHY PEKAN, Sałata Freeze, Sałata rzymska, Ocet balsamiczny, Miód pszczeli, Rukola, Bazylia świeża, Botwinka liść"
+      },
+      {
+        "dishName": "Mix past: Pasta z ricotty i pasta z fasoli ze słupkami warzyw i pieczywem",
+        "ingredientsList": "SER RICOTTA MIĘKKA, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Ogórek zielony (długi), Papryka czerwona, Fasola biała nasiona suche, Pomidory pelati, Woda, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Koncentrat pomidorowy, Bazylia świeża, Szczypiorek, Natka pietruszki, Oliwa z oliwek, Czosnek, Papryczka ostra (chili), Sól, Pieprz mielony, Profesor Ziółko - groszek czepny"
+      },
+      {
+        "dishName": "Ciasteczka orzechowe z kawałkami czekolady",
+        "ingredientsList": "MASŁO ORZECHOWE, JAJA KURZE, CZEKOLADA DESEROWA, Erytrol, ODŻYWKA BIAŁKOWA (WPC), Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Sól morska"
+      },
+      {
+        "dishName": "Makaron rigatini z mini mozzarellą, cukinią i suszonymi pomidorami",
+        "ingredientsList": "Woda, MAKARON RIGATONI, ŚMIETANKA 15%, Cukinia zielona, SER MOZZARELLA MINI, Karczochy cięte w zalewie, Pomidory cherry czerwone, BULION WARZYWNY, Suszone pomidory, Rukola, SER PARMEZAN (MLEKO NIEPASTERYZOWANE, SÓL, PODPUSZCZKA, SUBSTANCJA KONSERWUJĄCA: LIZOZYM JAJECZNY), Pieprz mielony, Sok cytrynka, Bazylia świeża, Sól, Oregano, Oliwa z oliwek, Sól morska"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Łosoś z czarnym makaronem tagliolini w sosie maślano - pomidorowym z natką i grillowaną cukinią",
+        "ingredientsList": "ŁOSOŚ, Woda, Cukinia zielona, TAGLIOLINI SEPIA RZEMIEŚLNICZE (SEMOLINA, JAJA, SEPIA (CZARNY ATRAMENT Z KAŁAMARNICY, WODA, SÓL), Pomidory pelati kostka, Pomidory koktajlowe, śliwkowe, BULION WARZYWNY, ŚMIETANKA VEGETOP 33%, Oliwki zielone całe, Cebula czerwona, Cytryna, Pomidory pelati, Oliwa z oliwek, Sambal, Czosnek, KONCENTRAT FONDU ZE SKORUPIAKÓW, Natka pietruszki, SOS RYBNY, WINO BIAŁE, WYTRAWNE, Sól, Pieprz cytrynowy, Oliwa z oliwek, Profesor Ziółko - groszek czepny, Pieprz mielony"
+      },
+      {
+        "dishName": "Korma z tofu, ryżem brązowym, groszkiem cukrowym i brukselką w sezamie",
+        "ingredientsList": "TOFU NATURALNE, Ryż brązowy, Woda, Pomidory pelati kostka, Brukselka, Groszek cukrowy strączkowy Snap Peas Bond, Brokuł kalibrowany 10-20, BULION WARZYWNY, Papryka żółta, Cebula, Cebula czerwona, Olej rzepakowy, MIGDAŁY (PŁATKI), SEZAM CZARNY, Wiórki kokosowe, Oliwa z oliwek, Czosnek, Imbir mielony, Sól Kala Namak, Kolendra (świeża), Cynamon, Pieprz cayenne, Kmin rzymski (kumin), Mleczko kokosowe RealThai, Garam Masala, Mielona papryka chili, Czosnek granulowany, OLEJ SEZAMOWY"
+      },
+      {
+        "dishName": "Klopsiki z kurczaka w stylu azjatyckim z \"makaronem\" z marchewki i sezamem",
+        "ingredientsList": "Polędwiczki z kurczaka, Marchew, Wok Thai (Marchew, Kukurydza, Por, Cebula, Grzyby mun, Fasolka szparagowa), BULION WARZYWNY, SOS TERIYAKI, Sos sweet-chili (cukier, woda, czerwone chili, czosnek, sól, skrobia kukurydziana, kwas octowy), SEZAM BIAŁY, SEZAM CZARNY, ŻÓŁTKO JAJA, Cebula dymka, PANKO, Oliwa z oliwek, OLEJ SEZAMOWY, Czosnek, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Imbir świeży, Kolendra (świeża), Pieprz mielony, Sól, Sól morska"
+      },
+      {
+        "dishName": "Wegańskie kofty z ciecierzycy z pieczonymi ziemniaczkami, sosem tzatzyki i sałatką z pomidorami, oliwkami i ogórkiem zielonym",
+        "ingredientsList": "Ziemniaki Baby Patatki, Cukinia zielona, Pomidor, Ciecierzyca nasiona suche, Woda, JOGURT NATURALNY, Ogórek zielony (długi), Mąka z ciecierzycy, MĄKA ORKISZOWA JASNA, Papryka zielona, DYNIA PESTKI, Oliwki zielone krojone*, Cebula czerwona, BULION WARZYWNY, Czosnek, Oliwa z oliwek, Szczypiorek, Ocet biały winny, Imbir świeży, Pieprz mielony, Oregano, Sól, Rozmaryn (świeży), Kmin rzymski (kumin), Ras El Hanout"
+      },
+      {
+        "dishName": "Polędwiczki wieprzowe w prosciutto cotto z buraczkami i gnocchi",
+        "ingredientsList": "Polędwica wieprzowa (surowa), GNOCCHI NATURALNE, Burak gotowany, ŚMIETANKA 15%, Prosciutto Cotto, BULION WARZYWNY, Demi Glaze, Natka pietruszki, Rozmaryn (świeży), Pieprz mielony, Tymianek, Olej rzepakowy, Pieprz zielony, Sól, Sok cytrynka, Ksylitol, Sól morska"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Tapioka waniliowa z musem mango-marakuja",
+        "ingredientsList": "MLEKO, Pulpa z Marakui z pestkami Koala, Mango, KREM ANGIELSKI , Ksylitol, Tapioka (granulat suchy), Woda, Wiórki kokosowe, Marakuja puree, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%))"
+      },
+      {
+        "dishName": "Sernik z ricottą ze skórką pomarańczy",
+        "ingredientsList": "SER RICOTTA MIĘKKA, TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, JAJA KURZE, MĄKA PSZENNA, TYP 500, Ksylitol, MASŁO, Skórka z pomarańczy, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Sól"
+      },
+      {
+        "dishName": "Bigos z białej kapusty z boczkiem i frankfurterkami",
+        "ingredientsList": "Kapusta biała, Woda, Pomidory pelati kostka, Kasza gryczana niepalona (biała), Boczek parzony ze skórą, Frankfurterki, Koncentrat pomidorowy, Cebula, Marchew, Ksylitol, Ocet balsamiczny, Sól, Czarnuszka, Drożdże suszone, Ziele angielskie, Papryka słodka (mielona), Tymianek, Rozmaryn, Sól morska, Oregano, Tymianek gałązka do ozdoby"
+      },
+      {
+        "dishName": "Zupa krem z pora z keto grzankami",
+        "ingredientsList": "Por, BULION WARZYWNY, Kalafior, Cebula, SEREK ALMETTE BEZ LAKTOZY, JAJA KURZE, Pietruszka, korzeń, SELER KORZENIOWY, SER GOUDA, Oliwa z oliwek, MĄKA MIGDAŁOWA, Czosnek, DYNIA PESTKI, SEZAM BIAŁY, PROSZEK DO PIECZENIA, Oregano"
+      },
+      {
+        "dishName": "Smoothie z mango i bananem",
+        "ingredientsList": "MLEKO, Banan, Woda mineralna niegazowana, Mango, Mango salsa pulpa, Szpinak, Sok z cytryny"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Chrupiąca grzanka z tapenadą z czarnych oliwek i kolorowymi pomidorkami",
+        "ingredientsList": "BAGIETKA FINTES (MĄKA (PSZENNA, ŻYTNIA), WODA, PŁATKI OWSIANE, SIEMIĘ LNIANE, SOJA, SŁONECZNIK, DROŻDŻE, SEZAM, SÓL, SŁÓD JĘCZMIENNY), Oliwki czarne całe b/p*, Pomidory cherry żółte, Pomidory koktajlowe, śliwkowe, Oliwa z oliwek, Kapary, DYNIA PESTKI, Sok cytrynka, Szpinak baby, Czosnek, Pietruszka, liście, Pieprz mielony, Rama Combi Profi, Natka pietruszki"
+      },
+      {
+        "dishName": "Makaron z pesto z natki pietruszki z serem typu Feta, cukinią i pomidorkami",
+        "ingredientsList": "Woda, MAKARON PENNE (PEŁNOZIARNISTY), Cukinia zielona, Natka pietruszki, Oliwa z oliwek, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Pomidory cherry żółte, Pomidory koktajlowe, Rukola, Sok z cytryny, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Kubdari - drożdżowy placek z kurczakiem i sałatką z oliwkami, ogórkiem",
+        "ingredientsList": "Polędwiczki z kurczaka, Ogórek zielony (długi), Pomidory pelati, MĄKA PSZENNA TYP \"00\" NA PIZZĘ, Woda, Oliwki czarne całe b/p*, Oliwa z oliwek, Sałata lodowa, Granat, Oliwa z oliwek, Kolendra (świeża), Ksylitol, Drożdże suszone, Sól morska, Chmeli-suneli, Sól swańska"
+      },
+      {
+        "dishName": "Krem z cukinii z makaronem z soczewicy i mini mozzarellą",
+        "ingredientsList": "BULION WARZYWNY, Cukinia zielona, Makaron Bartolini 100% Soczewica, Woda, SER MOZZARELLA MINI, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Pietruszka, korzeń, SELER KORZENIOWY, SELER NACIOWY, Cebula, Czosnek, Bazylia świeża, Pieprz mielony, Ziele angielskie, Liść laurowy, Zioła prowansalskie, Sól morska"
+      },
+      {
+        "dishName": "Sałatka z dynią, serem kozim i orzechami włoskimi",
+        "ingredientsList": "Dynia hokaido, SER KOZI ROLADA TWAROGOWA, ORZECHY WŁOSKIE, Cebulka balsamiczna, Papryka zielona, Papryka żółta, MUSZTARDA DIJON, Oliwa z oliwek, Szpinak, Granat, Rukola, Sałata rzymska, Ocet jabłkowy z dojrzałych jabłek, MUSZTARDA FRANCUSKA, Ocet balsamiczny, Woda"
+      }
+    ]
+  }
+]

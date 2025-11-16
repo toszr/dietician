@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Wytrawne muffiny śniadaniowe z suszonym pomidorem, oliwkami i serem cheddar, sałatka z kalarepą i sosem koperkowym (bułeczkę delikatnie podgrzać)",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO, MĄKA ORKISZOWA JASNA, Kalarepa, Pomidory cherry żółte, Pomidory cherry czerwone, SER CHEDDAR, Suszone pomidory (w oleju z ziołami, odsączone), Papryka czerwona, Papryka żółta, JAJA KURZE, Oliwki zielone krojone*, Słonecznik, Oliwa z oliwek, Koper ogrodowy, Cebula dymka, Sok z cytryny, Pieprz mielony, Czosnek, PROSZEK DO PIECZENIA, Sól"
+      },
+      {
+        "dishName": "Placuszki bananowo- kokosowe z czekoladowym jogurtem i owocami",
+        "ingredientsList": "Banan, JOGURT NATURALNY, JAJA KURZE, Gruszka, Jabłko, ORZECHY NERKOWCA, Mąka kokosowa, CZEKOLADA DESEROWA, Kakao, Ksylitol, Erytrol"
+      },
+      {
+        "dishName": "Kozi twarożek z pieczywem i słupkami kalarepy",
+        "ingredientsList": "TWARÓG CHUDY, BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), Kalarepa, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, SER KOZI ROLADA TWAROGOWA, DYNIA PESTKI, Rukola"
+      },
+      {
+        "dishName": "Frittata ze szpinakiem i cukinią, mixem sałat z cherry i pieczywem żytnim",
+        "ingredientsList": "JAJA KURZE, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Pomidor malinowy, BIAŁKO JAJA KURZEGO, Cukinia zielona, Szpinak baby, Słonecznik, SER GOUDA, Rzodkiewka, Pomidory cherry czerwone, Roszponka, Sałata rzymska, Szczypiorek, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Pasta z makreli z keto chlebkiem sezamowo - serowym i słupkami warzyw",
+        "ingredientsList": "Jaja kurze (gotowane) Eipro, MIĘSO Z MAKRELI WĘDZONEJ, SELER NACIOWY, Marchew, JAJA KURZE, SER GOUDA, MĄKA MIGDAŁOWA, MAJONEZ Z OLEJEM RZEPAKOWYM, Sałata rzymska, MUSZTARDA, Sok cytrynka, Czarnuszka, Czosnek, SEZAM BIAŁY, PROSZEK DO PIECZENIA, Oregano, Papryka słodka (mielona), Majeranek, Pieprz cytrynowy, Sól morska"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Krem ziemniaczany z chrustem pszennym",
+        "ingredientsList": "BULION WARZYWNY, Ziemniaki obrane, BAGIETKA FINTES (MĄKA (PSZENNA, ŻYTNIA), WODA, PŁATKI OWSIANE, SIEMIĘ LNIANE, SOJA, SŁONECZNIK, DROŻDŻE, SEZAM, SÓL, SŁÓD JĘCZMIENNY), ŚMIETANKA 15%, Cebula, Pietruszka, korzeń, Czosnek, Sól morska, Papryka słodka (mielona), Oregano, Oliwa z oliwek, Speck, Sok cytrynka, Majeranek, Pieprz mielony, Mielona gałka muszkatołowa"
+      },
+      {
+        "dishName": "Tofu inari w sosie słodkim - chili z makaron soba",
+        "ingredientsList": "Wok Thai (Marchew, Kukurydza, Por, Cebula, Grzyby mun, Fasolka szparagowa), Woda, Groszek cukrowy strączkowy Snap Peas Bond, BULION WARZYWNY, TOFU INARI, MAKARON GRYCZANY SOBA, Sos sweet-chili (cukier, woda, czerwone chili, czosnek, sól, skrobia kukurydziana, kwas octowy), SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), Cebula, Mąka z tapioki, Oliwa z oliwek, SEZAM BIAŁY, Syrop klonowy"
+      },
+      {
+        "dishName": "Kakaowe omleciki z musem z pieczonego jabłka",
+        "ingredientsList": "JAJA KURZE, Jabłko, Pomarańcza, BIAŁKO JAJA KURZEGO, Ksylitol, MĄKA PSZENNA, TYP 500, MĄKA MIGDAŁOWA, Kakao, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Mąka z tapioki, PROSZEK DO PIECZENIA, Mięta liście, Cynamon"
+      },
+      {
+        "dishName": "Muesli cynamonowe z jogurtem waniliowym",
+        "ingredientsList": "JOGURT NATURALNY, PŁATKI OWSIANE, Ksylitol, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), ORZECHY ARACHIDOWE, ORZECHY WŁOSKIE, MIGDAŁY (PŁATKI), Nasiona chia, Cynamon"
+      },
+      {
+        "dishName": "Sernik z masłem pistacjowym i czekoladą",
+        "ingredientsList": "TWARÓG BEZ LAKTOZY MLEKOVITA, BIAŁKO JAJA (KURZEGO), JAJA KURZE, Erytrol, KREM PISTACJOWY, ORZECHY ARACHIDOWE, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, CZEKOLADA GORZKA 72%, MLEKO BEZLAKTOZOWE 1,5%UHT, Kakao, Sól morska"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Polędwiczka wieprzowa w sosie kurkowym z kluskami śląskimi i buraczkami",
+        "ingredientsList": "Polędwica wieprzowa (surowa), KLUSKI ŚLASKIE MAŁE Z DZIURKĄ (ZIEMNIAKI, SKROBIA ZIEMNIACZANA, JAJA KURZE, PŁATKI ZIEMNIACZANE, SÓL, OLEJ RZEPAKOWY), Buraczki wiórka, ŚMIETANKA 15%, Kurka do sosów, Cebula, BULION JARZYNOWY, Czosnek, WINO BIAŁE, WYTRAWNE, Pietruszka, liście, Fond grzybowy, Sól, Pieprz mielony, Olej rzepakowy, Ksylitol, Ocet, Rozmaryn (świeży), Oliwa z oliwek"
+      },
+      {
+        "dishName": "Fishburger z sosem jogurtowym, ogórkiem i kolorowymi pomidorami",
+        "ingredientsList": "RYBY (DORSZ, MORSZCZUK, HALIBUT), BUŁECZKA HAMBURGEROWA MAŚLANA MAŁA 35 G (MĄKA PSZENNA, WODA, MLEKO W PROSZKU PEŁNE, OLEJ RZEPAKOWY, DROŻDŻE, CUKIER, SÓL, MASŁO 1,5%, BIAŁKO GROSZKU, MĄKA RYŻOWA, KWAS ASKORBINOWY, GLUKOZA), JOGURT NATURALNY, Pomidor, Pomidor żółty, Sałata lodowa, Ogórek zielony (długi), JAJA KURZE, BUŁKA TARTA, Koper ogrodowy, Oliwa z oliwek, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Kotleciki z kalafiora z komosą ryżową i mizerią",
+        "ingredientsList": "Kalafior, Kalafior brunoise, Komosa ryżowa biała, Woda, Ogórek zielony (długi), Woda, ŚMIETANKA VEGETOP 33%, ŚMIETANA CREME FRAICHE 30%, Słonecznik, Koper ogrodowy, JAJA KURZE, Cebula, Czosnek, Oliwa z oliwek, MĄKA PSZENNA TYP 750, Mąka z tapioki, Cebula dymka, Sól morska, Sok z cytryny, Ksylitol, Esencja bulionu warzywnego, Natka pietruszki"
+      },
+      {
+        "dishName": "Kulki wołowo - jagnięce z sosem pomidorowym, ryżem naturalnym i grillowanymi warzywami",
+        "ingredientsList": "Ryż brązowy, Woda, Pomidory pelati, Włoszczyzna, Mięso wołowe mielone (I trimming wołowy), Papryka czerwona, Bakłażan, Cukinia zielona, Jagnięcina łopatka, Cebula, Czosnek, WINO BIAŁE PÓŁWYTRAWNE, Pieprz mielony, Olej rzepakowy, Kmin rzymski (kumin), Sól morska, Majeranek, Papryka słodka, wędzona (mielona), Cebula (suszona)"
+      },
+      {
+        "dishName": "Filet z indyka w sosie z zielonego pieprzu z cukinią w parmezanie",
+        "ingredientsList": "Filet z piersi indyka, bez skóry, Cukinia zielona, ŚMIETANKA 15%, SER PARMEZAN, Słonecznik, Cebula, Pieprz zielony, BULION WARZYWNY, Czosnek, Marynata premium do drobiu, Papryka słodka (mielona), WINO BIAŁE PÓŁWYTRAWNE, Pieprz mielony, Sól, Olej rzepakowy, Sól morska, Profesor ziółko - kiełki brokuła"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Sernik Marakesh",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Mango salsa pulpa, ORZECHY ARACHIDOWE, JOGURT NATURALNY, Mleczko kokosowe, BIAŁKO JAJA KURZEGO, Marakuja puree, Żelatyna, Wiórki kokosowe, Erytrol, Mięta liście"
+      },
+      {
+        "dishName": "Zupa krem z cukinii z tymiankiem z kaszą jaglaną",
+        "ingredientsList": "Cukinia zielona, Woda, Kasza jaglana, ŚMIETANKA 15%, SELER KORZENIOWY, Pietruszka, korzeń, DYNIA PESTKI, Oliwa z oliwek, Sok z cytryny, Tymianek, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Muffinki cytrynowe",
+        "ingredientsList": "MĄKA PSZENNA, KSYLITOL, MLEKO, JAJA, CYTRYNA, Olej rzepakowy, JAJA KURZE"
+      },
+      {
+        "dishName": "Muffin z papryką i serem cheddar",
+        "ingredientsList": "MLEKO BEZLAKTOZOWE 1,5%UHT, Papryka mix kostka, Mąka kokosowa, SER CHEDDAR, Siemię lniane, SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Cebula, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, JAJA KURZE, Olej rzepakowy, PROSZEK DO PIECZENIA, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Pasta z ricotty z czarnuszką, pieczywem żytnim i warzywami: kalarepą i rzodkiewką",
+        "ingredientsList": "CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Kalarepa, SER RICOTTA MIĘKKA, SER NA SERNIK, Rzodkiew biała, DYNIA PESTKI, Rzodkiewka, Sałata rzymska, Rukola, Szczypiorek, Czarnuszka"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Quesadilla z kurczakiem, papryką padron, warzywami i sosem pomidorowym",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, TORTILLA PEŁNOZIARNISTA (MĄKA PSZENNA PEŁNOZIARNISTA, WODA, OLEJ RZEPAKOWY, STABILIZATORY: GLICEROL, GUMA GUAR, GLUTEN PSZENNY, SÓL, GLUKOZA, EMULGATOR: MONO- I DIGLICERYDY KW. TŁUSZCZOWYCH, WĘGLANY SODU), Pomidory pelati, Papryka czerwona, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), Cebula czerwona, Fasola czerwona nasiona suche, Chrupiąca Sałatka Sombrero Minute 2,5 kg, Papryka zielona długa padron, Szpinak baby, Kukurydza ziarno, Ksylitol, Sól morska, Kolendra (świeża), Czosnek, Papryka słodka, wędzona (mielona), Przyprawa fajita, Pieprz mielony"
+      },
+      {
+        "dishName": "Libański placek z wołowiną",
+        "ingredientsList": "MĄKA PSZENNA TYP \"00\" NA PIZZĘ, Mięso wołowe zrazowa górna, Pomidory koktajlowe, MLEKO, JOGURT NATURALNY (0% TŁ.), Woda, Sałata lodowa, Marchew, Pietruszka, korzeń, Oliwki czarne całe b/p*, Oliwa z oliwek, Drożdże suszone, Zatar, Kmin rzymski (kumin)"
+      },
+      {
+        "dishName": "Sałatka z winogronami, serem halloumi i selerem naciowym",
+        "ingredientsList": "Jabłko, SER HALLOUMI, Winogrona ciemne, SELER NACIOWY, Sałata lodowa, ORZECHY WŁOSKIE, MUSZTARDA, Rukola, Miód pszczeli, Sok z cytryny, Woda, Oliwa z oliwek"
+      },
+      {
+        "dishName": "Marokańska zupa harira z makaronem z soczewicy",
+        "ingredientsList": "Woda, Pomidory krojone w soku pomidorowym, Makaron Bartolini 100% Soczewica, Soczewica czerwona, nasiona suche, Ciecierzyca w zalewie, Słonecznik, Cebula, Marchew, Olej rzepakowy, Sól, Pieprz mielony, Kolendra (świeża), Kmin rzymski (kumin), Papryka słodka (mielona), Cynamon, Imbir mielony"
+      },
+      {
+        "dishName": "Zupa krem z kalafiora z nasionami słonecznika i makaronem pełnoziarnistym",
+        "ingredientsList": "Kalafior, BULION WARZYWNY, Woda, MAKARON PENNE (PEŁNOZIARNISTY), Słonecznik, Pietruszka, korzeń, Cebula, SELER KORZENIOWY, Marchew, Czosnek, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Oliwa z oliwek, Natka pietruszki, Oliwa z oliwek"
+      }
+    ]
+  }
+]

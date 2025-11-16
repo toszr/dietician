@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Bajgiel z kolorowym twarożkiem i warzywami z grilla",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Pełnoziarnista tortilla zapiekana z warzywami, jajkiem, szynką i mozzarellą",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Owsianka kakaowo-bananowa z jogurtem waniliowym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Crumble truskawkowe z owocami: melonem i ananasem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Jaja po turecku na jogurcie z zatarem, dymką, \"keto\" chlebkiem i pomidorem",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Muffinki lawendowe",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Zapiekane plastry cukinii z pomidorem i serem mozzarella",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Pasta z twarożku z słonecznikiem, słupki warzyw i chleb żytnim",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Biszkopt z jogurtową pianką i galaretką z wiśniami",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Chipsy z salami z dipem serowym cheddar",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Tafelspitz z sosem chrzanowym, kaszą pęczak, sałatką z ogórkiem kiszonym i papryką czerwoną",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Chana masala z ryżem basmati",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Filet z kurczaka w sosie musztardowo - tymiankowym z ryżem brązowym, kalafiorem i brokułem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Filet z piersi indyka w sosie bazyliowym z cukinią i gnocchi",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Indyk Pinot noir z dzikimi grzybami, puree fasolowo - kalafiorowym i fasolką w pomidorach",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Krem czekoladowy z cukinii z drożdżówką orkiszową",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Wegańskie ciasto jaglane z brzoskwiniami (Uwaga! Daktyle mogą zawierać pestki!)",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Tofucznica z pieczywem słonecznikowym, ogórkiem i rzodkiewką",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Kotleciki z kalafiora z pieczonymi frytkami z warzyw korzeniowych z dipem serowym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Biscotti z sosem waniliowym",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Pasta warzywna z czarnymi oliwkami, bułeczka i warzywa w słupki",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Bułeczki Bao z tofu, warzywami i wegańskim sosem wasabi mayo",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Złoty dhal z ciecierzycy ze szpinakiem i kaszą bulgur",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Makaron penne rigate z kolorowymi warzywami w kremowym sosie pomidorowym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Skrzydełka w parmezanie",
+        "ingredientsList": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Bowl z placuszkami owsianymi, jogurtem i winogronami",
+        "ingredientsList": "JOGURT NATURALNY, PŁATKI OWSIANE, BIAŁKO JAJA KURZEGO, Sok pomarańczowy, Rodzynki, Winogrona rodzynkowe ciemne, Winogrona rodzynkowe jasne, Miód pszczeli, MIGDAŁY (PŁATKI), CZEKOLADA DESEROWA, SEZAM CZARNY, Siemię lniane"
+      },
+      {
+        "dishName": "Granola z orzechami, pomarańczowym serkiem i owocami: melonem, granatem i kiwi",
+        "ingredientsList": "TWARÓG CHUDY, SEREK WIEJSKI (NATURALNY), JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Melon, PŁATKI ŻYTNIE, ORZECHY WŁOSKIE, Kiwi, Ksylitol, Granat, Olej kokosowy (rafinowany), ORZECHY ARACHIDOWE, Skórka z pomarańczy, Siemię lniane, Słonecznik, DYNIA PESTKI, SEZAM BIAŁY, Woda"
+      },
+      {
+        "dishName": "Keto placki buraczane z pastą ziołową i mixem sałat z pomidorkami cherry i kalarepką",
+        "ingredientsList": "Burak, TWARÓG BEZ LAKTOZY MLEKOVITA, MĄKA MIGDAŁOWA, Pomidory cherry czerwone, JAJA KURZE, Kalarepa, MASŁO, ŚMIETANKA 15%, Roszponka, Sok cytrynka, Sałata rzymska, Szczypiorek, Ksylitol, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Koper ogrodowy, Bazylia świeża, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Mleczna drożdżówka z serkiem waniliowym i owocami: jabłkiem i winogronem",
+        "ingredientsList": "DROŻDŻOWY BOCHEN Z KRUSZONKĄ (MĄKA PSZENNA, WODA, CUKIER, OLEJ RZEPAKOWY, OLEJ SŁONECZNIKOWY, JAJA, DROŻDŻE, MLEKO, WODA, OLEJ KOKOSOWY, MASŁO, AROMAT, SÓL, KWAS ASKORBINOWY, LECYTYNA SŁONECZNIKOWA), TWARÓG CHUDY, Jabłko, Winogrona, JOGURT NATURALNY, KREM ANGIELSKI , ORZECHY LASKOWE, Miód pszczeli"
+      },
+      {
+        "dishName": "Serek wiejski z bazylią, bułeczka i słupki kalarepy",
+        "ingredientsList": "SEREK WIEJSKI (NATURALNY), BUŁECZKA MAŁA (PSZENNA 30 G) (MĄKA PSZENNA, WODA, DROŻDŻE, SÓL, OLEJ RZEPAKOWY, KWAS ASKORBINOWY), Kalarepa, Słonecznik, Rukola, Sól, Bazylia świeża, Bazylia suszona, Natka pietruszki"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Bozbasz - gruzińska zupa z kuleczkami jagnięcymi",
+        "ingredientsList": "Pomidory pelati kostka, BULION WARZYWNY, Woda, KASZA JĘCZMIENNA, PERŁOWA, Jagnięcia, Ryż basmati Punjabi, Koncentrat pomidorowy, Cebula, Kolendra (świeża), Czosnek, Sambal, Olej rzepakowy, Kolendra mielona, Kurkuma, Pieprz mielony, Sól, Natka pietruszki"
+      },
+      {
+        "dishName": "Zielone Minestrone z makaronem orzo",
+        "ingredientsList": "BULION WARZYWNY, MAKARON ORZO, Woda, Papryka zielona, Cukinia zielona, SELER NACIOWY, Cebula, Czosnek, Pietruszka, korzeń, Marchew, DYNIA PESTKI, WINO BIAŁE PÓŁWYTRAWNE, Natka pietruszki, Szpinak baby, Koper ogrodowy, Bazylia świeża, Lubczyk"
+      },
+      {
+        "dishName": "Sałatka z jabłkiem, fasolką szparagową i fetą oraz dressingiem bazyliowym",
+        "ingredientsList": "Cukinia zielona, Jabłko Red Prince, Fasolka szparagowa zielona, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), ORZECHY WŁOSKIE, Szpinak baby, Rukola, Oliwa z oliwek, Bazylia świeża, Woda, Sok z cytryny, Natka pietruszki, MUSZTARDA, Ksylitol, Sól morska, Skórka z cytryny (starta), Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Muffinka migdałowa z makiem i musem jeżynowym",
+        "ingredientsList": "Jeżyny, BIAŁKO JAJA KURZEGO, MĄKA MIGDAŁOWA, MASŁO, ŻÓŁTKO JAJA, Masa makowa Helio, Erytrol, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), PROSZEK DO PIECZENIA, Sól morska"
+      },
+      {
+        "dishName": "Placuszki z tartym jabłkiem i czekoladowym twarożkiem",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Jabłko, MĄKA PSZENNA, TYP 500, JAJA KURZE, JOGURT NATURALNY, MLEKO, Ksylitol, Olej rzepakowy, Kakao, CZEKOLADA DESEROWA, Soda oczyszczona, Cynamon, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Miętus z sosem z młodego szczypiorku, ryżem z bazylią i sałatką z fasolką szparagową i radicchio",
+        "ingredientsList": "MIĘTUS, FILET ZE SKÓRĄ, Woda, Ryż dziki, ŚMIETANKA 30% BEZ LAKTOZY, Ryż basmati Punjabi, Pomidory cherry czerwone, Fasolka szparagowa żóła, Fasolka szparagowa zielona cięta 2,5kg, Cytryna, Pieczarki marynowane, Szczypiorek, Szpinak baby, Sałata radicho, Sok cytrynka, Bazylia świeża, Oliwa z oliwek, Koper ogrodowy, Sól, Pieprz mielony, Pieprz cytrynowy, Pieprz biały"
+      },
+      {
+        "dishName": "Kotleciki rybne z dorszem czarnym, \"makaronem\" z marchewki i warzywami z kiełkami fasoli mung",
+        "ingredientsList": "Marchew, MINTAJ, MIĘTUS, DORSZ CZARNIAK, Grzyby mun, Por, SOS TERIYAKI BEZGLUTENOWY, Marchew, Kapusta pekińska, Cebula czerwona, BIAŁKO JAJA KURZEGO, Kapusta biała, Papryka zielona, Brokuł (mrożony), Sok pomarańczowy, SEZAM BIAŁY, Papryka czerwona, Kiełki fasoli mung, OLEJ SEZAMOWY, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Czosnek, Cebula dymka, Imbir świeży, Kolendra (świeża), Olej rzepakowy, Pieprz mielony, Mielona papryka chili"
+      },
+      {
+        "dishName": "Burrito wegetariańskie z sosem czosnkowym",
+        "ingredientsList": "TORTILLA PSZENNA, Chrupiąca Sałatka Sombrero Minute 2,5 kg, TOFU NATURALNE, JOGURT NATURALNY, Pomidory pelati, Włoszczyzna, SER MOZZARELLA WIÓRKI, Sok z cytryny, Czosnek granulowany, Olej rzepakowy, Czosnek, Przyprawa fajita, Pieprz mielony, Natka pietruszki, Sól morska, Ksylitol"
+      },
+      {
+        "dishName": "Kuleczki wołowo - wieprzowe w sosie grzybowym z kaszą pęczak i modrą kapustą",
+        "ingredientsList": "Woda, Mięso wołowe mielone (I trimming wołowy), Kapusta czerwona, KASZA JĘCZMIENNA, PĘCZAK, Wieprzowina (schab, szynka, karkówka), BULION WARZYWNY, Pieczarka mała, Cebula, Cebula czerwona, Podgrzybek (mrożony), Włoszczyzna, Czosnek, Cynamon, Natka pietruszki, SOS SOJOWY GRZYBOWY, Pieprz mielony, Ocet jabłkowy z dojrzałych jabłek, Sok z limonki, Ksylitol, Kminek mielony, Imbir, Sól, Ketchup, Czosnek granulowany, Papryka słodka (mielona), Marynata Premium do wołowiny"
+      },
+      {
+        "dishName": "Kurczak w sosie pieczeniowym z ryżem basmati i marchewką paryską",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Marchew paryska, Woda, Ryż jaśminowy, ŚMIETANKA 15%, BULION WARZYWNY, Demi Glaze, Rozmaryn (świeży), Pieprz mielony, Marchew, Majeranek, Olej rzepakowy"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Pudding z tapioki z musem brzoskwiniowym",
+        "ingredientsList": "MLEKO, Brzoskwinia kostka, Ksylitol, Tapioka (granulat suchy), Miód pszczeli, Wiórki kokosowe"
+      },
+      {
+        "dishName": "Truskawkowy koktajl z papryczką chili",
+        "ingredientsList": "Truskawki, Woda kokosowa, Banan, Mleczko kokosowe, Mielona papryka chili, Kurkuma"
+      },
+      {
+        "dishName": "Ceviche z krewetkami",
+        "ingredientsList": "KREWETKI TYGRYSIE 16/20 OBRANA B/O, TORTILLA PEŁNOZIARNISTA (MĄKA PSZENNA PEŁNOZIARNISTA, WODA, OLEJ RZEPAKOWY, STABILIZATORY: GLICEROL, GUMA GUAR, GLUTEN PSZENNY, SÓL, GLUKOZA, EMULGATOR: MONO- I DIGLICERYDY KW. TŁUSZCZOWYCH, WĘGLANY SODU), MINTAJ (POLĘDWICA), Mango, Papryka zielona, Cebula dymka, Limonka, Guacamole, Granat, SEZAM BIAŁY, Cebula czerwona, Sok z limonki, Imbir świeży, Sambal, Kolendra (świeża), Pieprz cytrynowy, Pieprz mielony, Marynata premium do drobiu, Papryka słodka (mielona), Papryka słodka, wędzona (mielona), Oliwa z oliwek, Sól"
+      },
+      {
+        "dishName": "Pasta twarogowa z rzodkiewką i słonecznikiem z keto \"pieczywem\"",
+        "ingredientsList": "SEREK ALMETTE BEZ LAKTOZY, JAJA KURZE, TWARÓG BEZ LAKTOZY MLEKOVITA, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Szczypiorek, Olej kokosowy (rafinowany), Mąka kokosowa, Babka płesznik (jajowata), Słonecznik, Rzodkiewka, MASŁO, PROSZEK DO PIECZENIA, Sól, Pieprz mielony, Bazylia suszona, Sól himalajska, Oregano, Profesor ziółko - kiełki brokuła"
+      },
+      {
+        "dishName": "Muffinki jagodowe",
+        "ingredientsList": "JAJA KURZE, Jagody czarne (mrożone), MĄKA PSZENNA, TYP 500, MLEKO, Ksylitol, Borówki amerykańskie, PROSZEK DO PIECZENIA, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Mięta liście"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Taco Shells z chili sin carne",
+        "ingredientsList": "Pomidory pelati, Taco Shells, Dynia piżmowa, BULION WARZYWNY, Woda, Fasola czarna nasiona suche, Cebula, Koncentrat pomidorowy, Oliwa z oliwek, Syrop klonowy, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Sok z limonki, Cynamon, Kolendra (świeża)"
+      },
+      {
+        "dishName": "Mix past: tapenada i twarożek z suszonymi pomidorami z pieczywem żytnim, rzepą arbuzową i kalarepą w słupki",
+        "ingredientsList": "CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Oliwki czarne całe b/p*, TWARÓG RACIBORSKI, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Rzepa arbuzowa, Kalarepa, Suszone pomidory, Pomidory pelati kostka, Bakłażan, SER KOZI SAŁATKOWY TYPU FETA GAZI, Sałata rzymska, Koncentrat pomidorowy, Rukola, Czosnek, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Kurczak w sosie ostrygowym z makaronem sojowym",
+        "ingredientsList": "Woda, Filet z piersi kurczaka, bez skóry, MAKARON SOJOWY VERMICELLI, BULION WARZYWNY, Grzyby mun, Kapusta pekińska, WOK INDONESIA (MARCHEW, ZIARNA SOI, GROSZEK STRĄCZKOWY, KIEŁKI BAMBUSA, KASZTANY, PAPRYKA ŻÓŁTA, GRZYBY CZARNE, SELER), SEZAM BIAŁY, SOS OSTRYGOWY MEA KRUA (EKSTRAKT Z OSTRYG, CUKIER, SÓL, FASOLKA SOI, MĄKA PSZENNA, SKROBIA KUKURYDZIANA, SUBSTANCJA KONSERWUJĄCA: E211), SELER NACIOWY, Marchew, Cebula czerwona, Brokuł (mrożony), Cebula, Skrobia ziemniaczana, Czosnek, Przyprawa 5 smaków, Olej rzepakowy, Imbir świeży, SOS OSTRYGOWY"
+      },
+      {
+        "dishName": "Sałatka z bobem, serem kozim i winogronami oraz vinaigrette cytrynowo-ziołowym",
+        "ingredientsList": "Ogórek zielony (długi), SER KOZI ROLADA TWAROGOWA, Bób, Winogrona ciemne, Cebula czerwona, ORZECHY WŁOSKIE, Szpinak baby, Rukola, Oliwa z oliwek, MUSZTARDA, Woda, Sok z cytryny, Ksylitol, Mięta liście, Koper ogrodowy, Natka pietruszki, Sól, Skórka z cytryny (starta), Oliwa z oliwek, Czosnek"
+      },
+      {
+        "dishName": "Caponata z bakłażana z kaszą jaglaną",
+        "ingredientsList": "Bakłażan, Kasza jaglana, Woda, Pomidory pelati, Pomidory pelati kostka, Oliwki czarne, Kapary, Oliwki zielone krojone*, Bazylia świeża, Rozmaryn (świeży), Oliwa czosnkowa, Tymianek, Profesor Ziółko - kiełki słonecznika, Ksylitol, Sól morska"
+      }
+    ]
+  }
+]

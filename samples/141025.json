@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Pudding z kaszy mannej z rokitnikiem, jogurt naturalny z jagodami goji, jabłko i gruszka",
+        "ingredientsList": "MLEKO, JOGURT NATURALNY, KASZA MANNA, Gruszka, Jabłko, MIGDAŁY, PŁATKI, Ksylitol, Miód pszczeli, Pasta Rokitnik, Jagody goji (suszone), Mięta liście"
+      },
+      {
+        "dishName": "Rogalik Italiano z serem mozzarella, pomidorem, oliwkami oraz sosem bazyliowym",
+        "ingredientsList": "ROGALIK MIX 45 G  (MĄKA (PSZENNA, ŻYTNIA), WODA, SER TWAROGOWY CHUDY, SIEMIĘ LNIANE, SŁONECZNIK, DROŻDŻE, OLEJ RZEPAKOWY, SÓL, MAK, SEZAM, PŁATKI OWSIANE, SŁÓD JĘCZMIENNY,  KWAS ASKORBINOWY), JOGURT NATURALNY, SER MOZZARELLA (125G KULKA), Suszone pomidory, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Oliwki czarne, MLEKO SPOŻYWCZE 2%, Bazylia świeża, Rukola, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Twarożek z rzodkiewką i nasionami słonecznika, pieczywem i pomidorami ze szczypiorkiem",
+        "ingredientsList": "TWARÓG RACIBORSKI, CHLEB SŁONECZNIKOWY (MĄKA: ŻYTNIA TYP 2000, MĄKA PSZENNA TYP 1850, WODA, SŁONECZNIK, SÓL, DROŻDŻE), Pomidor malinowy, Pomidor żółty, Rzodkiewka, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Słonecznik, Szczypiorek, JOGURT NATURALNY, Sałata rzymska, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Orkiszowe placuszki jogurtowe z musem wiśniowym",
+        "ingredientsList": "Wiśnie, JOGURT NATURALNY, MĄKA ORKISZOWA JASNA, JAJA KURZE, ORZECHY WŁOSKIE, Ksylitol, CZEKOLADA CIEMNA 60% BEZ CUKRU, MASŁO, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), PROSZEK DO PIECZENIA, Olej rzepakowy, Soda oczyszczona, Pektyna"
+      },
+      {
+        "dishName": "Muffinki jajeczne z karczochem i oliwkami, sos z suszonymi pomidorami, słupki kalarepy",
+        "ingredientsList": "JAJA KURZE, Kalarepa, Karczochy cięte w zalewie, MAJONEZ Z OLEJEM RZEPAKOWYM, Suszone pomidory (w oleju z ziołami, odsączone), JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Słonecznik, Oliwki czarne, Szczypiorek, Kolendra (świeża), Czosnek, Cebula, Sól, Pieprz mielony, Pieprz cayenne, Profesor ziółko- kiełki rzodkiewki"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Krem z dyni z grzankami  i olejem z pestek dyni",
+        "ingredientsList": "Dynia, Dynia piżmowa, BULION WARZYWNY, CHLEB WIELOZIARNISTY MIX: (MĄKA (PSZENNA, ŻYTNIA, WODA, PŁATKI OWSIANE, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, DROŻDŻE, SEZAM, SÓL, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Cebula, Pietruszka, korzeń, Czosnek, SELER KORZENIOWY, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Marchew, Olej z pestek dyni, Woda mineralna niegazowana, Oliwa z oliwek, Sól, Rozmaryn (świeży), Sambal, Pieprz mielony, Kurkuma"
+      },
+      {
+        "dishName": "Sernik bananowy na czekoladowym spodzie",
+        "ingredientsList": "TWARÓG CHUDY, BIAŁKO JAJA KURZEGO, Banan, PŁATKI OWSIANE, JAJA KURZE, CZEKOLADA GORZKA, Erytrol, ORZECHY ZIEMNE GRYS, Budyń waniliowy bez cukru, Miód pszczeli, Sok z cytryny, Sól morska"
+      },
+      {
+        "dishName": "Jogurt truskawkowy z granolą orzechową",
+        "ingredientsList": "JOGURT NATURALNY, Truskawki, KREM ANGIELSKI, PŁATKI OWSIANE, MASŁO ORZECHOWE, ORZECHY LASKOWE, Miód pszczeli, ORZECHY ZIEMNE GRYS, MIGDAŁY, SEZAM CZARNY, Siemię lniane, Mleczko kokosowe RealThai"
+      },
+      {
+        "dishName": "Pasta twarogowa z serkiem ricotta z pieczywem i słupkami kalarepy",
+        "ingredientsList": "Kalarepa, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), TWARÓG RACIBORSKI, SER RICOTTA MIĘKKA, Woda, Kasza gryczana niepalona (biała), Sałata rzymska, Rukola, Szczypiorek, DYNIA PESTKI, SEZAM BIAŁY, Sól, Drożdże suszone, Słonecznik, Profesor Ziółko - groszek czepny"
+      },
+      {
+        "dishName": "Quiche a'la pizza",
+        "ingredientsList": "JAJA KURZE, Pomidory pelati kostka, SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Salami luksusowe, JAJA KURZE, Mąka z ciecierzycy, MASŁO KLAROWANE, Babka płesznik (jajowata), Papryka zielona, Cebula, Papryka czerwona, Papryka żółta, Czosnek, Mąka kokosowa, Siemię lniane, Profesor Ziółko - groszek czepny"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Wołowina Massaman z zielonym ryżem basmati i mini marchewkami",
+        "ingredientsList": "Marchew mini, Mięso wołowe zrazowa górna, Woda, Ryż basmati Punjabi, Passata pomidorowa (przecier), Mleczko kokosowe, Ziemniaki obrane, Szpinak baby, Cebula, OLEJ SEZAMOWY, BULION WARZYWNY, ORZECHY ZIEMNE GRYS, Kolendra (świeża), Szczypiorek, Pasta curry Massaman, Olej rzepakowy, Sok z limonki, Czosnek, Sól, Pieprz mielony, Kmin rzymski (kumin), Galangal, Trawa cytrynowa surowa cała, Mielona gałka muszkatołowa, Cynamon, SOS RYBNY, Ksylitol"
+      },
+      {
+        "dishName": "Indyk w sosie śmietanowym ze szpinakiem, kaszą kuskus i marchewką",
+        "ingredientsList": "Filet z piersi indyka, bez skóry, Woda, ŚMIETANKA 15% (BEZ LAKTOZY), KASZA KUSKUS, Marchew żółta, Marchew filetowa - czarna, Marchew, Szpinak, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Natka pietruszki, MLEKO SPOŻYWCZE 2%, Sól morska, Koper ogrodowy, Pieprz mielony, Mielona gałka muszkatołowa"
+      },
+      {
+        "dishName": "Kotleciki z batata i białej fasoli z sosem koperkowym, komosą ryżową i surówką z czerwonej kapusty",
+        "ingredientsList": "Kapusta czerwona, Woda, Fasola biała nasiona suche, Komosa ryżowa biała, Woda, Bataty, ŚMIETANKA 15% (BEZ LAKTOZY), BULION WARZYWNY, Płatki gryczane, Cebula, SEZAM CZARNY, Oliwa z oliwek, Imbir świeży, Czosnek, Koper ogrodowy, Mąka z tapioki, Kolendra (świeża), SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Oregano, Sok cytrynka, Sól morska, Pieprz mielony, Ksylitol"
+      },
+      {
+        "dishName": "Filet z kurczaka z sosem z kiszonego ogórka, mizerią oraz kaszą pęczak",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Woda, Ogórek zielony (długi), KASZA JĘCZMIENNA, PĘCZAK, ŚMIETANKA 15% (BEZ LAKTOZY), BULION MIĘSNY, ŚMIETANA, Cebula, OGÓRKI KISZONE, Słonecznik, Natka pietruszki, Czosnek, Sok z cytryny, Ksylitol, Koper ogrodowy, Majeranek, Pieprz mielony, Olej rzepakowy, Sól morska, Majeranek świeży gałązka, Sól"
+      },
+      {
+        "dishName": "Kotleciki z halibuta i dorsza czarniaka z sosem koperkowym, keto talarkami z kalarepy i surówką z kapusty białej i marchewki",
+        "ingredientsList": "Kapusta biała, Kalarepa, FILET DORSZ CZARNIAK, BULION WARZYWNY, ŚMIETANKA VEGETOP 33%, Marchew, Por, FILET Z HALIBUTA, SEZAM CZARNY, BIAŁKO JAJA KURZEGO, Olej rzepakowy, Koper ogrodowy, Cebula, Czosnek, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, SEZAM BIAŁY, Oliwa z oliwek, Imbir świeży, Kolendra (świeża), Pieprz mielony, Mielona papryka chili, Woda, Skrobia ziemniaczana, Przyprawa do ziemniaków, Sól morska, Czosnek granulowany, Cząber, Kurkuma, Sól, Majeranek"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Ciasteczka z kawałkami czekolady, sos waniliowy",
+        "ingredientsList": "JOGURT NATURALNY, KREM ANGIELSKI, Ksylitol, MĄKA ORKISZOWA CIEMNA, MĄKA ORKISZOWA JASNA, Woda, JAJA KURZE, Olej kokosowy (rafinowany), CZEKOLADA DESEROWA, ORZECHY WŁOSKIE, ORZECHY PEKAN, PROSZEK DO PIECZENIA, MIGDAŁY"
+      },
+      {
+        "dishName": "Kaszka kukurydziana z musem z mango",
+        "ingredientsList": "MLEKO, Mango, Mandarynki w lekkim syropie, Kasza kukurydziana, Wiórki kokosowe, Ksylitol"
+      },
+      {
+        "dishName": "Krem z papryki z pestkami dyni",
+        "ingredientsList": "Peperonata, Pomidory pelati, BULION WARZYWNY, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), DYNIA PESTKI, Cebula, Pietruszka, korzeń, Marchew, Czosnek, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), WINO BIAŁE PÓŁWYTRAWNE"
+      },
+      {
+        "dishName": "Oponki kokosowe z polewą czekoladową",
+        "ingredientsList": "JAJA KURZE, Wiórki kokosowe, CZEKOLADA CIEMNA 60% BEZ CUKRU, Mąka kokosowa, Mleczko kokosowe RealThai, Erytrol, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), ŚMIETANKA 15% (BEZ LAKTOZY), PROSZEK DO PIECZENIA"
+      },
+      {
+        "dishName": "Pierogi z kaszą gryczaną i ziemniakami, sosem jogurtowy",
+        "ingredientsList": "JOGURT NATURALNY, Woda, Ziemniaki obrane, MĄKA PERFECJA SPECIALE NA PIEROGI, Kasza gryczana niepalona (biała), MĄKA ORKISZOWA JASNA, MĄKA KRUPCZATKA, Czosnek, Oliwa z oliwek, Szpinak baby, Cebula, Natka pietruszki, Koper ogrodowy, Bazylia świeża, Skórka z cytryny (starta), Sól, Pieprz mielony, Profesor Ziółko - groszek czepny, Majeranek"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Pizza własnego wypieku z salami Spianata",
+        "ingredientsList": "Pomidory pelati, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), MĄKA PSZENNA TYP \"00\" NA PIZZĘ, SALAMI (SPINIATA), Woda, Oliwki czarne, Pomidory cherry żółte, Pomidory cherry czerwone, MĄKA ORKISZOWA JASNA, Rukola, Oliwa z oliwek, Ksylitol, Drożdże suszone, Oregano, Sól, Bazylia świeża, Czosnek"
+      },
+      {
+        "dishName": "Tagliatelle z kremowym pesto z pieczonej dyni z rukolą",
+        "ingredientsList": "Woda, Dynia hokaido, MAKARON TAGLIATELLE (JASNY), BULION WARZYWNY, Dynia piżmowa, ŚMIETANKA 15% (BEZ LAKTOZY), SER PECORINO ROMANO, Rukola, Tahini, Oliwa czosnkowa, Oliwa z oliwek, Mielona gałka muszkatołowa, Sól, Pieprz mielony, Pomidory suszone z oregano"
+      },
+      {
+        "dishName": "Makaron ryżowy w czerwonym pesto z pieczonymi batatami, serem białym i czarnymi oliwkami",
+        "ingredientsList": "Woda, Bataty, Makaron ryżowy 5 mm, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Burak gotowany, Oliwki czarne całe b/p*, DYNIA PESTKI, ORZECHY WŁOSKIE, Oliwa z oliwek, Rukola, Oliwa z oliwek, Czosnek, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Wątróbka w truskawkowym sosie balsamico, sałatka i pieczywo",
+        "ingredientsList": "Wątróbka (z kurczaka), CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Burak gotowany, Truskawki, Jabłko, Cebula, BULION WARZYWNY, Jeżyny, Krem balsamiczny, Jabłko, Ksylitol, Oliwa z oliwek, Pieprz mielony, Jabłko t, Majeranek, Tymianek, Sól morska, Sok cytrynka"
+      },
+      {
+        "dishName": "Chili con carne z kolendrą i keto chlebkiem",
+        "ingredientsList": "Mięso wołowe mielone (I trimming wołowy), Papryka mix kostka, JAJA KURZE, Fasola czerwona w zalewie (konserwowa), Kukurydza konserwowa, Pomidory pelati, Mąka kokosowa, Olej kokosowy (rafinowany), Cebula, Babka płesznik (jajowata), Czosnek, BULION WARZYWNY, Sambal, Papryka słodka (mielona), Kmin rzymski (kumin), Czosnek granulowany, Bazylia suszona, Ocet balsamiczny, Oregano, Kolendra (świeża), Oliwa z oliwek"
+      }
+    ]
+  }
+]

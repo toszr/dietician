@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Brioche (lekko podgrzać) z twarożkiem truskawkowym z ricottą, orzechami pekan i jabłkiem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Frittata z serem wędzonym, boczniakami i cukinią, pieczywem żytnim i słupkami ogórka",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Panini z serem cheddar, pomidorem i pesto bazyliowym podane z sosem pomidorowym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Naleśniki z czekoladowym twarożkiem i musem brzoskwiniowym",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Chałka mleczna z serkiem waniliowym i chutney śliwkowym",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Krem z pomidorów z ryżem basmati",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Deser kokosowy z wiśniami i orzechami pekan",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Keto blondi",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Smoothie z owocami leśnymi i truskawką",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Hummus limonkowy z pieczywem drwalskim i pomidorkami koktajlowymi",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Filet kurczęcy w pesto z rukoli z komosą ryżową i pieczoną kolorową marchewką",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Kuleczki z indyka w sosie BBQ z kaszą bulgur i grillowanymi warzywami",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Schab sous vide w sosie winogronowym z szila plawi",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Morszczuk w sosie kaparowym, ziemniakami i brokułem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Kotleciki z soczewicy w sosie kalafiorowym z ziemniakami i sałatką z papryki, ogórków i rzodkiewki",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Jogurt waniliowy z musem malinowym i musli",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Orientalne Nasi goreng",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Krem z pietruszki z kurkumą i limonką z serowymi keto grzankami",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Drożdżowe babeczki z jabłkiem i kruszonką",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Focaccia z czarnymi oliwkami, gruszką i serem pleśniowym",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Tofu w sosie teriyaki z makaronem ryżowym i warzywami",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Pate z kurczaka z pieczywem i konfiturą z czerwonej cebuli",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Papryka chili con carne z \"ryżem\" z kalafiora po meksykańsku",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Sałatka z burakiem, gruszką i wędzonym twarogiem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Calzone faszerowane pieczonymi warzywami",
+        "ingredientsList": ""
+      }
+    ]
+  }
+]
