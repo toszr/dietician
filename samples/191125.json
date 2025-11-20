@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Pasztet z ciecierzycy i papryki z słupkami selera oraz kalarepy i pieczywem żytnim",
+        "ingredientsList": "Woda, CHLEB ŻYTNI Z ŻURAWINĄ KROPEK (MĄKA: ŻYTNIA TYP 1400, ŻYTNIA RAZOWA 2000, PSZENNA PEŁNOZIARNISTA TYP 2000, ŻURAWINA, WODA, SÓL, DROŻDŻE), Papryka czerwona, Ciecierzyca nasiona suche, Kalarepa, SELER NACIOWY, Cebula, JAJA KURZE, Pietruszka, korzeń, Tahini, Marchew, DYNIA PESTKI, Sok cytrynka, Czosnek, Profesor Ziółko - kiełki słonecznika, Pieprz mielony, Sól morska, Kolendra mielona"
+      },
+      {
+        "dishName": "Bajgiel z hummusem, grillowanym tofu, oliwkami, papryką i burakiem",
+        "ingredientsList": "BAJGIEL NATURALNY (MĄKA PSZENNA, WODA, CUKIER, OLEJ RZEPAKOWY, DROŻDŻE, SÓL), Woda, TOFU WĘDZONE, Burak, Ciecierzyca nasiona suche, Oliwki czarne, Papryka czerwona, Oliwki zielone całe, Szpinak, Tahini, Rukola, Kolendra (świeża), SEZAM BIAŁY, SEZAM CZARNY, Sól morska, OLEJ SEZAMOWY, Sok z cytryny, Pieprz mielony, Kurkuma świeża, Zatar, Papryka słodka (mielona)"
+      },
+      {
+        "dishName": "Frittata z kurkami i serem wędzonym typu górskiego, pieczywo żytnie oraz słupki marchewki i selera",
+        "ingredientsList": "BIAŁKO JAJA KURZEGO, JAJA KURZE, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Kurki (mrożone), Marchew, SELER NACIOWY, Cukinia (kostka mrożona), SER WĘDZONY ROLADA USTRZYCKA, SER MOZZARELLA WIÓRKI, MASŁO, Słonecznik, Szczypiorek, Olej rzepakowy, Czosnek, Sól"
+      },
+      {
+        "dishName": "Keto muffinki z jeżynami z sosem truskawkowym i jogurtem",
+        "ingredientsList": "JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Truskawki, JAJA KURZE, Jeżyny, Mąka kokosowa, Erytrol, Olej rzepakowy, Mleczko kokosowe RealThai, Sok z cytryny, ORZECHY LASKOWE, Skórka z cytryny (starta), Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), PROSZEK DO PIECZENIA, Sól"
+      },
+      {
+        "dishName": "Naleśniczki amerykańskie z borówkami, melonem i sosem waniliowym",
+        "ingredientsList": "NALEŚNIKI AMERYKAŃSKIE (MĄKA PSZENNA, WODA, CUKIER, JAJKO, MLEKO, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY, GUMA KSANTANOWA), JOGURT NATURALNY, Melon cantaloupe, Borówki amerykańskie, KREM ANGIELSKI , Mięta liście"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Sałatka z jabłkiem, serem pleśniowym, żurawiną i sosem jabłkowo-miodowym",
+        "ingredientsList": "Pomidory koktajlowe, Jabłko, SER LAZUR SREBRZYSTY, Żurawina suszona, SELER NACIOWY, Sałata endywia, Oliwa z oliwek, Rukola, Roszponka, Sok jabłkowy, Sok z cytryny, Ocet jabłkowy z dojrzałych jabłek, Miód pszczeli, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Muffinka drożdżowa z malinami i kruszonką (lekko podgrzać)",
+        "ingredientsList": "MĄKA PSZENNA, TYP 500, MLEKO, Maliny, Ksylitol, MĄKA ORKISZOWA JASNA, JAJA KURZE, MASŁO, Olej rzepakowy, Budyń waniliowy w proszku, Drożdże suszone, Cukier, Sól"
+      },
+      {
+        "dishName": "Makaron z pomidorami, fasolą cannellini, bakłażanem i serem typu greckiego",
+        "ingredientsList": "Woda, MAKARON FUSILLI (PEŁNOZIARNISTY ORKISZOWY), Pomidory pelati kostka, Bakłażan, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Cebula, Fasola biała Cannellini (konserwowa), Rukola, Olej rzepakowy, Ocet balsamiczny, Koper ogrodowy, Natka pietruszki, Czosnek, Bazylia świeża, Erytrol, Papryka słodka (mielona), Papryczka ostra (chili), Sól"
+      },
+      {
+        "dishName": "Jogurt wiśniowy z orzechami: nerkowcami, brazylijskimi i arachidowymi",
+        "ingredientsList": "JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Wiśnie, Erytrol, ORZECHY ARACHIDOWE, ORZECHY LASKOWE, ORZECHY NERKOWCA, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%))"
+      },
+      {
+        "dishName": "Krem z buraka z makaronem grandine",
+        "ingredientsList": "BULION WARZYWNY, Burak gotowany, Woda, Ziemniaki obrane, MAKARON GRANDINE, Marchew, Pietruszka, korzeń, SELER KORZENIOWY, DYNIA PESTKI, Ksylitol, Sok cytrynka, Sól morska, Pieprz mielony"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Filet z piersi kurczaka w sosie orzechowym z makaronem chow mein i grillowanymi warzywami",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Woda, MAKARON CHOW MEIN, Papryka żółta, Cukinia zielona, Papryka zielona, MASŁO ORZECHOWE, BULION WARZYWNY, Imbir świeży, Cebula czerwona, Pomidory pelati kostka, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Cebula, Oregano, SOS OSTRYGOWY MEA KRUA (EKSTRAKT Z OSTRYG, CUKIER, SÓL, FASOLKA SOI, MĄKA PSZENNA, SKROBIA KUKURYDZIANA, SUBSTANCJA KONSERWUJĄCA: E211), Sambal, SOS RYBNY, Szczypiorek, Czosnek, Sok z cytryny, Sól, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), Olej rzepakowy"
+      },
+      {
+        "dishName": "Rumsztyk wołowy z sosem z zielonego pieprzu, \"kopytkami\" i czerwoną kapustą",
+        "ingredientsList": "Mięso wołowe mielone (I trimming wołowy), Kapusta czerwona, ŚMIETANKA 15%, Cebula, Kalafior, JAJA KURZE, Pieprz zielony, Boczek wieprzowy wędzony parzony plastry, BULION WARZYWNY, Czosnek, Woda, MĄKA MIGDAŁOWA, Ciecierzyca nasiona suche, Mąka z tapioki, WINO BIAŁE PÓŁWYTRAWNE, Oliwa z oliwek, Miód pszczeli, Sok z cytryny, Natka pietruszki, Pieprz mielony, Sól morska, Majeranek, Mielona papryka chili"
+      },
+      {
+        "dishName": "Gulasz z boczniakami, tempehem i kaszą pęczak",
+        "ingredientsList": "Woda, Pomidory pelati, TEMPEH, KASZA JĘCZMIENNA, PĘCZAK, Cebula, Papryka czerwona, Papryka zielona, Boczniaki, Pieczarki, OGÓRKI KISZONE, Słonecznik, Czosnek, Natka pietruszki, Pieprz mielony, Papryka słodka (mielona), Sól, Papryka słodka, wędzona (mielona), Sól morska, Majeranek, Ziele angielskie, Liść laurowy, Mielona papryka chili"
+      },
+      {
+        "dishName": "Polędwica z dorsza czarnego z sosem limonkowym, komosą ryżową i surówką z pora i białej kapusty",
+        "ingredientsList": "POLĘDWICA Z DORSZA CZARNEGO, Komosa ryżowa czarna, Woda, Kapusta biała, ŚMIETANKA 15%, Por, BULION WARZYWNY, MAJONEZ Z OLEJEM RZEPAKOWYM, Sok z limonki, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, MASŁO, Limonka, Sok z cytryny, Natka pietruszki, Sól morska, Pieprz mielony, Profesor Ziółko - groszek czepny, Pieprz cytrynowy, Sól himalajska"
+      },
+      {
+        "dishName": "Klopsiki z tofu naturalnego w sosie pomidorowym z kaszą bulgur, groszkiem cukrowym i kolorową marchewką",
+        "ingredientsList": "TOFU NATURALNE, Pomidory pelati kostka, Woda, KASZA BULGUR, JAJA KURZE, Marchew filetowa - czarna, Marchew żółta, Marchew, Słonecznik, Koncentrat pomidorowy, Groszek cukrowy strączkowy Snap Peas Bond, Natka pietruszki, Koper ogrodowy, Imbir świeży, Pieprz mielony, Oliwa z oliwek, Profesor Ziółko - kiełki słonecznika, Oregano, Majeranek, Papryka słodka (mielona), Cząber, Oliwa czosnkowa, Kurkuma świeża, Sól morska, Sól, Ksylitol"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Panna Cotta jeżynowa",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Pralinka orzechowo-daktylowa",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Sałatka z tuńczyka i selera naciowego podana z pieczywem chrupkim wieloziarnistym na zakwasie",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Bigos z Pancettą",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Kuskus na słodko z bananem",
+        "ingredientsList": ""
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Gruzińskie Penovani- zapiekany chlebek z kurczakiem w aromatycznych przyprawach",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Pieczeń z czerwonej soczewicy z pieczywem wieloziarnistym i cząstkami pomidora",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Tradycyjny barszcz biały z jajkiem, białą kiełbasą podany z pieczywem",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Pâté z kurczaka z keto chlebkiem drożdżowym i ogórkami kiszonymi",
+        "ingredientsList": ""
+      },
+      {
+        "dishName": "Sałatka z serem halloumi, pomarańczą, komosą oraz dressingiem żurawinowym",
+        "ingredientsList": ""
+      }
+    ]
+  }
+]

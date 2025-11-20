@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Croissanty z sosem żurawinowym i serem Brie",
+        "ingredientsList": "CROISSANT 50G (MĄKA PSZENNA, MASŁO WODA, DROŻDŻE, CUKIER, JAJA KURZE, SÓL, GLUTEN PSZENNY, KWAS ASKORBINOWY), SER BRIE NATURALNY (PODPUSZCZKA MIKROBIOLOGICZNA), Pomidory koktajlowe, Żurawina, Borówki amerykańskie, Szpinak baby, Rukola, Sok cytrynka"
+      },
+      {
+        "dishName": "Naleśniki z twarożkiem truskawkowym, świeżymi owocami i jogurtem waniliowym",
+        "ingredientsList": "NALEŚNIKI HOLENDERSKIE (WODA, MĄKA PSZENNA, MLEKO, OLEJ SŁONECZNIKOWY, JAJA KURZE, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY), TWARÓG RACIBORSKI, Truskawki, JOGURT NATURALNY, TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Ananas, Winogrona jasne, Winogrona ciemne, Ksylitol, KREM ANGIELSKI , Mięta liście"
+      },
+      {
+        "dishName": "Jajka na fasolce w pomidorach podane z białą kiełbaską, pieczarkami i tostem pełnoziarnistym",
+        "ingredientsList": "JAJA KURZE, Pieczarki, CHLEB TOSTOWY PEŁNOZIARNISTY (MĄKA PSZENNA, WODA, ZIARNO ŻYTA, SIEMIĘ LNIANE, ZIARNO SŁONECZNIKA, OTRĘBY PSZENNE, DROŻDŻE, SÓL, SŁÓD JĘCZMIENNY , ŚRODEK WYPIEKOWY), KIEŁBASKI BIAŁE (MIĘSO WIEPRZOWE, MIĘSO Z INDYKA , WODA, TŁUSZCZ WIEPRZOWY, SKROBIA ZIEMNIACZANA, SÓL, BŁONNIK ROŚLINNY, PRZYPRAWY (ZAWIERAJĄ GORCZYCĘ), BIAŁKO SOJOWE,KARAGEN, GUMA KSANTANOWA, ASKORBINIAN SODU), Fasola biała Cannellini, nasiona suche, Woda, Passata pomidorowa (przecier), Oliwa z oliwek, Cebula, Koncentrat pomidorowy, Czosnek, Ksylitol, Olej rzepakowy, Pietruszka, liście, Majeranek, Papryka słodka (mielona), Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Gryczanka z brzoskwiniami, jogurtem z miodem pszczelim i owocami: jabłkiem, melonem i winogronami",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO, Brzoskwinia kostka, Kasza gryczana niepalona (biała), Melon, Winogrona, Jabłko, Mleczko kokosowe RealThai, MIGDAŁY (PŁATKI), Ksylitol, Żurawina suszona, Miód pszczeli, Len, SEZAM BIAŁY, Agar"
+      },
+      {
+        "dishName": "Keto rolada z \"tortilli\" z serkiem warzywnym, sos koperkowy i sałatka z pomidorem i zielonymi oliwkami",
+        "ingredientsList": "JAJA KURZE, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), ŚMIETANKA 15%, Papryka czerwona, DYNIA PESTKI, Oliwki zielone całe, Oliwki zielone krojone*, Suszone pomidory, BULION WARZYWNY, Pomidory cherry żółte, Pomidory koktajlowe, śliwkowe, Sałata lodowa, Koper ogrodowy, Mąka kokosowa, Cebula, Szpinak baby, Czosnek, Olej rzepakowy, Mąka z tapioki, Oliwa z oliwek, Sól morska, Pieprz mielony"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Smoothie z jabłkiem, winogronem i czarnym bzem",
+        "ingredientsList": "Winogrona ciemne, Jabłko sokowe, Woda mineralna niegazowana, Sok jabłkowy, MIGDAŁY, Pasta owocowo smakowa Czarny Bez"
+      },
+      {
+        "dishName": "Buraczana pasta z ricottą i grissini",
+        "ingredientsList": "SER RICOTTA MIĘKKA, Burak, MĄKA PSZENNA TYP \"00\" NA PIZZĘ, Woda, Oliwa z oliwek, Koper ogrodowy, Sok cytrynka, Pieprz mielony, Roszponka, Drożdże suszone, Cukier, Sól morska, Rozmaryn (świeży)"
+      },
+      {
+        "dishName": "Bigos z boczniakami z pieczywem",
+        "ingredientsList": "Kapusta biała, Kapusta kiszona, CHLEB DRWALSKI (MĄKA PSZENNA, ŻYTNIA, WODA, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, SÓL, DROŻDŻE, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Woda, Boczniaki, Soczewica zielona nasiona suche, Jabłko t, Cebula, Śliwki suszone, Żurawina suszona, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Olej rzepakowy, Koncentrat pomidorowy, Syrop klonowy, Grzyby suszone, Ziele angielskie, Liść laurowy, Jałowiec, Sól morska, Goździki, Majeranek, GORCZYCA, Papryka słodka, wędzona (mielona), Kminek mielony, Tymianek, Cząber, Mielona papryka chili, Kolendra ziarna, WINO CZERWONE (WYTRAWNE)"
+      },
+      {
+        "dishName": "Deser \"trifle\" z mango",
+        "ingredientsList": "Puree mango, TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, ŚMIETANKA 30% BEZ LAKTOZY, Mango, JAJA KURZE, ORZECHY ZIEMNE GRYS, Ksylitol, MĄKA ORKISZOWA JASNA, Granat, MĄKA MIGDAŁOWA, Kakao, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), PROSZEK DO PIECZENIA"
+      },
+      {
+        "dishName": "Zupa z dyni i cukinii z grzankami serowo - sezamowymi",
+        "ingredientsList": "BULION WARZYWNY, Dynia hokaido, Cukinia zielona, Mleczko kokosowe RealThai, Cebula, JAJA KURZE, SER GOUDA, MĄKA MIGDAŁOWA, DYNIA PESTKI, MASŁO, Sok z cytryny, Czosnek, SEZAM BIAŁY, Sól morska, Pieprz biały, Kurkuma, PROSZEK DO PIECZENIA, Oregano"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Krewetki z orzechami arachidowymi, makaronem ryżowym i sałatką z glonami wakame",
+        "ingredientsList": "KREWETKI TYGRYSIE 16/20 OBRANA B/O, Woda, Glony wakame, Makaron ryżowy 10mm, BULION WARZYWNY, Kapusta biała, Grzyby shitake całe (suszone), Rzodkiew biała, ORZECHY ZIEMNE GRYS, Kapusta Pak Choi, SELER NACIOWY, Cebula, Marchew, Cebula czerwona, Papryka czerwona długa, MASŁO ORZECHOWE, Czosnek, Imbir świeży, SOS RYBNY, OLEJ SEZAMOWY, Kolendra (świeża), Sambal, Pieprz mielony, Natka pietruszki, Oliwa z oliwek"
+      },
+      {
+        "dishName": "Filet z piersi kurczaka w sosie pomidorowym z frytkami z batatów i grillowaną kolorową cukinią",
+        "ingredientsList": "Bataty, Filet z piersi kurczaka, bez skóry, Pomidory pelati, Cukinia zielona, Cukinia żółta, SEZAM BIAŁY, Bazylia świeża, Oliwa z oliwek, Ksylitol, Sól morska, Pomidory suszone z oregano, Marynata premium do drobiu, Oliwa z oliwek, Oregano, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Lasagne ze szpinakiem, serem kozim i pieczonymi warzywami ze szparagami",
+        "ingredientsList": "Dynia piżmowa, Pomidory pelati, Szpinak, Szparagi zielone (mrożone), MAKARON LASAGNE, SER KOZI ROLADA TWAROGOWA, Marchew, Słonecznik, MOZZARELLA BIERUŃSKA BLOK 1.5 KG (PODPUSZCZKA MIKROBIOLOGICZNA), Cebula czerwona, MLEKO SPOŻYWCZE 2%, ŚMIETANKA 15%, Cebula, Oliwa z oliwek, MĄKA PSZENNA, TYP 500, Oliwa z oliwek, Czosnek, Bazylia świeża, Ksylitol, Mielona gałka muszkatołowa, Rozmaryn (świeży), Sól, Olej rzepakowy, Tymianek, Pieprz mielony"
+      },
+      {
+        "dishName": "Pieczeń wołowa w sosie grzybowym z batatami i czerwoną kapustą",
+        "ingredientsList": "Bataty, Mięso wołowe zrazowa górna, Czerwona kapusta z jabłkiem, Pieczarki, Borowik do sosów kostka, ŚMIETANKA 30% BEZ LAKTOZY, Olej rzepakowy, Cebula, Czosnek, BULION WARZYWNY, Czosnek granulowany, MUSZTARDA DIJON, WINO BIAŁE PÓŁWYTRAWNE, Sól, Rozmaryn (świeży), Tymianek, Oliwa z oliwek, Pieprz mielony"
+      },
+      {
+        "dishName": "Filet z pstrąga z sosem kaparowym, frytkami z selera i surówką z białej kapusty i marchewki",
+        "ingredientsList": "PSTRĄG FILET, SELER KORZENIOWY, Kapusta biała, ŚMIETANKA 15%, Marchew, Cytryna, Kapary, Słonecznik, Cebula, Koper ogrodowy, Olej rzepakowy, WINO BIAŁE PÓŁWYTRAWNE, Pieprz mielony, Oliwa z oliwek, Sól, Rozmaryn (świeży), Pieprz cytrynowy, Sól himalajska"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Waniliowe risotto z owocami leśnymi w sosie",
+        "ingredientsList": "MLEKO, Owoce mix: truskawka, porzeczka, owoce leśne, KREM ANGIELSKI , Ryż do sushi, Borówki amerykańskie, Woda, ORZECHY LASKOWE, Ksylitol, Koncentrat kompotu owoce leśne z jabłkiem bez cukru, Skrobia ziemniaczana, Cukier wanilinowy, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Sok cytrynka"
+      },
+      {
+        "dishName": "Omlet na bazie biszkoptu polany czekoladą i podany z musem jabłkowym",
+        "ingredientsList": "BIAŁKO JAJA KURZEGO, Jabłko, MĄKA PSZENNA, TYP 500, Ksylitol, ŻÓŁTKO JAJA, CZEKOLADA DESEROWA, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Olej rzepakowy, Cynamon"
+      },
+      {
+        "dishName": "Chlebek orkiszowy własnej produkcji z oliwkami i suszonymi pomidorami podany z pastą z pieczonej papryki i sera typu feta",
+        "ingredientsList": "Pomidory koktajlowe, Peperonata, MĄKA ORKISZOWA JASNA, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Woda, MĄKA ORKISZOWA CIEMNA, Oliwki czarne, Suszone pomidory, Słonecznik, ORZECHY ZIEMNE GRYS, Oliwa z oliwek, Czosnek, JAJA KURZE, Drożdże suszone, Pieprz mielony, Mięta liście, Ksylitol, Sól morska, Profesor Ziółko - groszek czepny"
+      },
+      {
+        "dishName": "Sernik cytrynowy z lemon curd",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, HERBATNIKI PETIT BEURRE (SKROBIA KUKURYDZIANA, MĄKA KUKURYDZIANA, MASŁO, JAJA, MALTITOL, BŁONNIK ROŚLINNY (INULINA Z CYKORII, ROZPUSZCZALNY BŁONNIK Z TAPIOKI), ODTŁUSZCZONE MLEKO W PROSZKU, LECYTYNY SŁONECZNIKOWE, SÓL, PROSZEK DO PIECZENIA, AROMAT., Ksylitol, MASŁO, ŚMIETANA, JAJA KURZE, MĄKA ORKISZOWA JASNA, Sok cytrynka, JAJA KURZE, Skórka z cytryny (starta), Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%))"
+      },
+      {
+        "dishName": "Koktajl czekoladowo - truskawkowy",
+        "ingredientsList": "Woda kokosowa, Mleczko kokosowe RealThai, Truskawki, NAPÓJ MIGDAŁOWY, Kakao, CZEKOLADA DESEROWA, Ksylitol"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Sałatka z kurczakiem, kuskusem perłowym, fetą i piklowaną czerwoną cebulą",
+        "ingredientsList": "Pomidory koktajlowe, Filet z piersi kurczaka, bez skóry, Woda, Ogórek zielony (długi), SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, KUSKUS PERŁOWY, Szpinak baby, Cebula czerwona, DYNIA PESTKI, Granat, MUSZTARDA DIJON, Sok z cytryny, Kolendra (świeża), Pieprz mielony, Olej rzepakowy, Marynata premium do drobiu, Czosnek niedźwiedzi, Papryka słodka, wędzona (mielona), Sól, Miód pszczeli, Oregano, Sól morska, Ocet jabłkowy z dojrzałych jabłek"
+      },
+      {
+        "dishName": "Zupa krem z pomidorów z dodatkiem bazylii, kulkami włoskiej mozzarelli i makaronem fusilli",
+        "ingredientsList": "Pomidory pelati, Woda, MAKARON FUSILLI JASNY, SER MOZZARELLA MINI, Marchew, Oliwa z oliwek, Pietruszka, korzeń, SELER NACIOWY, Ksylitol, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Warzywne curry z czerwoną fasolą, mięsem z udka kurczaka i makaronem sojowym",
+        "ingredientsList": "Woda, Mięso z podudzia kurczaka (bez skóry i kości), Passata pomidorowa (przecier), Fasola czerwona w zalewie (konserwowa), MAKARON SOJOWY VERMICELLI, Cukinia (kostka mrożona), Papryka czerwona, Mleczko kokosowe RealThai, Pieczarki, Groszek zielony, Cebula, Olej rzepakowy, Pasta curry czerwona, Czosnek, Imbir świeży, Sok z limonki, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Ksylitol, Natka pietruszki, Pieprz mielony, Sól morska"
+      },
+      {
+        "dishName": "Fajita wegańska sojowa z nachosami i guacamole",
+        "ingredientsList": "Guacamole, KOTLETY SOJOWE, BULION WARZYWNY, Cebula, Cebula czerwona, Papryka zielona, Papryka żółta, Papryka czerwona, TORTILLA PEŁNOZIARNISTA (MĄKA PSZENNA PEŁNOZIARNISTA, WODA, OLEJ RZEPAKOWY, STABILIZATORY: GLICEROL, GUMA GUAR, GLUTEN PSZENNY, SÓL, GLUKOZA, EMULGATOR: MONO- I DIGLICERYDY KW. TŁUSZCZOWYCH, WĘGLANY SODU), Płatki chili, Sok z limonki, Oliwa z oliwek, Przyprawa fajita, Papryka słodka (mielona), Kmin rzymski (kumin), Sól, Pieprz mielony, Olej rzepakowy, Zielone papryczki ostre (jalapeno), Marynata premium do drobiu, Papryka słodka, wędzona (mielona)"
+      },
+      {
+        "dishName": "Pizza na spodzie z kalafiora z \"wege kurczakiem\" i sosem pomidorowym",
+        "ingredientsList": "Kalafior brunoise, Pomidory pelati, BIAŁKO JAJA KURZEGO, SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Pieczarki, WEGAŃSKI JAK KURCZAK, MĄKA MIGDAŁOWA, Cebula czerwona, Mąka kokosowa, Oliwa extra virgin, Oliwki czarne, Rukola, Siemię lniane (mielone), Cebula, Bazylia świeża, Ksylitol, Czosnek, Oregano, Oliwa z oliwek, Pieprz mielony, Sól"
+      }
+    ]
+  }
+]
