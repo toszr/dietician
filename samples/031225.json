@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Naleśniki z twarożkiem orzechowym i sosem waniliowym",
+        "ingredientsList": "NALEŚNIKI HOLENDERSKIE (WODA, MĄKA PSZENNA, MLEKO, OLEJ SŁONECZNIKOWY, JAJA KURZE, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY), JOGURT NATURALNY, TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, MASŁO ORZECHOWE, KREM ANGIELSKI , CZEKOLADA DESEROWA, Ksylitol, ORZECHY ARACHIDOWE, Granat, Olej rzepakowy, Mięta liście"
+      },
+      {
+        "dishName": "Omlety jajeczne z szynką i jarmużem, bagietka oraz kolorowe pomidorki",
+        "ingredientsList": "JAJA KURZE, Szynka z piersi kurczaka, BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), Pomidory cherry żółte, Pomidory koktajlowe, śliwkowe, DYNIA PESTKI, Cukinia (kostka mrożona), Jarmuż, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Scones z rodzynkami i konfiturą malinową z maślanym serkiem (scones delikatnie podgrzać)",
+        "ingredientsList": "MĄKA PSZENNA, TYP 500, MLEKO SPOŻYWCZE 2%, Maliny (mrożone), TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Rodzynki, Ksylitol, Olej kokosowy (rafinowany), JAJA KURZE, BIAŁKO JAJA KURZEGO, MASŁO, Cukier wanilinowy, Soda oczyszczona, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Pektyna"
+      },
+      {
+        "dishName": "Orkiszanka z czerwoną porzeczką, jogurtem i owocami: jabłkiem i gruszką",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO, Porzeczki czerwone, PŁATKI ORKISZOWE (PEŁNOZIARNISTE), Gruszka, Jabłko, Żurawina suszona, ORZECHY WŁOSKIE, Siemię lniane, OTRĘBY OWSIANE, Agar"
+      },
+      {
+        "dishName": "Hummus z jajkiem i keto chlebkiem",
+        "ingredientsList": "Ciecierzyca nasiona suche, Jaja kurze (gotowane) Eipro, JAJA KURZE, Woda mineralna niegazowana, Woda, Rzodkiewka, Olej kokosowy (rafinowany), Mąka kokosowa, Babka płesznik (jajowata), Słonecznik, Rukola, Sałata Freeze, Czosnek, Sok z cytryny, Tahini, Sól, Oliwa z oliwek, Pieprz mielony, Kolendra (świeża), PROSZEK DO PIECZENIA, Oliwa z oliwek, Kmin rzymski (kumin), Sól himalajska, Natka pietruszki, Bazylia suszona, Oregano, Pomidory suszone z oregano"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Bagietka z jajkiem",
+        "ingredientsList": "BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), Jaja kurze (gotowane) Eipro, Pomidory cherry czarny, Ogórek zielony (długi), JAJA KURZE, SER RICOTTA MIĘKKA, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Koper ogrodowy, Słonecznik, Sałata rzymska, SER TOPIONY, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Sok z buraka (koncentrat), Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Kakaowe babeczki z polewą czekoladową",
+        "ingredientsList": "MĄKA PSZENNA, TYP 500, JOGURT NATURALNY, JAJA KURZE, MASŁO, Ksylitol, CZEKOLADA DESEROWA, Kakao, PROSZEK DO PIECZENIA, Olej rzepakowy, Soda oczyszczona, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Mięta liście"
+      },
+      {
+        "dishName": "Kapuśniak z soczewicą i kaszą kuskus",
+        "ingredientsList": "BULION WARZYWNY, Kapusta kiszona, Woda, KASZA KUSKUS, Woda, Włoszczyzna, Soczewica zielona nasiona suche, Ziemniaki obrane, Cebula, ŚMIETANKA 30% BEZ LAKTOZY, Czosnek, Koper ogrodowy, Ziele angielskie, Liść laurowy, Kminek polski susz"
+      },
+      {
+        "dishName": "Deser z granolą z orzechami, serkiem wiejskim i jabłkiem",
+        "ingredientsList": "SEREK WIEJSKI (NATURALNY), Jabłko, PŁATKI ŻYTNIE, Erytrol, Woda, Olej kokosowy (rafinowany), ORZECHY ZIEMNE GRYS, Granat, ORZECHY ARACHIDOWE, Słonecznik, ORZECHY WŁOSKIE, DYNIA PESTKI, SEZAM BIAŁY, CZEKOLADA CIEMNA 60% BEZ CUKRU, Cynamon, Przyprawa do piernika (cynamon, goździki, kolendra, ziele angielskie, gałka muszkatołowa, anyż, pieprz, imbir, kardamon), Amaretto, Imbir mielony"
+      },
+      {
+        "dishName": "Jogurt malinowy z mieszanką orzechów: nerkowców, laskowych i arachidowych",
+        "ingredientsList": "JOGURT NATURALNY, Maliny (mrożone), ORZECHY ARACHIDOWE, ORZECHY LASKOWE, ORZECHY NERKOWCA, Ksylitol, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%))"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Makaron bucatini z sosem śmietanowo - cukiniowym i pappardelle z grillowaną polędwiczką",
+        "ingredientsList": "Polędwica wieprzowa (surowa), Woda, Cukinia zielona, MAKARON BUCATINI, Marchew, ŚMIETANKA 15%, Suszone pomidory, BULION WARZYWNY, PARMEZAN, Szpinak baby, Sól morska, Cebula, Pieprz mielony, Czosnek, Oliwa z oliwek, Pieprz zielony, Tymianek, Liść laurowy, Mielona gałka muszkatołowa, Sól"
+      },
+      {
+        "dishName": "Tradycyjne kotlety mielone z gnocchi w sosie pieczeniowym i mini marchewkami",
+        "ingredientsList": "Marchew mini, GNOCCHI NATURALNE, Szynka wieprzowa (surowa), Polędwiczki z kurczaka, ŚMIETANKA 15%, JAJA KURZE, BULION WARZYWNY, MLEKO, BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), BUŁKA TARTA, DEMI GLAZE, Rozmaryn (świeży), Pieprz mielony, Natka pietruszki, Sól morska"
+      },
+      {
+        "dishName": "Conchiglioni pod wegetariańskim beszamelem",
+        "ingredientsList": "MLEKO BEZLAKTOZOWE 1,5%UHT, WEGAŃSKIE MIĘSO MIELONE, Pomidory pelati, MAKARON CONCIGLIIONI, TOFU NATURALNE, Woda, Cukinia zielona, Papryka czerwona, Papryka zielona, Słonecznik, Cebula, Cebula czerwona, WINO CZERWONE (WYTRAWNE), MASŁO, MĄKA PSZENNA, TYP 500, Pieczarki, Cebulka balsamiczna, Oliwki czarne całe b/p*, Marchew, PARMEZAN, Pietruszka, korzeń, SELER NACIOWY, Sok z cytryny, Czosnek, Oliwa z oliwek, Bazylia suszona, Natka pietruszki, Ksylitol, Tymianek, Oliwa z oliwek, Pieprz mielony, Rozmaryn (świeży), Tymianek, Oregano, Mielona gałka muszkatołowa, Sól morska"
+      },
+      {
+        "dishName": "Filet z piersi kurczaka po tajsku z mixem ryżu: dzikim i czarnym",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Woda, Pomidory pelati, BULION MIĘSNY, Ryż dziki, Ryż czarny, Kiełki fasoli mung, Marchew, Groszek cukrowy strączkowy Snap Peas Bond, SELER NACIOWY, Cukinia zielona, ORZECHY ZIEMNE GRYS, Groszek zielony, Mleczko kokosowe RealThai, SOS OSTRYGOWY MEA KRUA (EKSTRAKT Z OSTRYG, CUKIER, SÓL, FASOLKA SOI, MĄKA PSZENNA, SKROBIA KUKURYDZIANA, SUBSTANCJA KONSERWUJĄCA: E211), SEZAM CZARNY, Tom Yum, Kolendra (świeża), Skrobia ziemniaczana, OLEJ SEZAMOWY, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), Sok z limonki, Sól, KONCENTRAT FONDU ZE SKORUPIAKÓW, Sambal, Pieprz mielony"
+      },
+      {
+        "dishName": "Filet z halibuta z sosem ziołowym, frytkami z selera i surówką z kapusty białej",
+        "ingredientsList": "FILET Z HALIBUTA, SELER KORZENIOWY, Kapusta biała młoda, ŚMIETANKA 30% BEZ LAKTOZY, BULION WARZYWNY, Cebula, MUSZTARDA STOŁOWA, Olej rzepakowy, Koper ogrodowy, Mąka z tapioki, Tymianek, Czosnek, Sok cytrynka, Ksylitol, Oliwa z oliwek, Pieprz mielony, Sól, Rozmaryn (świeży), Sól morska"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Deser \"Szarlotka\"",
+        "ingredientsList": "Jabłko, BIAŁKO JAJA (KURZEGO), JOGURT NATURALNY, ŚMIETANKA VEGETOP 33%, MĄKA PSZENNA, TYP 500, Ksylitol, JAJA KURZE, Miód pszczeli, MIGDAŁY (PŁATKI), Granat, Woda, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Cynamon, PROSZEK DO PIECZENIA, Imbir, Przyprawa do piernika (cynamon, goździki, kolendra, ziele angielskie, gałka muszkatołowa, anyż, pieprz, imbir, kardamon), Amaretto"
+      },
+      {
+        "dishName": "Jogurt pitny bananowo-żurawinowy",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO, Żurawina, Woda mineralna niegazowana, Banan"
+      },
+      {
+        "dishName": "Pierożki gyoza z warzywami i sałatką z grzybami shitake i kapustą",
+        "ingredientsList": "PIEROŻKI GYOZA Z WARZYWAMI, Grzyby shitake całe (suszone), Glony wakame, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), Kapusta biała, SEZAM CZARNY, Woda mineralna niegazowana, Por, Marchew, Papryka czerwona, Szczypiorek, Sos sweet-chili (cukier, woda, czerwone chili, czosnek, sól, skrobia kukurydziana, kwas octowy), SEZAM BIAŁY, Czosnek, OLEJ SEZAMOWY"
+      },
+      {
+        "dishName": "Makaron Aglio Olio",
+        "ingredientsList": "Pomidory koktajlowe, śliwkowe, Woda, MAKARON SPAGHETTI PEŁNOZIARNISTY, PARMEZAN, Oliwa z oliwek, Czosnek, Rukola, Natka pietruszki, Papryka pirpiri"
+      },
+      {
+        "dishName": "Ciasto z cukinii z kremem cynamonowym",
+        "ingredientsList": "Cukinia zielona, ŚMIETANKA 30% BEZ LAKTOZY, JAJA KURZE, CZEKOLADA DESEROWA, Erytrol, MĄKA MIGDAŁOWA, Olej kokosowy (rafinowany), Kakao, Cynamon"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Carpaccio z buraków z serem kozim. Uwaga. Orzechy mogą zawierać łupiny.",
+        "ingredientsList": "Burak brudny surowy, Winogrona, SER KOZI ROLADA TWAROGOWA, Pomidory koktajlowe, śliwkowe, Kapary z ogonkiem, Oliwa z oliwek, Cytryna, Ocet balsamiczny, ORZECHY WŁOSKIE, Rukola, Miód pszczeli, Woda, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Sałatka z patatkami, jajkiem, pieczoną cukinią i sosem koperkowym",
+        "ingredientsList": "Jaja kurze (gotowane) Eipro, Ziemniaki Baby Patatki, Cukinia zielona, Fasolka szparagowa zielona, JOGURT NATURALNY, Rukola, Koper ogrodowy, Pieprz mielony, Sok z cytryny, Sól, Przyprawa do ziemniaków"
+      },
+      {
+        "dishName": "Pasta z ricotty z ziołami, żytnim pieczywem i pomidorkami koktajlowymi",
+        "ingredientsList": "Pomidory koktajlowe, śliwkowe, CHLEB ŻYTNI NA ZAKWASIE HB (MĄKA: ŻYTNIA TYP 1400, ŻYTNIA RAZOWA 2000, PSZENNA PEŁNOZIARNISTA TYP 2000, WODA, SÓL, SŁÓD JĘCZMIENNY, ZAKWAS), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), SER RICOTTA MIĘKKA, SER NA SERNIK, DYNIA PESTKI, Rukola, Szczypiorek, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Pasztet staropolski z sosem malinowym z pieczywem żytnim i ogórkiem kiszonym",
+        "ingredientsList": "OGÓRKI KISZONE, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Wątróbka (z kurczaka), Maliny (mrożone), Polędwiczki z kurczaka, Cebula, Wieprzowina (schab, szynka, karkówka), BIAŁKO JAJA KURZEGO, ŚMIETANKA 15%, Marchew, Śliwki suszone, Pietruszka, korzeń, Ksylitol, Czosnek, Rozmaryn (świeży), Tymianek gałązka do ozdoby, Jałowiec, Majeranek, Ziele angielskie"
+      },
+      {
+        "dishName": "Placuszki dyniowe z sosem serowym i mixem sałat z pomidorkami i papryką",
+        "ingredientsList": "Dynia, BIAŁKO JAJA KURZEGO, ŚMIETANKA 30% BEZ LAKTOZY, ŻÓŁTKO JAJA, Papryka zielona, Papryka żółta, Pomidory cherry czerwone, SER CHEDDAR, Mąka kokosowa, Cebula, Natka pietruszki, Olej kokosowy (nierafinowany), Szpinak baby, Rukola, Sałata lodowa, Czosnek, Oliwa z oliwek, Sól himalajska"
+      }
+    ]
+  }
+]
