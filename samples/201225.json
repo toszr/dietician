@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Brioche (lekko podgrzać) z twarożkiem truskawkowym z ricottą, orzechami pekan i jabłkiem",
+        "ingredientsList": "Jabłko, MĄKA PSZENNA, TYP 500, JAJA KURZE, TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Truskawki, MLEKO SPOŻYWCZE 2%, SER RICOTTA MIĘKKA, MASŁO, Ksylitol, ORZECHY PEKAN, Erytrol, Drożdże suszone, Sól, Sok z cytryny"
+      },
+      {
+        "dishName": "Frittata z serem wędzonym, boczniakami i cukinią, pieczywem żytnim i słupkami ogórka",
+        "ingredientsList": "JAJA KURZE, Ogórek zielony (długi), CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), SER WĘDZONY ROLADA USTRZYCKA, Cukinia duet Minute, Boczniaki, SER GOUDA, DYNIA PESTKI, Słonecznik, Szczypiorek, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Naleśniki z czekoladowym twarożkiem i musem brzoskwiniowym",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, NALEŚNIKI HOLENDERSKIE (WODA, MĄKA PSZENNA, MLEKO, OLEJ SŁONECZNIKOWY, JAJA KURZE, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY), Brzoskwinia kostka, Brzoskwinia, Ksylitol, CZEKOLADA DESEROWA, Kakao, CZEKOLADA DESEROWA, Olej rzepakowy"
+      },
+      {
+        "dishName": "Chałka mleczna z serkiem waniliowym i chutney śliwkowym",
+        "ingredientsList": "Śliwki, MĄKA PSZENNA, TYP 500, JAJA KURZE, TWARÓG CHUDY, JOGURT NATURALNY, Ksylitol, KREM ANGIELSKI , MASŁO, MIGDAŁY (PŁATKI), Miód pszczeli, Drożdże suszone, Cukier trzcinowy, Soda oczyszczona, Cynamon"
+      },
+      {
+        "dishName": "Panini z serem cheddar, pomidorem i pesto bazyliowym podane z sosem pomidorowym",
+        "ingredientsList": "Pomidory pelati, JAJA KURZE, Pomidor, SER CHEDDAR, Boczek Pancetta Arrotolata, Oliwki czarne, Rukola, Suszone pomidory, Oliwa czosnkowa nasza, Olej kokosowy (rafinowany), Mąka kokosowa, Babka płesznik (jajowata), Szpinak baby, Bazylia świeża, Sól morska, Pieprz mielony, PROSZEK DO PIECZENIA, Ksylitol, Sól himalajska, Sól, Oregano, Bazylia suszona"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Krem z pomidorów z ryżem basmati",
+        "ingredientsList": "Pomidory pelati, Woda, Ryż basmati Punjabi, Woda, Cebula, Czosnek, Pietruszka, korzeń, Marchew, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Ksylitol, Oliwa z oliwek, Profesor Ziółko - groszek czepny, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Smoothie z owocami leśnymi i truskawką",
+        "ingredientsList": "MLEKO, Truskawki, Mieszanka owoców leśnych, ODŻYWKA BIAŁKOWA (WPC), Ksylitol"
+      },
+      {
+        "dishName": "Hummus limonkowy z pieczywem drwalskim i pomidorkami koktajlowymi",
+        "ingredientsList": "Pomidory koktajlowe, CHLEB DRWALSKI (MĄKA PSZENNA, ŻYTNIA, WODA, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, SÓL, DROŻDŻE, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Woda, NAPÓJ SOJOWY BEZ CUKRU, Ciecierzyca nasiona suche, SEZAM BIAŁY, Tahini, Szpinak, OLEJ SEZAMOWY, Sok z cytryny, Sok z limonki, Kolendra (świeża), Sól morska"
+      },
+      {
+        "dishName": "Deser kokosowy z wiśniami i orzechami pekan",
+        "ingredientsList": "Wiśnie, SER NA SERNIK, JAJA KURZE, JOGURT NATURALNY, MĄKA ORKISZOWA JASNA, Ksylitol, MĄKA MIGDAŁOWA, Wiórki kokosowe, ORZECHY PEKAN, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Kakao, PROSZEK DO PIECZENIA"
+      },
+      {
+        "dishName": "Keto blondi",
+        "ingredientsList": "Cukinia zielona, JAJA KURZE, Mąka kokosowa, Mleczko kokosowe RealThai, CZEKOLADA BIAŁA 29% PASTYLKI, MIGDAŁY (PŁATKI), Cukier trzcinowy, Olej kokosowy (nierafinowany), PROSZEK DO PIECZENIA"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Filet kurczęcy w pesto z rukoli z komosą ryżową i pieczoną kolorową marchewką",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Komosa ryżowa biała, Woda, Marchew filetowa - czarna, Marchew, ŚMIETANKA 15%, BULION WARZYWNY, Oliwa z oliwek, Cebula, Natka pietruszki, Rukola, Oliwa z oliwek, Czosnek, Sok cytrynka, Sól, Tymianek, Słonecznik, Pieprz mielony"
+      },
+      {
+        "dishName": "Dzień Ryby: Morszczuk w sosie kaparowym, ziemniakami i brokułem",
+        "ingredientsList": "MORSZCZUK AUSTRALIJSKI FILET BEZ SKÓRY (MROŻONY), Ziemniaki obrane, Brokuł (mrożony), BULION WARZYWNY, ŚMIETANKA 15%, Kapary, Natka pietruszki, Pieprz mielony, WINO BIAŁE PÓŁWYTRAWNE, Tymianek, Oliwa z oliwek, Sól morska, Profesor ziółko - kiełki brokuła, Sól"
+      },
+      {
+        "dishName": "Kotleciki z soczewicy w sosie kalafiorowym z ziemniakami i sałatką z papryki, ogórków i rzodkiewki",
+        "ingredientsList": "Ziemniaki (wczesne), Woda, Soczewica czerwona, nasiona suche, Marchew, Papryka żółta, Płatki jaglane, Ogórek zielony (długi), Kalafior, BULION WARZYWNY, Rzodkiewka, Cebula, BIAŁKO JAJA KURZEGO, Oliwki czarne, Flora Professional Plant 15% (roztwór białka soczewicy (woda, białko soczewicy 2,5%), olej rzepakowy, tłuszcz kokosowy, cukier, modyfikowana skrobia ziemniaczana, emulgator (polisorbat 60), stabilizatory (metyloceluloza, guma ksantanowa), regulator kwasowości (cytrynian trisodowy), aromat naturalny, sól, barwnik (karoteny)), Koper ogrodowy, Rukola, Cebula czerwona, Czosnek, Oliwa z oliwek, Szczypiorek, WINO BIAŁE PÓŁWYTRAWNE, Sól, Pieprz mielony, Mielona gałka muszkatołowa"
+      },
+      {
+        "dishName": "Kuleczki z indyka w sosie BBQ z kaszą bulgur i grillowanymi warzywami",
+        "ingredientsList": "Woda, Mielony filet z piersi indyka (bez skóry), KASZA BULGUR, Passata pomidorowa (przecier), BUŁKA TARTA PEŁNOZIARNISTA, Papryka żółta, Włoszczyzna, Cukinia zielona, Papryka zielona, Cebula czerwona, Koncentrat pomidorowy, Olej rzepakowy, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Czosnek, Erytrol, Cebula, Ocet jabłkowy z dojrzałych jabłek, Oregano, Pomidory suszone z oregano, Sól, Mielona papryka chili, Marynata premium do drobiu, Pieprz mielony, Profesor ziółko - rukola"
+      },
+      {
+        "dishName": "Schab sous vide w sosie winogronowym z szila plawi",
+        "ingredientsList": "Schab wieprzowy (bez kości), Woda, BULION MIĘSNY, Kalafior brunoise, Pieczarka mała, Cebula, ORZECHY ZIEMNE GRYS, BULION WARZYWNY, WINO BIAŁE PÓŁWYTRAWNE, ŚMIETANKA 15%, Winogrona rodzynkowe ciemne, Czosnek, MASŁO ORZECHOWE, MĄKA PSZENNA, TYP 500, Oliwa z oliwek, Natka pietruszki, ORZECHY WŁOSKIE, Marchew, Majeranek, Sól, Kolendra mielona, Pieprz mielony, Chmeli-suneli, Ziele angielskie, Liść laurowy, Tymianek"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Jogurt waniliowy z musem malinowym i musli",
+        "ingredientsList": "JOGURT NATURALNY, Maliny (mrożone), PŁATKI OWSIANE, KREM ANGIELSKI , Sok pomarańczowy, Miód pszczeli, MIGDAŁY (PŁATKI), Żurawina suszona, SEZAM CZARNY, Siemię lniane, Ksylitol, Woda mineralna niegazowana"
+      },
+      {
+        "dishName": "Drożdżowe babeczki z jabłkiem i kruszonką",
+        "ingredientsList": "Jabłko, MĄKA PSZENNA, TYP 500, MLEKO, Ksylitol, MĄKA ORKISZOWA JASNA, JAJA KURZE, MASŁO, Woda, Oliwa z oliwek, Drożdże suszone, Cukier, Sól"
+      },
+      {
+        "dishName": "Focaccia z czarnymi oliwkami, gruszką i serem pleśniowym",
+        "ingredientsList": "Pomidory pelati, Woda, MĄKA PSZENNA TYP \"00\" NA PIZZĘ, MĄKA ORKISZOWA JASNA, Gruszka, Oliwki czarne, SER PLEŚNIOWY KAMIENNOGÓRSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Oliwa z oliwek, Szpinak baby, Rozmaryn, ŚMIETANA, Drożdże suszone, Bazylia świeża, Ksylitol, Sól"
+      },
+      {
+        "dishName": "Orientalne Nasi goreng",
+        "ingredientsList": "JAJA KURZE, Ryż basmati Punjabi, Papryka zielona, Woda, Kapusta Pak Choi, Cebula czerwona, Szczypiorek, Czosnek, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Papryczka ostra (chili), SOS RYBNY, Oliwa z oliwek, Kmin rzymski (kumin), Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Krem z pietruszki z kurkumą i limonką z serowymi keto grzankami",
+        "ingredientsList": "Pietruszka korzeń, Woda, Mleczko kokosowe RealThai, BULION WARZYWNY, Cebula, JAJA KURZE, SER GOUDA, MĄKA MIGDAŁOWA, Erytrol, Olej rzepakowy, Czosnek, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Limonka, Kurkuma, SEZAM BIAŁY, Sól, Pieprz mielony, PROSZEK DO PIECZENIA, Oregano"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Tofu w sosie teriyaki z makaronem ryżowym i warzywami",
+        "ingredientsList": "Woda, TOFU WĘDZONE, Makaron ryżowy 5 mm, SOS TERIYAKI BEZGLUTENOWY, BULION WARZYWNY, Mieszanka Chińska Oerlemans (kiełki fasoli Mung, czerwona papryka paski, czerwona cebula plastry, grzyby Mun, pędy bambusa, marchew paski, por plastry, cebula plastry), Marchew, Cukinia zielona, Cebula czerwona, Groszek cukrowy strączkowy Snap Peas Bond, Sos sweet-chili (cukier, woda, czerwone chili, czosnek, sól, skrobia kukurydziana, kwas octowy), Rama Combi Profi, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, OLEJ SEZAMOWY, Szczypiorek, Czosnek, Imbir świeży, SEZAM BIAŁY, Mielona papryka chili"
+      },
+      {
+        "dishName": "Calzone faszerowane pieczonymi warzywami",
+        "ingredientsList": "SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), MĄKA ORKISZOWA JASNA, Bakłażan, Cukinia zielona, Pomidory pelati kostka, Woda, Pomidory pelati, MĄKA PSZENNA TYP \"00\" NA PIZZĘ, Rukola, Oliwa z oliwek, Bazylia świeża, Ksylitol, JAJA KURZE, Drożdże suszone, Cukier, Sól, Oregano"
+      },
+      {
+        "dishName": "Sałatka z burakiem, gruszką i wędzonym twarogiem",
+        "ingredientsList": "Burak gotowany, TWARÓG WĘDZONY SOLANKOWY 275 G, Pomidory cherry żółte, Pomidory koktajlowe, śliwkowe, Gruszka, Słonecznik, Woda mineralna niegazowana, Szpinak baby, Rukola, Miód pszczeli, Olej rzepakowy, MUSZTARDA DIJON, Sok z cytryny"
+      },
+      {
+        "dishName": "Pate z kurczaka z pieczywem i konfiturą z czerwonej cebuli",
+        "ingredientsList": "Mielony filet z piersi kurczaka (bez skóry), CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Cebula czerwona, Wątróbka (z kurczaka), Cebula, Jabłko t, ORZECHY WŁOSKIE, Ocet balsamiczny, Pietruszka, korzeń, MASŁO, DEMI GLAZE, Majeranek, Oliwa z oliwek, Ksylitol, WINO CZERWONE (WYTRAWNE), Profesor Ziółko - nasturcja, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Papryka chili con carne z \"ryżem\" z kalafiora po meksykańsku",
+        "ingredientsList": "Papryka czerwona, Kalafior brunoise, Fasola czerwona w zalewie (konserwowa), Chrupiąca Sałatka Sombrero Minute 2,5 kg, Cebula czerwona, Pomidory pelati, Chorizo, Łopatka wieprzowa (świeżo mielona), Mielony filet z piersi kurczaka (bez skóry), Papryka zielona, DYNIA PESTKI, SER MOZZARELLA WIÓRKI, Kukurydza ziarno, Czosnek, Rukola, Sambal, Ksylitol, Kolendra (świeża), Sól, Pieprz mielony"
+      }
+    ]
+  }
+]

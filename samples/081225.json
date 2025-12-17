@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Twarożek ziołowy z pieczywem, marchewką i szpinakiem",
+        "ingredientsList": "TWARÓG RACIBORSKI, CHLEB DRWALSKI (MĄKA PSZENNA, ŻYTNIA, WODA, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, SÓL, DROŻDŻE, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Marchew, Ogórek zielony (długi), JOGURT NATURALNY, Słonecznik, Sałata lodowa, Szpinak baby, Szczypiorek, Koper ogrodowy, Bazylia świeża, Natka pietruszki"
+      },
+      {
+        "dishName": "Naleśniczki amerykańskie z sosem waniliowym i owocami: jabłkiem, ananasem i winogronami",
+        "ingredientsList": "NALEŚNIKI AMERYKAŃSKIE (MĄKA PSZENNA, WODA, CUKIER, JAJKO, MLEKO, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY, GUMA KSANTANOWA), JOGURT NATURALNY, Ananas, Jabłko, KREM ANGIELSKI , Winogrona"
+      },
+      {
+        "dishName": "Kasza kuskus z chutney śliwkowym i orzechami",
+        "ingredientsList": "MLEKO, Śliwki, KASZA KUSKUS, ORZECHY ZIEMNE GRYS, MASŁO ORZECHOWE, Ksylitol, Cukier trzcinowy, Cynamon"
+      },
+      {
+        "dishName": "Muffinki jajeczne z prosciutto cotto, sosem jogurtowym oraz mixem sałat z pomidorkami cherry",
+        "ingredientsList": "JAJA KURZE, BIAŁKO JAJA KURZEGO, Pomidory cherry czerwone, MAJONEZ Z OLEJEM RZEPAKOWYM, JOGURT NATURALNY TYPU GRECKIEGO, Brokuł (mrożony), Ogórek zielony (długi), Prosciutto Cotto, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), Oliwki czarne całe b/p*, MĄKA OWSIANA (PEŁNOZIARNISTA), Koper ogrodowy, Szczypiorek, Sałata lodowa, Sałata rzymska mini, Szpinak, Rukola, Sałata radicho, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Keto \"drożdżówka\" migdałowa z kruszonką z kremem czekoladowym i jogurtem",
+        "ingredientsList": "JOGURT NATURALNY, JAJA KURZE, MĄKA MIGDAŁOWA, NAPÓJ MIGDAŁOWY, ORZECHY LASKOWE, Mleczko kokosowe RealThai, MIGDAŁY (PŁATKI), MASŁO, Mąka kokosowa, Kakao, Sok cytrynka, Mak niebieski, Erytrol, Olej kokosowy (rafinowany), Skórka z cytryny (starta), ŻÓŁTKO JAJA, Soda oczyszczona"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Makaron Aglio Olio",
+        "ingredientsList": "Pomidory koktajlowe, śliwkowe, Woda, MAKARON SPAGHETTI PEŁNOZIARNISTY, PARMEZAN, Oliwa z oliwek, Czosnek, Rukola, Natka pietruszki, Papryka pirpiri"
+      },
+      {
+        "dishName": "Wrap pszenny z serkiem szpinakowym i kurczakiem",
+        "ingredientsList": "TORTILLA PSZENNA, Filet z piersi kurczaka, bez skóry, JOGURT NATURALNY, Pomidor, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Ogórek zielony (długi), Sałata lodowa, ŚMIETANKA 15%, Szpinak, Szpinak baby, Rukola, Koper ogrodowy, Natka pietruszki, Sok z cytryny, Pieprz mielony, Marynata premium do drobiu, Sól, Sól morska"
+      },
+      {
+        "dishName": "Makaron spaghetti z sosem bolognese z tofu",
+        "ingredientsList": "Woda, MAKARON SPAGHETTI PEŁNOZIARNISTY, TOFU NATURALNE, Pomidory pelati, Marchew, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), Cebula, Pietruszka, korzeń, Koncentrat pomidorowy, Rukola, SELER NACIOWY, Oliwa z oliwek, Sambal, Czosnek, WINO CZERWONE (PÓŁWYTRAWNE), Sól morska, Pieprz mielony, Majeranek, Oregano"
+      },
+      {
+        "dishName": "Musli owsiane z jogurtem naturalnym i owocami: jabłkiem Golden Delicious i kiwi",
+        "ingredientsList": "JOGURT NATURALNY, Jabłko, Kiwi, PŁATKI OWSIANE, Woda, Ksylitol, Olej kokosowy (nierafinowany), Wiórki kokosowe, ORZECHY LASKOWE, ORZECHY NERKOWCA, Jagody goji (suszone), DYNIA PESTKI, SEZAM BIAŁY, Słonecznik"
+      },
+      {
+        "dishName": "Jajka \"sadzone\" na szpinaku z serem kozim",
+        "ingredientsList": "JAJA KURZE, Pomidory koktajlowe, śliwkowe, Szpinak, Szpinak, SER KOZI SAŁATKOWY (PODPUSZCZKA MIKROBIOLOGICZNA), Cebula, Czosnek, Oliwa z oliwek, Sól, Pieprz mielony"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Empanadas - orkiszowe pierożki z pikantnym kurczakiem i salsą fresca",
+        "ingredientsList": "MĄKA PSZENNA, TYP 500, Polędwiczki z kurczaka, Papryka mix kostka, Pomidory pelati, Pomidory pelati kostka, Woda, MASŁO KLAROWANE, Cebula, MĄKA ŻYTNIA, TYP 2000, MĄKA ORKISZOWA JASNA, Papryka czerwona, JAJA KURZE, MĄKA KRUPCZATKA, Oliwa z oliwek, Szpinak baby, Cebula czerwona, ŻÓŁTKO JAJA, Koncentrat pomidorowy, Papryka słodka (mielona), Oregano, Czosnek, Sól, Sambal, Liść laurowy, Oliwa z oliwek, Sok z limonki, Ksylitol, Kolendra (świeża)"
+      },
+      {
+        "dishName": "Polpette di tonno w sosie pomidorowym z ricottą i makaronem penne",
+        "ingredientsList": "Woda, Groszek cukrowy strączkowy Snap Peas Bond, Pomidory pelati, MAKARON PENNE (JASNY), TUŃCZYK W SOSIE WŁASNYM, JAJA KURZE, PANKO, MLEKO SPOŻYWCZE 2%, Kapary, SER RICOTTA MIĘKKA, BUŁKA TARTA, Rama Combi Profi, Natka pietruszki, Pieprz mielony, Sól morska"
+      },
+      {
+        "dishName": "Gnocchi z kremowym sosem śmietankowo - pietruszkowym i grillowanymi warzywami",
+        "ingredientsList": "GNOCCHI NATURALNE, Papryka czerwona, Cukinia zielona, ŚMIETANKA 15%, BULION WARZYWNY, Skrobia ziemniaczana, Cebula, SER TWARDY DOJRZEWAJĄCY GRAN REGALE (PODPUSZCZKA MIKROBIOLOGICZNA), Natka pietruszki, Oliwa z oliwek"
+      },
+      {
+        "dishName": "Wolno gotowany schab z sosem musztardowym, kaszą gryczaną i duszoną młodą kapustą z koperkiem",
+        "ingredientsList": "Schab wieprzowy (bez kości), Kapusta biała, Woda, Kasza gryczana niepalona (biała), BULION WARZYWNY, ŚMIETANKA 15%, Marchew, Cebula, MUSZTARDA DIJON, Mąka z tapioki, Czosnek, Rozmaryn (świeży), Koper ogrodowy, Marchew, Pietruszka, korzeń, Oliwa z oliwek, SELER KORZENIOWY, WINO BIAŁE, WYTRAWNE, Oliwa z oliwek, Pieprz mielony, Ziele angielskie, Liść laurowy, Sól morska"
+      },
+      {
+        "dishName": "Polędwiczka wieprzowa w sosie pieczeniowym z puree z pietruszki i selera z surówką białej kapusty",
+        "ingredientsList": "Polędwica wieprzowa (surowa), Kapusta biała młoda, Pietruszka, korzeń, SELER KORZENIOWY, ŚMIETANKA 15%, BULION WARZYWNY, Słonecznik, DEMI GLAZE, Olej rzepakowy, Natka pietruszki, Koper ogrodowy, Sól morska, Pieprz mielony, Rozmaryn (świeży), Sok cytrynka, Ksylitol, Pieprz czarny ziarnisty, Oliwa z oliwek"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Deser kokosowo - czekoladowy à la \"Bounty\"",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, ŚMIETANKA 15%, BIAŁKO JAJA KURZEGO, Wiórki kokosowe, Ksylitol, MĄKA ORKISZOWA JASNA, MĄKA PSZENNA, TYP 500, JAJA KURZE, MASŁO, CZEKOLADA DESEROWA, CZEKOLADA OŁÓWKI MINI, Granat, Kakao, Mięta liście, Sok z cytryny, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), PROSZEK DO PIECZENIA, Sól"
+      },
+      {
+        "dishName": "Kisiel z owocami leśnymi i kruchym ciasteczkiem (ciasteczko lekko podgrzać)",
+        "ingredientsList": "Jeżyny, MĄKA PSZENNA, TYP 500, Woda, JAJA KURZE, Ksylitol, Skrobia ziemniaczana, Koncentrat kompotu owoce leśne z jabłkiem bez cukru, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Sok cytrynka, PROSZEK DO PIECZENIA"
+      },
+      {
+        "dishName": "Czekoladowe risotto z musem mango - marakuja",
+        "ingredientsList": "MLEKO, Pulpa z Marakui z pestkami Koala, Mango, Ryż do sushi, CZEKOLADA DESEROWA, Marakuja puree, Ksylitol, Kakao"
+      },
+      {
+        "dishName": "Hummus z białej fasoli z słupkami marchewki",
+        "ingredientsList": "Marchew, Woda, Fasola biała nasiona suche, Tahini, Woda mineralna niegazowana, DYNIA PESTKI, Sok z cytryny, Czosnek, Sól, Pieprz mielony, Rozmaryn, Natka pietruszki"
+      },
+      {
+        "dishName": "Bigos z białej kapusty z boczkiem, frankfurterkami i keto pieczywem",
+        "ingredientsList": "Kapusta biała, Pomidory pelati kostka, Boczek parzony ze skórą, Frankfurterki, JAJA KURZE, Koncentrat pomidorowy, Cebula, SER GOUDA, MĄKA MIGDAŁOWA, Marchew, Ksylitol, Ocet balsamiczny, Ziele angielskie, Papryka słodka (mielona), SEZAM BIAŁY, Sól morska, PROSZEK DO PIECZENIA, Oregano, Tymianek gałązka do ozdoby"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Sałatka z serem camembert i gruszką podana z malinowym sosem balsamicznym",
+        "ingredientsList": "Gruszka, Pomidory koktajlowe, SER CAMEMBERT PRESIDENT, Ogórek zielony (długi), Oliwki czarne całe b/p*, Sałata lodowa, Maliny (mrożone), Cebula czerwona, Krem balsamiczny, Sałata rzymska, Szpinak, Rukola, Oliwa z oliwek"
+      },
+      {
+        "dishName": "Krem z batata z grzankami pszennymi",
+        "ingredientsList": "BULION WARZYWNY, Bataty, Marchew, BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), ŚMIETANKA 15%, Oliwa czosnkowa, Imbir świeży, Papryka słodka (mielona), Sól morska, Pieprz mielony, Mielona gałka muszkatołowa, Kurkuma"
+      },
+      {
+        "dishName": "Placuszki z dyni z sosem koperkowym i mixem sałat z burakiem i marchewką",
+        "ingredientsList": "Dynia piżmowa, JAJA KURZE, JOGURT NATURALNY, Marchew, MĄKA PSZENNA TYP 750, Burak brudny surowy, Słonecznik, Rukola, Sałata lodowa, Roszponka, Koper ogrodowy, Sól morska, Pieprz mielony, Papryka słodka (mielona)"
+      },
+      {
+        "dishName": "Makaron penne pełnoziarnisty z pesto rosso i filetem z piersi kurczaka",
+        "ingredientsList": "Cukinia zielona, Filet z piersi kurczaka, bez skóry, Woda, MAKARON PENNE (PEŁNOZIARNISTY), Pomidory pelati, Suszone pomidory (w oleju z ziołami, odsączone), Oliwa z oliwek, PARMEZAN, Rukola, Bazylia świeża, Czosnek, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Pasta ze słonecznikiem i selerem, keto chlebkiem i pomidorami",
+        "ingredientsList": "Pomidory cherry czerwone, JAJA KURZE, SELER KORZENIOWY, MASŁO ORZECHOWE, Słonecznik, Pietruszka, korzeń, Siemię lniane (mielone), Cebula, Sałata rzymska, BULION WARZYWNY, Czosnek, Sok z cytryny, PROSZEK DO PIECZENIA, Profesor Ziółko - kiełki słonecznika, Oliwa z oliwek, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA)"
+      }
+    ]
+  }
+]

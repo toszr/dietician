@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Naleśniki z twarożkiem waniliowym i konfiturą rabarbarowo - truskawkową",
+        "ingredientsList": "NALEŚNIKI HOLENDERSKIE (WODA, MĄKA PSZENNA, MLEKO, OLEJ SŁONECZNIKOWY, JAJA KURZE, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY), TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, TWARÓG RACIBORSKI, Rabarbar (mrożony), KREM ANGIELSKI , Truskawki, ORZECHY PEKAN, Cukier wanilinowy, Erytrol, CZEKOLADA DESEROWA, Granat, Pektyna, Olej rzepakowy"
+      },
+      {
+        "dishName": "Śniadaniowe muffinki warzywne z brokułem i cukinią, sos jogurtowo-bazyliowy",
+        "ingredientsList": "JAJA KURZE, Brokuł kalibrowany 10-20, JOGURT NATURALNY, MĄKA PSZENNA, TYP 500, Cukinia zielona, Szpinak, MLEKO, Suszone pomidory, JOGURT NATURALNY (0% TŁ.), Bazylia świeża, Szpinak baby, Pieprz mielony, Sok cytrynka, PROSZEK DO PIECZENIA, Sól morska"
+      },
+      {
+        "dishName": "Brushetta z pesto rosso i mozzarellą z salsą z pomidorów",
+        "ingredientsList": "CREAPANE GRANDE Z OLIWKAMI (MĄKA PSZENNA, WODA, OLIWKI CZARNE, MĄKA ŻYTNIA, SÓL, DROŻDŻE), SER MOZZARELLA (125G KULKA), Pomidory pelati kostka, Pomidor, Suszone pomidory, ORZECHY ZIEMNE GRYS, Pomidory pelati, Oliwa z oliwek, Rukola, Ocet balsamiczny, Czosnek, Cebula czerwona, Sambal, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Owsianka z jagodami, jogurtem i owocami: ananasem, kiwi i jabłkiem",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO, Jagody czarne (mrożone), PŁATKI OWSIANE, Ananas, Jabłko, Kiwi, Wiórki kokosowe, Ksylitol, Len, Żurawina suszona, Nasiona chia, Żelatyna"
+      },
+      {
+        "dishName": "Pasta z soczewicy z pieczarkami, keto pieczywem i warzywami",
+        "ingredientsList": "Woda, Papryka zielona, JAJA KURZE, MASŁO ORZECHOWE, Pieczarki, Cebula, Soczewica zielona nasiona suche, Słonecznik, Cebula czerwona, Siemię lniane (mielone), PROSZEK DO PIECZENIA, Pieprz mielony, Oliwa z oliwek, Sól morska"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Krem z ogórka kiszonego z grzankami",
+        "ingredientsList": "BULION MIĘSNY, OGÓRKI KISZONE, BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), Włoszczyzna, ŚMIETANKA 15%, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Ziele angielskie, Pieprz mielony, Liść laurowy, Sól morska"
+      },
+      {
+        "dishName": "Ravioli ze szpinakiem i ricottą z sosem śmietanowym",
+        "ingredientsList": "RAVIOLI RICOTTĄ I SZPINAKIEM, JOGURT NATURALNY, ŚMIETANKA 15%, MĄKA PSZENNA, TYP 500, Woda, SER PARMEZAN (MLEKO NIEPASTERYZOWANE, SÓL, PODPUSZCZKA, SUBSTANCJA KONSERWUJĄCA: LIZOZYM JAJECZNY), Skórka z cytryny (starta), Pieprz mielony, Sól, Profesor Ziółko - groszek czepny"
+      },
+      {
+        "dishName": "Gruszka pieczona z nadzieniem orzechowym i czekoladą",
+        "ingredientsList": "Gruszka, Kasza jaglana, Woda, MASŁO ORZECHOWE, Syrop klonowy, ORZECHY LASKOWE, CZEKOLADA DESEROWA, Olej rzepakowy"
+      },
+      {
+        "dishName": "Pasta z zielonego groszku z pieczywem żytnim i słupkami warzyw",
+        "ingredientsList": "Groszek zielony, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), SELER NACIOWY, Marchew, Oliwa z oliwek, BULION WARZYWNY, Flora Professional Plant 15% (roztwór białka soczewicy (woda, białko soczewicy 2,5%), olej rzepakowy, tłuszcz kokosowy, cukier, modyfikowana skrobia ziemniaczana, emulgator (polisorbat 60), stabilizatory (metyloceluloza, guma ksantanowa), regulator kwasowości (cytrynian trisodowy), aromat naturalny, sól, barwnik (karoteny)), Natka pietruszki, Sok cytrynka, Czosnek, Sól, Profesor Ziółko - groszek czepny, Pieprz mielony"
+      },
+      {
+        "dishName": "Smoothie truskawkowo - jeżynowe z dodatkiem orzechów",
+        "ingredientsList": "MLEKO BEZLAKTOZOWE 1,5%UHT, Truskawki, Jeżyny, MASŁO ORZECHOWE, Banan, Ksylitol"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Japońskie Tsukune- kuleczki z kurczaka doprawione sosem sojowym i sezamem z ryżem basmati, warzywami z woka i sosem teriyaki",
+        "ingredientsList": "Polędwiczki z kurczaka, Woda, Ryż basmati Punjabi, Grzyby shitake całe (suszone), SOS TERIYAKI BEZGLUTENOWY, Papryka czerwona, Marchew, Pieczarki, Sok pomarańczowy, Kapusta Pak Choi, Kiełki fasoli mung, SEZAM CZARNY, SELER KORZENIOWY, Czosnek, Sól, Oliwa z oliwek, Pieprz mielony, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Papryczka ostra (chili), Imbir mielony, SOS TERIYAKI, MĄKA PSZENNA, TYP 500, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Cebula, Imbir świeży, Sambal"
+      },
+      {
+        "dishName": "Spaghetti z pulpecikami jaglanymi w sosie pomidorowym",
+        "ingredientsList": "Woda, Pomidory pelati, MAKARON SPAGHETTI JASNY, Marchew, Cukinia zielona, Pietruszka, korzeń, Kasza jaglana, BUŁKA TARTA, Oregano, Oliwa czosnkowa, Natka pietruszki, Rama Combi Profi, Sól, Pieprz mielony, Ksylitol"
+      },
+      {
+        "dishName": "Wegański Tagine z pitą pszenną",
+        "ingredientsList": "CHLEB PITA (MĄKA PSZENNA, WODA, DROŻDŻE, SÓL JODOWANA, CUKIER, OLEJ ROŚLINNY), Pomidory pelati, Papryka mix kostka, Bakłażan, Marchew, Woda, Ciecierzyca nasiona suche, BULION WARZYWNY, Oliwa z oliwek, Oliwa z oliwek, Pomidory suszone z oregano, Ksylitol, Papryka słodka (mielona), Kmin rzymski (kumin), Kolendra (świeża), Kurkuma, Harissa"
+      },
+      {
+        "dishName": "Pieczeń wołowa z rostbefu z sosem pomidorowo - kaparowy z ryżem brązowym i grillowaną kolorową papryką",
+        "ingredientsList": "Wołowina, rostbef, Ryż brązowy, Woda, Pomidory pelati, Papryka czerwona, Papryka zielona, Papryka żółta, Cebula, Kapary, Czosnek, Oliwa z oliwek, Rozmaryn (świeży), Pieprz młotkowany kolorowy, Sól, Pieprz mielony, Papryka słodka (mielona), Marynata Premium do wołowiny, Olej rzepakowy, Sól morska"
+      },
+      {
+        "dishName": "Filet z karmazyna w kremowym sosie cytrynowym z keto talarkami i surówką z czerwonej kapusty",
+        "ingredientsList": "KARMAZYN, FILET BEZ SKÓRY, Kalarepa, Kapusta czerwona, BULION WARZYWNY, Słonecznik, Oliwa z oliwek, ŚMIETANKA 15%, MUSZTARDA DIJON, MASŁO, Sok z cytryny, Natka pietruszki, Cebula, Pieprz mielony, Olej rzepakowy, Sól, Koper ogrodowy, Przyprawa do ziemniaków, Sól morska, Czosnek granulowany, Cząber, Mielona papryka chili, Kurkuma, Profesor Ziółko - groszek czepny, Pasta curry żółta, Majeranek"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Deser leśny mech",
+        "ingredientsList": "SER NA SERNIK, JOGURT NATURALNY, BIAŁKO JAJA KURZEGO, MĄKA ORKISZOWA JASNA, Szpinak, ŻÓŁTKO JAJA, Ksylitol, KREM ANGIELSKI , CZEKOLADA OŁÓWKI MINI, Oliwa z oliwek, Skrobia ziemniaczana, Granat, PROSZEK DO PIECZENIA, Mięta liście"
+      },
+      {
+        "dishName": "Koktajl migdałowy z jabłkiem, nasionami bazylii i płatkami migdałów",
+        "ingredientsList": "NAPÓJ MIGDAŁOWY, Jabłko sokowe, Nasiona bazylii, MIGDAŁY (PŁATKI)"
+      },
+      {
+        "dishName": "Makaron bucatini alle erbe",
+        "ingredientsList": "Woda, BULION WARZYWNY, MAKARON BUCATINI, Pomidory pelati kostka, SER TWARDY DOJRZEWAJĄCY GRAN REGALE (PODPUSZCZKA MIKROBIOLOGICZNA), Groszek zielony, Cebula, Oliwki czarne całe b/p*, Bazylia świeża, Pomidory pelati, Czosnek, Rozmaryn (świeży), Natka pietruszki, Szpinak baby, Koper ogrodowy, Sól morska, Pieprz mielony, Oliwa z oliwek, WINO BIAŁE PÓŁWYTRAWNE, Ksylitol, Oregano"
+      },
+      {
+        "dishName": "Kremowe curry z batatami, mango i tofu",
+        "ingredientsList": "Cukinia zielona, TOFU NATURALNE, Woda, MAKARON FUSILLI (PEŁNOZIARNISTY ORKISZOWY), Bataty, ŚMIETANKA 15%, Mango, Groszek zielony, Mleczko kokosowe RealThai, BULION MIĘSNY, Natka pietruszki, Pasta curry czerwona, Sok cytrynka, Kolendra (świeża), Kurkuma, Pieprz mielony, Oliwa z oliwek, Sól morska, Olej rzepakowy, Curry, Oliwa z oliwek, Sól"
+      },
+      {
+        "dishName": "Sernik czekoladowy",
+        "ingredientsList": "TWARÓG BEZ LAKTOZY MLEKOVITA, Czekolada 51%, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, ORZECHY ARACHIDOWE, ŚMIETANKA VEGETOP 33%, BIAŁKO JAJA KURZEGO, Miód pszczeli, Agar"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Włoska pizza z Prosciutto Cotto, karczochami i pomidorkami koktajlowymi",
+        "ingredientsList": "MĄKA PSZENNA TYP \"00\" NA PIZZĘ, Prosciutto Cotto, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), Pomidory pelati, Woda, Passata pomidorowa (przecier), Pomidory cherry żółte, Karczochy cięte w zalewie, Pomidory cherry czerwone, Oliwki czarne, MĄKA ORKISZOWA JASNA, Rukola, Oliwa z oliwek, Drożdże suszone, Ksylitol, Oregano, Sól, Cukier, Czosnek, Bazylia świeża"
+      },
+      {
+        "dishName": "Tradycyjne pierogi z mięsem",
+        "ingredientsList": "MĄKA PSZENNA, TYP 500, JOGURT NATURALNY, CREME FRESH (KWAŚNA ŚMIETANA), Marchew, Polędwiczki z kurczaka, Wieprzowina (schab, szynka, karkówka), Woda, SELER KORZENIOWY, Pietruszka korzeń, MĄKA KRUPCZATKA, JAJA KURZE, Biała rzepa, Ogórek zielony (długi), Rukola, MASŁO, Pieprz mielony, Sól morska, Ziele angielskie, Liść laurowy"
+      },
+      {
+        "dishName": "Zupa krem z pora z makaronem orzo",
+        "ingredientsList": "BULION WARZYWNY, Por, Kalafior, MAKARON ORZO, Woda, Cebula, ŚMIETANKA 15%, SELER KORZENIOWY, Pietruszka, korzeń, Czosnek, Oliwa z oliwek, Natka pietruszki, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Sałatka z serem camembert, grejpfrutem, pomidorkami i selerem naciowym",
+        "ingredientsList": "SER CAMEMBERT, SELER NACIOWY, Cukinia zielona, Pomidor malinowy, Pomidor żółty, Grejpfrut (czerwony lub różowy), ORZECHY ZIEMNE GRYS, Oliwa z oliwek, Szpinak baby, Rukola, Sałata lodowa, MUSZTARDA FRANCUSKA, Woda, Ocet biały winny, Ksylitol, Natka pietruszki, MUSZTARDA, Koper ogrodowy, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Keto nuggetsy z udka kurczka z boczkiem i serem, sos BBQ",
+        "ingredientsList": "Mięso z podudzia kurczaka (bez skóry i kości), Cebula czerwona, Szynka dojrzewająca wędzona, SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Boczek wieprzowy wędzony parzony plastry, Koncentrat pomidorowy, Passata pomidorowa (przecier), JAJA KURZE, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Erytrol, Szpinak baby, Ocet jabłkowy z dojrzałych jabłek, Oliwa z oliwek, Czosnek, Mielona papryka chili, PRZYPRAWA KEBAB-GYROS, Pieprz mielony"
+      }
+    ]
+  }
+]

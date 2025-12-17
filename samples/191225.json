@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Jajka na ubijanej fecie z pitą i pieczonymi warzywami",
+        "ingredientsList": "JAJA KURZE, CHLEB PITA (MĄKA PSZENNA, WODA, DROŻDŻE, SÓL JODOWANA, CUKIER, OLEJ ROŚLINNY), SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), JOGURT NATURALNY TYPU GRECKIEGO, Papryka czerwona, TWARÓG RACIBORSKI, Bakłażan, Cukinia zielona, Zatar, Sok z cytryny, Natka pietruszki, Oliwa z oliwek, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Wytrawny pancake z oliwkami, serek ogórkowo-ziołowy i pomidorki cherry",
+        "ingredientsList": "Pomidory cherry czerwone, MĄKA PSZENNA, TYP 500, TWARÓG CHUDY, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Ogórek zielony (długi), JAJA KURZE, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), BIAŁKO JAJA (KURZEGO), Woda, ORZECHY WŁOSKIE, JOGURT NATURALNY, Oliwki czarne, Oliwa z oliwek, Bazylia świeża, Soda oczyszczona, Koper ogrodowy, Mięta liście, Tymianek, Profesor Ziółko - kiełki słonecznika, Sól, Pieprz mielony, Zioła prowansalskie"
+      },
+      {
+        "dishName": "Owsianka z malinami, jogurtem waniliowym i jabłkiem",
+        "ingredientsList": "MLEKO, JOGURT NATURALNY, Jabłko, Maliny (mrożone), PŁATKI OWSIANE, KREM ANGIELSKI , Ksylitol, Len, Żurawina suszona, MIGDAŁY (PŁATKI), SEZAM BIAŁY, ORZECHY WŁOSKIE, Agar, Sok z cytryny"
+      },
+      {
+        "dishName": "Pełnoziarniste placuszki ze śliwkami i jogurtem",
+        "ingredientsList": "JOGURT NATURALNY, JAJA KURZE, Śliwki, MĄKA ORKISZOWA JASNA, MĄKA ORKISZOWA CIEMNA, ORZECHY ZIEMNE GRYS, Ksylitol, Oliwa z oliwek, PROSZEK DO PIECZENIA, Cynamon"
+      },
+      {
+        "dishName": "Keto gofry z wegańskim twarożkiem brzoskwiniowym, sosem wiśniowym i bitą śmietaną",
+        "ingredientsList": "JAJA KURZE, Wiśnie, Flora Professional Plant 31%, JOGURT SOJOWY NATURALNY BIO JOYA, ORZECHY NERKOWCA, Pomarańcz czerwony, Brzoskwinie połówki (OERLEMANS), Olej rzepakowy, Woda mineralna niegazowana, Mąka kokosowa, Ksylitol, Erytrol, Pektyna, PROSZEK DO PIECZENIA"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Mix past: Pasta ziołowa i pasta z suszonymi pomidorami, grissini z rozmarynem",
+        "ingredientsList": "TWARÓG RACIBORSKI, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Woda, Suszone pomidory, MĄKA PSZENNA TYP \"00\" NA PIZZĘ, JOGURT NATURALNY, Pomidory pelati kostka, MĄKA ORKISZOWA JASNA, Sałata rzymska, Koncentrat pomidorowy, Oliwa z oliwek, Drożdże suszone, Koper ogrodowy, Szczypiorek, Bazylia świeża, Rozmaryn (świeży), Sól, Profesor Ziółko - kiełki słonecznika, Pieprz mielony"
+      },
+      {
+        "dishName": "Zielona sałatka z kuskusem, serem typu feta i słonecznikiem",
+        "ingredientsList": "Woda, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), KASZA KUSKUS, SELER NACIOWY, Ogórek zielony (długi), Groszek zielony, Fasolka szparagowa żóła, MLEKO, Rukola, Sałata lodowa, Sałata rzymska, Słonecznik, Fasolka szparagowa zielona cięta 2,5kg, Tymianek, Granat, Bazylia świeża, Mięta liście, Natka pietruszki, Majeranek, Oregano, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Zupa krem z selera z grzankami",
+        "ingredientsList": "BULION WARZYWNY, SELER KORZENIOWY, Ziemniaki obrane, CHLEB WIELOZIARNISTY (MĄKA (PSZENNA, ŻYTNIA, WODA, PŁATKI OWSIANE, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, DROŻDŻE, SEZAM, SÓL, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Kalafior, Cebula, Czosnek, Pietruszka, korzeń, Słonecznik, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), ŚMIETANKA 15%, Oliwa z oliwek, Rozmaryn (świeży), Sól, Pieprz mielony, Tymianek, Oregano"
+      },
+      {
+        "dishName": "Lemon Ricotta Pasta - penne z sosem cytrynowym i płatkami migdałów",
+        "ingredientsList": "Woda, MAKARON PENNE (PEŁNOZIARNISTY), SER RICOTTA MIĘKKA, ŚMIETANKA 15%, Sok z cytryny, Suszone pomidory, MIGDAŁY (PŁATKI), Rukola, Skórka z cytryny (starta), Oliwa z oliwek, Natka pietruszki, Oliwa z oliwek, Cebula, Czosnek, Pieprz czerwony"
+      },
+      {
+        "dishName": "Muffinki z awokado z sosem koperkowym",
+        "ingredientsList": "JAJA KURZE, JOGURT NATURALNY, Awokado hass Ready to Eat, SER MOZZARELLA WIÓRKI, ORZECHY LASKOWE, Koper ogrodowy, Szczypiorek, Sok z cytryny, Pieprz mielony, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Fishburger z sosem tatarskim, ogórkami kiszonymi, czerwoną cebulą i pomidorem",
+        "ingredientsList": "RYBY (DORSZ, MORSZCZUK, HALIBUT), BUŁECZKA HAMBURGEROWA MAŚLANA MAŁA 35 G (MĄKA PSZENNA, WODA, MLEKO W PROSZKU PEŁNE, OLEJ RZEPAKOWY, DROŻDŻE, CUKIER, SÓL, MASŁO 1,5%, BIAŁKO GROSZKU, MĄKA RYŻOWA, KWAS ASKORBINOWY, GLUKOZA), OGÓRKI KISZONE, Pomidor, Cebula czerwona, JOGURT NATURALNY, Sałata lodowa, Cebula, Pieczarki marynowane, JAJA KURZE, BUŁKA TARTA, ŚMIETANKA 15%, MUSZTARDA DIJON, Koper ogrodowy, Sól"
+      },
+      {
+        "dishName": "Kurczak w sosie rozmarynowo-cytrynowym z ryżem jaśminowym i surówką z marchewki, jabłka i selera",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Woda, Ryż jaśminowy, ŚMIETANKA 15%, Marchew, SELER KORZENIOWY, Jabłko, BULION WARZYWNY, Rozmaryn (świeży), Sok cytrynka, Skórka z cytryny (starta), Mąka z tapioki, Sok z cytryny, Olej rzepakowy, Ksylitol, Natka pietruszki, Sól, Pieprz mielony, Oliwa czosnkowa nasza"
+      },
+      {
+        "dishName": "Pierogi z dynią, białym serem i sosem rozmarynowym",
+        "ingredientsList": "Dynia piżmowa, MĄKA PERFECJA SPECIALE NA PIEROGI, JOGURT NATURALNY, Woda, MĄKA ORKISZOWA JASNA, TWARÓG RACIBORSKI, SER TWARDY DOJRZEWAJĄCY GRAN REGALE (PODPUSZCZKA MIKROBIOLOGICZNA), Oliwa z oliwek, MĄKA KRUPCZATKA, JAJA KURZE, Czosnek, Mielona gałka muszkatołowa, Sok z cytryny, Sól, Pieprz mielony, Rozmaryn, Profesor ziółko- kiełki rzodkiewki"
+      },
+      {
+        "dishName": "Okoń morski z kaszą pęczak, sosem koperkowym i surówką z białej kapusty",
+        "ingredientsList": "OKOŃ MORSKI (FILET ZE SKÓRĄ, MROŻONY), Woda, Kapusta biała młoda, KASZA JĘCZMIENNA, PĘCZAK, ŚMIETANKA 15%, BULION WARZYWNY, Oliwa z oliwek, Koper ogrodowy, Cebula, Oliwa extra virgin, Olej rzepakowy, Oliwa z oliwek, Czosnek, Skrobia ziemniaczana, Sok z cytryny, Sok cytrynka, Ksylitol, Pieprz cytrynowy, Tymianek, Profesor Ziółko - groszek czepny, Pieprz mielony, Sól morska, Sól"
+      },
+      {
+        "dishName": "Szynka wieprzowa z sosem grzybowym, kąskami serowymi i surówką z czerwonej kapusty",
+        "ingredientsList": "Szynka wieprzowa (surowa), Kapusta czerwona, SER PARMEZAN (MLEKO NIEPASTERYZOWANE, SÓL, PODPUSZCZKA, SUBSTANCJA KONSERWUJĄCA: LIZOZYM JAJECZNY), Cebula, Woda, Pieczarki, Jabłko, SER GOUDA, MĄKA MIGDAŁOWA, Podgrzybek (mrożony), MUSZTARDA, Sok cytrynka, Olej rzepakowy, Ksylitol, Papryka słodka (mielona), Oregano, Pieprz mielony, SOS SOJOWY GRZYBOWY, Woda, Sól, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Czosnek, Tymianek gałązka do ozdoby, Mielona papryka chili"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Budyń czekoladowy z owocami leśnymi (Uwaga. Orzechy mogą zawierać łupiny.)",
+        "ingredientsList": "MLEKO, Jeżyny, Ksylitol, Woda, Skrobia ziemniaczana, CZEKOLADA DESEROWA, ORZECHY WŁOSKIE, Koncentrat kompotu owoce leśne z jabłkiem bez cukru, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Sok cytrynka"
+      },
+      {
+        "dishName": "Risotto z dynią i serem gran regale",
+        "ingredientsList": "BULION WARZYWNY, SER TWARDY DOJRZEWAJĄCY GRAN REGALE (PODPUSZCZKA MIKROBIOLOGICZNA), Ryż krótkoziarnisty (typu arborio), Dynia piżmowa, ŚMIETANKA 15%, Pomidory cherry czerwone, Szpinak baby, Natka pietruszki, Rozmaryn (świeży), Oliwa z oliwek, Pieprz mielony, Majeranek, WINO BIAŁE PÓŁWYTRAWNE, Sól"
+      },
+      {
+        "dishName": "Kardamonka - szwedzka bułeczka drożdżowa z kardamonem",
+        "ingredientsList": "MĄKA ORKISZOWA JASNA, MLEKO, MĄKA PSZENNA, TYP 500, ORZECHY LASKOWE, MASŁO, Erytrol, JAJA KURZE, ŻÓŁTKO JAJA, Cukier trzcinowy, Drożdże (piekarskie świeże), Kardamon mielony, Cukier wanilinowy"
+      },
+      {
+        "dishName": "Sałatka z serem Halloumi i ciecierzycą",
+        "ingredientsList": "SER HALLOUMI, Pomidory koktajlowe, śliwkowe, Ciecierzyca w zalewie, Ogórek zielony (długi), Cebulka balsamiczna, Kapary, Oliwki czarne całe b/p*, Sałata lodowa, Sałata rzymska, Szpinak, Rukola, Pomidory suszone z oregano"
+      },
+      {
+        "dishName": "Jogurt waniliowy z płatkami migdałów",
+        "ingredientsList": "JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, ORZECHY LASKOWE, MIGDAŁY (PŁATKI), Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%))"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Sałatka z dynią, burakiem i serem kozim",
+        "ingredientsList": "Dynia piżmowa, SER KOZI ROLADA TWAROGOWA, Burak gotowany, Pomidory koktajlowe, śliwkowe, SELER NACIOWY, ORZECHY WŁOSKIE, Sałata lodowa, Olej słonecznikowy, Granat, MUSZTARDA FRANCUSKA, Natka pietruszki, Szpinak baby, Sałata rzymska, Oliwa z oliwek, Sałata endywia, MUSZTARDA STOŁOWA, Sałata radicho, Miód pszczeli, Sól, Pieprz mielony, Czosnek"
+      },
+      {
+        "dishName": "Pappardelle w buraczanym pesto z delikatnymi klopsikami z piersi kurczaka i kalafiora",
+        "ingredientsList": "Polędwiczki z kurczaka, Woda, Kalafior, MAKARON PAPARDELLE, Burak gotowany, Woda mineralna niegazowana, JAJA KURZE, MĄKA PSZENNA, TYP 500, Sok cytrynka, Oliwa z oliwek, ORZECHY NERKOWCA, SER PARMEZAN (MLEKO NIEPASTERYZOWANE, SÓL, PODPUSZCZKA, SUBSTANCJA KONSERWUJĄCA: LIZOZYM JAJECZNY), Rukola, Koper ogrodowy, Pieprz mielony"
+      },
+      {
+        "dishName": "Quiche ze szpinakiem i serem typu feta",
+        "ingredientsList": "JAJA KURZE, Szpinak, ŚMIETANKA 15%, Marchew, MĄKA PSZENNA, TYP 500, Pomidory koktajlowe, MOZZARELLA BIERUŃSKA BLOK 1.5 KG (PODPUSZCZKA MIKROBIOLOGICZNA), Oliwki czarne, Suszone pomidory, JAJA KURZE, Słonecznik, Rukola, Sałata lodowa, Sałata rzymska, Woda, Sól, PROSZEK DO PIECZENIA"
+      },
+      {
+        "dishName": "Golonka pieczona z sosem musztardowym i kiszoną kapustą",
+        "ingredientsList": "Kapusta kiszona, Golonka pieczona bez kości vac, ŚMIETANKA 15%, Jabłko, BULION WARZYWNY, Cebula, MUSZTARDA FRANCUSKA, Marchew, Ksylitol, Oliwa z oliwek, Czosnek, Olej rzepakowy, Natka pietruszki"
+      },
+      {
+        "dishName": "Zupa Pho Bo z makaronem sojowym",
+        "ingredientsList": "Woda, MAKARON SOJOWY VERMICELLI, Włoszczyzna, Mięso wołowe zrazowa górna, ORZECHY NERKOWCA, Grzyby shitake całe (suszone), Cebula, Pietruszka, korzeń, SELER KORZENIOWY, Marchew, Polędwiczki z kurczaka, Czosnek, Imbir świeży, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Trawa cytrynowa surowa cała, SOS RYBNY, Kora cynamonu, Szczypiorek, Cebula dymka, Kolendra (świeża), Kolendra ziarna, Pieprz syczuański, Anyż gwiazdka, OLEJ SEZAMOWY"
+      }
+    ]
+  }
+]

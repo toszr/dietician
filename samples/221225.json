@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Pasta jajeczna z ogórkiem, rzodkiewką i pieczywem żytnim",
+        "ingredientsList": "JAJA KURZE, CHLEB ŻYTNI NA ZAKWASIE HB (MĄKA: ŻYTNIA TYP 1400, ŻYTNIA RAZOWA 2000, PSZENNA PEŁNOZIARNISTA TYP 2000, WODA, SÓL, SŁÓD JĘCZMIENNY, ZAKWAS), Rzodkiewka, Ogórek zielony (długi), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Cebula, DYNIA PESTKI, Szczypiorek, Sałata rzymska, Oliwa z oliwek, MUSZTARDA, Profesor ziółko- kiełki rzodkiewki, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Pancake z brzoskwiniami, jogurtem i konfiturą z owoców leśnych",
+        "ingredientsList": "JOGURT NATURALNY, Mieszanka owoców leśnych, BIAŁKO JAJA KURZEGO, Brzoskwinia kostka, MĄKA PSZENNA, TYP 500, Ksylitol, JAJA KURZE, MASŁO, MLEKO SPOŻYWCZE 2%, PROSZEK DO PIECZENIA, Mąka z tapioki"
+      },
+      {
+        "dishName": "Tofucznica z salsą fresca i pieczywem słonecznikowym",
+        "ingredientsList": "TOFU NATURALNE, CHLEB SŁONECZNIKOWY (MĄKA: ŻYTNIA TYP 2000, MĄKA PSZENNA TYP 1850, WODA, SŁONECZNIK, SÓL, DROŻDŻE), Pomidor malinowy, Mleko ryżowe naturalne bio, Cebula, Cebula czerwona, Oliwa z oliwek, Słonecznik, Szczypiorek, Kolendra (świeża), Sok z limonki, Sambal, Kurkuma, Sól Kala Namak"
+      },
+      {
+        "dishName": "Pieczony pasztet z indykiem i warzywami, sosem remulada oraz pieczywem słonecznikowym",
+        "ingredientsList": "CHLEB SŁONECZNIKOWY (MĄKA: ŻYTNIA TYP 2000, MĄKA PSZENNA TYP 1850, WODA, SŁONECZNIK, SÓL, DROŻDŻE), Cukinia zielona, Polędwiczki z indyka, Marchew, Pomidory koktajlowe, JAJA KURZE, BIAŁKO JAJA KURZEGO, MAJONEZ Z OLEJEM RZEPAKOWYM, Cebula, ŚMIETANKA 15%, SELER KORZENIOWY, Oliwki czarne całe b/p*, Ciecierzyca (w zalewie), JOGURT NATURALNY, Szpinak, Kapusta kiszona, Ogórki konserwowe, Cebula czerwona, Oliwa z oliwek, Koper ogrodowy, Kurkuma, Pieprz mielony, Kmin rzymski (kumin), Sól morska"
+      },
+      {
+        "dishName": "Omlety z szynką Prosciutto Cotto, mixem sałat oraz sosem musztardowym",
+        "ingredientsList": "JAJA KURZE, Marchew, Burak brudny surowy, Oliwa z oliwek, MAJONEZ Z OLEJEM RZEPAKOWYM, MUSZTARDA, Szynka dojrzewająca wędzona, Oliwki czarne, Szynka Prosciutto Crudo, Suszone pomidory (w oleju z ziołami, odsączone), Cebula czerwona, Rukola, Sałata lodowa, Roszponka, Ksylitol, Szczypiorek, Imbir świeży, Czosnek, Ocet biały winny, Profesor Ziółko - kiełki słonecznika"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Risotto z zielonymi warzywami i parmezanem",
+        "ingredientsList": "BULION WARZYWNY, PARMEZAN, SELER NACIOWY, Ryż krótkoziarnisty (typu arborio), Cukinia zielona, WINO BIAŁE PÓŁWYTRAWNE, Papryka zielona, Szpinak baby, Groszek zielony, ŚMIETANKA 15%, Pomidory cherry czerwone, Oliwa z oliwek, Natka pietruszki, Rozmaryn (świeży), Sól morska, Pieprz mielony, Majeranek"
+      },
+      {
+        "dishName": "Makaron fusilli al pomodoro z mini mozzarellą i czarnymi oliwkami",
+        "ingredientsList": "MAKARON FUSILLI JASNY, Pomidory pelati, Oliwki czarne całe b/p*, SER MOZZARELLA MINI, Rukola, Oliwa czosnkowa nasza, Bazylia świeża, Ksylitol, Sól"
+      },
+      {
+        "dishName": "Jogurt borówkowy",
+        "ingredientsList": "JOGURT NATURALNY, Borówki amerykańskie, Miód pszczeli, ORZECHY ZIEMNE GRYS"
+      },
+      {
+        "dishName": "Sernik na kruchym spodzie z rabarbarem",
+        "ingredientsList": "SER NA SERNIK, Rabarbar (mrożony), MASŁO, Ksylitol, MĄKA PSZENNA, TYP 500, MĄKA ORKISZOWA JASNA, JAJA KURZE, BIAŁKO JAJA KURZEGO, ŻÓŁTKO JAJA, Kakao, Budyń waniliowy bez cukru, Cukier wanilinowy, PROSZEK DO PIECZENIA, Skrobia ziemniaczana, Sól"
+      },
+      {
+        "dishName": "Twarożek z bazylią i szczypiorkiem, pomidory oraz keto chlebkiem",
+        "ingredientsList": "TWARÓG RACIBORSKI, Pomidor malinowy, Pomidor żółty, JOGURT NATURALNY, JAJA KURZE, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), SER GOUDA, Szczypiorek, MĄKA MIGDAŁOWA, DYNIA PESTKI, Bazylia świeża, SEZAM BIAŁY, PROSZEK DO PIECZENIA, Oregano, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Makaron chow main z miodowo - sojowym kurczakiem i warzywami",
+        "ingredientsList": "Woda, Filet z piersi kurczaka, bez skóry, WOK INDONESIA (MARCHEW, ZIARNA SOI, GROSZEK STRĄCZKOWY, KIEŁKI BAMBUSA, KASZTANY, PAPRYKA ŻÓŁTA, GRZYBY CZARNE, SELER), MAKARON CHOW MEIN, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Sos sweet-chili (cukier, woda, czerwone chili, czosnek, sól, skrobia kukurydziana, kwas octowy), Miód pszczeli, SEZAM BIAŁY, Kolendra (świeża), OLEJ SEZAMOWY, Ocet ryżowy, Skrobia ziemniaczana, Sól morska, Czosnek, Pieprz mielony"
+      },
+      {
+        "dishName": "Sezamowe klopsiki z indyka z ryżem jaśminowym i warzywnym pappardelle z cukinii i marchewki",
+        "ingredientsList": "Polędwiczki z indyka, Woda, Ryż jaśminowy, SOS TERIYAKI, Cukinia zielona, Marchew, Sok pomarańczowy, JAJA KURZE, BUŁKA TARTA, SEZAM CZARNY, Natka pietruszki, Kolendra mielona, Oliwa z oliwek, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Pieprz mielony, Kmin rzymski (kumin), Sól"
+      },
+      {
+        "dishName": "Buraczane klopsiki z kremowym sosem, kaszą kuskusem i surówką z selera korzeniowego",
+        "ingredientsList": "Burak gotowany, Fasola czerwona w zalewie (konserwowa), ŚMIETANKA 15%, KASZA KUSKUS, Woda, SELER KORZENIOWY, JOGURT NATURALNY, Bułka tarta bezglutenowa, Skrobia ziemniaczana, Olej rzepakowy, Mąka ryżowa, Woda, Sok z cytryny, Koper ogrodowy, Sól, Pieprz mielony, Papryka słodka, wędzona (mielona), Czosnek, Kolendra (świeża), Mielona gałka muszkatołowa, Przyprawa do piernika (cynamon, goździki, kolendra, ziele angielskie, gałka muszkatołowa, anyż, pieprz, imbir, kardamon)"
+      },
+      {
+        "dishName": "Filet z piersi kurczaka w sosie cytrynowo - tymiankowym z kaszą gryczaną i brokułem",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Brokuł (mrożony), Kasza gryczana prażona, Woda, ŚMIETANKA 15%, Cytryna, Cebula, MASŁO KLAROWANE, Tymianek, WINO BIAŁE PÓŁWYTRAWNE, Oliwa z oliwek, Sól morska, Profesor Ziółko - groszek czepny, Marynata premium do drobiu, Czosnek granulowany, Zioła prowansalskie, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Gulasz po węgiersku z karkówki z surówką z kiszonej kapusty",
+        "ingredientsList": "Kapusta kiszona, Karkówka wołowa chłodzona, Pomidory pelati, Cebula, Marchew, Papryka czerwona, Papryka zielona, Boczniaki, Pieczarki, OGÓRKI KISZONE, Olej rzepakowy, Natka pietruszki, Sól morska, Czosnek, Ksylitol, Pieprz mielony, Papryka słodka (mielona), Majeranek, Ziele angielskie, Liść laurowy"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Ciasto z musem truskawkowym i jeżynami",
+        "ingredientsList": "SER NA SERNIK, Woda, Jeżyny, BIAŁKO JAJA KURZEGO, ŻÓŁTKO JAJA, Truskawki, Ksylitol, GALARETKA NEUTRALNA, MĄKA PSZENNA, TYP 500, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Żelatyna, PROSZEK DO PIECZENIA"
+      },
+      {
+        "dishName": "Deser ryżany z musem wiśniowym",
+        "ingredientsList": "MLEKO, Wiśnie, Ksylitol, Woda, ODŻYWKA BIAŁKOWA (WPC), Ryż basmati Punjabi, CZEKOLADA DESEROWA, Kakao, Pektyna, MIGDAŁY (PŁATKI)"
+      },
+      {
+        "dishName": "Tofu w curry z komosą ryżową, marchewką, fasolką i grzybami mun",
+        "ingredientsList": "Wok Thai (Marchew, Kukurydza, Por, Cebula, Grzyby mun, Fasolka szparagowa), Mleczko kokosowe RealThai, TOFU NATURALNE, Komosa ryżowa czerwona, Woda, Cebula, Oliwa z oliwek, Pasta curry żółta, Czosnek, Olej rzepakowy, Curry"
+      },
+      {
+        "dishName": "Koktajl malinowy z dodatkiem orzechów",
+        "ingredientsList": "MLEKO, Banan, Maliny (mrożone), ORZECHY ZIEMNE GRYS, Woda"
+      },
+      {
+        "dishName": "Sałatka z soczewicą, serem kozim i sosem balsamicznym",
+        "ingredientsList": "Pomidory cherry czerwone, Dynia piżmowa, SER KOZI SAŁATKOWY (PODPUSZCZKA MIKROBIOLOGICZNA), Papryka zielona, Papryka żółta, Soczewica w zalewie, DYNIA PESTKI, Sałata lodowa, Oliwa z oliwek, Cebula czerwona, Ocet balsamiczny, Miód pszczeli, Sałata rzymska, Szpinak, Rukola, Olej rzepakowy, Czosnek, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Rogaliki z serem Taleggio i szpinakiem, sos jogurtowo-bazyliowy i sałatka z pomidorkami i oliwkami",
+        "ingredientsList": "Pomidory koktajlowe, śliwkowe, MĄKA PSZENNA, TYP 500, JOGURT NATURALNY, Szpinak, Oliwki czarne całe b/p*, Woda, SER TALLEGIO, ŚMIETANKA 15%, Sałata lodowa, Oliwa z oliwek, Szpinak baby, Bazylia świeża, Sałata rzymska, Szpinak, Rukola, ŻÓŁTKO JAJA, Drożdże suszone, Sok cytrynka, Pieprz mielony, Cebula dymka, Czosnek, Cukier, Sól morska, Sól"
+      },
+      {
+        "dishName": "Placek ze szpinakiem, białym serem i jajkiem",
+        "ingredientsList": "Szpinak, MĄKA PSZENNA TYP \"00\" NA PIZZĘ, JAJA KURZE, Woda, TWARÓG CHUDY, Oliwa z oliwek, Szpinak baby, Ksylitol, Drożdże suszone, Koper ogrodowy, Sól morska, Chmeli - suneli, Pieprz mielony, Mielona gałka muszkatołowa"
+      },
+      {
+        "dishName": "Cytrusowe kaszotto gryczane z pieczoną dynią i serem typu feta",
+        "ingredientsList": "Dynia piżmowa, Woda, Kasza gryczana niepalona (biała), SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), ORZECHY LASKOWE, Granat, Oliwa z oliwek, Miód pszczeli, Ocet balsamiczny, Pomarańcza, Czosnek, Cynamon, Mielona papryka chili"
+      },
+      {
+        "dishName": "Zupa krem z brokuła z grzankami żytnimi",
+        "ingredientsList": "BULION WARZYWNY, Brokuł (mrożony), CHLEB ŻYTNI NA ZAKWASIE HB (MĄKA: ŻYTNIA TYP 1400, ŻYTNIA RAZOWA 2000, PSZENNA PEŁNOZIARNISTA TYP 2000, WODA, SÓL, SŁÓD JĘCZMIENNY, ZAKWAS), Cebula, Pietruszka, korzeń, DYNIA PESTKI, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Czosnek, SELER KORZENIOWY, ŚMIETANKA 15%, Marchew, Oliwa z oliwek, Pieprz mielony, Rozmaryn (świeży), Tymianek, Oregano, Sól"
+      },
+      {
+        "dishName": "Cukiniowe muffinki z siemieniem, musem z paluszków krabowych, rzodkiewką i ogórkiem",
+        "ingredientsList": "Cukinia zielona, JAJA KURZE, Ogórek zielony (długi), PALUSZKI SURIMI, Rzodkiewka, Siemię lniane (mielone), TWARÓG BEZ LAKTOZY MLEKOVITA, Słonecznik, SEREK ALMETTE BEZ LAKTOZY, Rukola, MAJONEZ Z OLEJEM RZEPAKOWYM, Czosnek, Natka pietruszki, Olej rzepakowy, Sól, Pieprz mielony"
+      }
+    ]
+  }
+]

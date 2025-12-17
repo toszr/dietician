@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Granola orzechowa z waniliowy jogurtem, owocami: winogronami i jabłkiem",
+        "ingredientsList": "JOGURT NATURALNY, Winogrona jasne, Winogrona ciemne, Jabłko, KREM ANGIELSKI , PŁATKI OWSIANE, Ksylitol, MASŁO ORZECHOWE, ORZECHY LASKOWE, Miód pszczeli, ORZECHY ZIEMNE GRYS, MIGDAŁY, SEZAM CZARNY, Siemię lniane, Mleczko kokosowe RealThai, Sok z cytryny"
+      },
+      {
+        "dishName": "Twarożek z bazylią, bagietka pszenna, ogórek i kalarepa",
+        "ingredientsList": "TWARÓG RACIBORSKI, BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), Ogórek zielony (długi), JOGURT NATURALNY, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Kalarepa, Bazylia świeża, Koper ogrodowy, DYNIA PESTKI, Sól"
+      },
+      {
+        "dishName": "Bajgiel z jajkiem \"sadzonym\", szczypiorkiem i sosem jogurtowym",
+        "ingredientsList": "JAJA KURZE, BAJGIEL NATURALNY (MĄKA PSZENNA, WODA, CUKIER, OLEJ RZEPAKOWY, DROŻDŻE, SÓL), JOGURT NATURALNY, TWARÓG RACIBORSKI, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Rzodkiewka, Szczypiorek, Sałata Freeze, Rukola, Pieprz mielony, Sól morska"
+      },
+      {
+        "dishName": "Chlebek kokosowo - cynamonowy z orzechami laskowymi, jogurtem naturalnym i owocami: gruszką i jabłkiem",
+        "ingredientsList": "JOGURT NATURALNY, Dynia, Gruszka, Jabłko, Olej kokosowy (rafinowany), Babka płesznik (jajowata), MĄKA MIGDAŁOWA, ORZECHY LASKOWE, Mąka kokosowa, Erytrol, Siemię lniane, Mleczko kokosowe RealThai, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Cynamon, PROSZEK DO PIECZENIA, Sól, Soda oczyszczona"
+      },
+      {
+        "dishName": "Cynamonowe białkowe placuszki z jogurtem naturalnym i musem z jabłek i truskawek",
+        "ingredientsList": "JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, SEREK WIEJSKI (NATURALNY), Jabłko, JAJA KURZE, Truskawki, ORZECHY ZIEMNE GRYS, MĄKA ORKISZOWA CIEMNA, Ksylitol, MĄKA ORKISZOWA JASNA, BIAŁKO JAJA (KURZEGO), Cynamon, Granat, Mięta liście"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Sałatka z serem typu feta i pitą",
+        "ingredientsList": "CHLEB PITA (MĄKA PSZENNA, WODA, DROŻDŻE, SÓL JODOWANA, CUKIER, OLEJ ROŚLINNY), Pomidory cherry czerwone, Ogórek zielony (długi), Sałata lodowa, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), JOGURT NATURALNY, Oliwki zielone całe, Oliwki czarne całe b/p*, Papryka czerwona, Papryka zielona, Papryka żółta, Sok cytrynka, Oregano, Sumak, Ksylitol, Mięta liście"
+      },
+      {
+        "dishName": "Smoothie z jabłkiem i winogronami",
+        "ingredientsList": "Winogrona ciemne, Jabłko sokowe, Woda mineralna niegazowana, Sok jabłkowy"
+      },
+      {
+        "dishName": "Ryżanka z musem z pieczonych jabłek i orzechami laskowymi",
+        "ingredientsList": "MLEKO, Jabłko, Ryż basmati Punjabi, ORZECHY LASKOWE, Erytrol, Ksylitol, Cynamon"
+      },
+      {
+        "dishName": "Zupa ze szczawiu z jajkiem",
+        "ingredientsList": "BULION WARZYWNY, Szczaw, Jaja kurze (gotowane) Eipro, Włoszczyzna, ŚMIETANKA 15%, DYNIA PESTKI, Cebula, Koper ogrodowy, Czosnek, Oliwa z oliwek, Lubczyk, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Makaron z kotlecikami sojowymi, fasolką edamame i brokułem",
+        "ingredientsList": "Woda, Brokuł (mrożony), BULION WARZYWNY, Woda, Mleczko kokosowe RealThai, EDAMAME FASOLA SOI ŁUSKANA, MAKARON SOJOWY VERMICELLI, Papryka czerwona, Papryka żółta, KOTLETY SOJOWE, Pomidory pelati, ORZECHY ARACHIDOWE, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Mąka z tapioki, BULION JARZYNOWY, Cebula, Imbir świeży, OLEJ SEZAMOWY, Czosnek, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Liście kafiru, Olej rzepakowy, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Rostbef w sosie z zielonego pieprzu z kopytkami i zasmażaną kapustą",
+        "ingredientsList": "Wołowina, rostbef, Kapusta biała, ŚMIETANKA 15%, Cebula, Kalafior, JAJA KURZE, Boczek wieprzowy wędzony parzony plastry, Pieprz zielony, Woda, MĄKA MIGDAŁOWA, Czosnek, BULION WARZYWNY, Koncentrat pomidorowy, Ciecierzyca nasiona suche, Mąka z tapioki, Koper ogrodowy, Ksylitol, MUSZTARDA SAREPSKA, WINO BIAŁE PÓŁWYTRAWNE, Tymianek gałązka do ozdoby, Rozmaryn (świeży), Oliwa z oliwek, Ziele angielskie, Liść laurowy, Marynata Premium do wołowiny, Sól morska, Pieprz mielony, Majeranek"
+      },
+      {
+        "dishName": "Schab z delikatnym sosem pieczeniowym, kasza jaglaną i buraczkami",
+        "ingredientsList": "Schab wieprzowy (bez kości), Burak gotowany, Kasza jaglana, Woda, ŚMIETANKA 15%, BULION WARZYWNY, DEMI GLAZE, Ksylitol, MĄKA PSZENNA, TYP 500, Rozmaryn (świeży), Oliwa z oliwek, Sól, Sok z cytryny, Pieprz mielony, Marchew, Pietruszka, korzeń, Ziele angielskie, Liść laurowy, Sól morska"
+      },
+      {
+        "dishName": "Chili con tofu z kaszą bulgur",
+        "ingredientsList": "Woda, Pomidory pelati, Fasola czerwona w zalewie (konserwowa), KASZA BULGUR, Papryka czerwona, TOFU NATURALNE, Woda, Kukurydza konserwowa, Cebula, ORZECHY ZIEMNE GRYS, Papryczka ostra (chili), Oliwa z oliwek, Czosnek, Kmin rzymski (kumin), Płatki chili, Sambal, Natka pietruszki"
+      },
+      {
+        "dishName": "Roladki z indyka z kremowym serkiem, ryżem dzikim i warzywami",
+        "ingredientsList": "Filet z piersi indyka, bez skóry, Woda, Pomidory pelati, Ryż dziki, Suszone pomidory, Kapusta czerwona, Burak, Jabłko, Słonecznik, ŚMIETANKA 15%, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), SER RICOTTA MIĘKKA, Oliwa z oliwek, Koper ogrodowy, Sok cytrynka, Ksylitol, Sól, Tymianek, Rozmaryn (świeży), Natka pietruszki, Oregano"
+      },
+      {
+        "dishName": "Filet z piersi kurczaka w sosie śmietanowo - koperkowym z dynią oraz surówką z białej kapusty",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, ŚMIETANKA 15%, Dynia piżmowa, Kapusta biała młoda, Słonecznik, Koper ogrodowy, Oliwa z oliwek, Olej rzepakowy, Pieprz mielony, Sól, Oliwa z oliwek, Czosnek, Sól himalajska, Sok cytrynka, Ksylitol, Sól morska"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Budyń czekoladowy z malinami w sosie",
+        "ingredientsList": "MLEKO, Maliny, Ksylitol, Skrobia ziemniaczana, CZEKOLADA DESEROWA, ORZECHY ZIEMNE GRYS, Mąka z tapioki"
+      },
+      {
+        "dishName": "Placuszki drożdżowe z cukinią i sosem jogurtowo - rozmarynowym",
+        "ingredientsList": "MĄKA PSZENNA, TYP 500, Woda, Marchew, JOGURT NATURALNY, Duet cukinii Brunoise kosteczka, Cukinia zielona, Marchew filetowa - czarna, Pietruszka, korzeń, Oliwa z oliwek, Drożdże suszone, Sok cytrynka, Pieprz mielony, Rozmaryn, Roszponka, Natka pietruszki, Pieprz cytrynowy, Sól morska"
+      },
+      {
+        "dishName": "Ciasto jogurtowe z czarną porzeczką",
+        "ingredientsList": "MĄKA PSZENNA, SKROBIA PSZENNA, KSYLITOL, SERWATKA MLEKA KROWIEGO, MLEKO W PROSZKU, Porzeczki czarne, Olej rzepakowy, JAJA KURZE, Woda mineralna niegazowana"
+      },
+      {
+        "dishName": "Pasta z pstrągiem wędzonym, pieczywem żytnim i pomidorem",
+        "ingredientsList": "Pomidor malinowy, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Pstrąg tęczowy (filet, wędzony), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), TWARÓG RACIBORSKI, Słonecznik, Szczypiorek, Koper ogrodowy, Pieprz cytrynowy, Sok z cytryny"
+      },
+      {
+        "dishName": "Kakaowe muffinki ze skórką z pomarańczy",
+        "ingredientsList": "JAJA KURZE, Mąka kokosowa, Skórka z pomarańczy, Erytrol, Mleczko kokosowe RealThai, MASŁO KLAROWANE, Żurawina suszona, Kakao, Sok z cytryny, ORZECHY NERKOWCA, Skórka z cytryny (starta), Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), PROSZEK DO PIECZENIA, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Pasztet drobiowo - wieprzowy z sosem jeżynowym, pieczywem i słupkami ogórka kiszonego",
+        "ingredientsList": "CHLEB DRWALSKI (MĄKA PSZENNA, ŻYTNIA, WODA, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, SÓL, DROŻDŻE, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Ogórek kiszony, Wieprzowina (schab, szynka, karkówka), Polędwiczki z kurczaka, Wątróbka (z kurczaka), Jeżyny, BIAŁKO JAJA KURZEGO, ŚMIETANKA 15%, Cebula, Marchew, DYNIA PESTKI, Pietruszka, korzeń, Jabłko, Śliwki suszone, Rozmaryn (świeży), Czosnek, Jałowiec, Majeranek, Ziele angielskie, Liść laurowy, Ksylitol"
+      },
+      {
+        "dishName": "Sałatka z dynią, komosą i serem pleśniowym",
+        "ingredientsList": "Dynia piżmowa, Pomidor malinowy, Komosa ryżowa biała, Woda, SER PLEŚNIOWY KAMIENNOGÓRSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Marchew, Ziemniaki Baby Patatki, Sałata lodowa, Olej rzepakowy, Woda, MUSZTARDA, Miód pszczeli, Granat, Ocet biały winny, Sok cytrynka, Natka pietruszki, Koper ogrodowy, Oliwa z oliwek, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Bowl z bobem, cukinią, pomidorem, batatami i komosą ryżową z miętowym vinaigrette",
+        "ingredientsList": "Bataty, Bób, Pomidor śliwkowy (daktylowy), Cukinia zielona, DYNIA PESTKI, Komosa ryżowa biała, Woda, Olej rzepakowy, MUSZTARDA, Woda, Ocet biały winny, Erytrol, Natka pietruszki, Mięta liście, Oliwa z oliwek, Czosnek, Sól"
+      },
+      {
+        "dishName": "Pizza keto z prociutto cotto i oliwkami na serowym spodzie",
+        "ingredientsList": "SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Pomidory pelati, Prosciutto Cotto, JAJA KURZE, Cebula czerwona, Oliwki czarne, Oliwki zielone krojone*, ŻÓŁTKO JAJA, Ksylitol, Sól, Pieprz mielony, Oregano"
+      },
+      {
+        "dishName": "Minestrone z białą fasolą i makaronem fusilli",
+        "ingredientsList": "BULION WARZYWNY, Woda, MAKARON FUSILLI (PEŁNOZIARNISTY ORKISZOWY), Woda, Fasola biała nasiona suche, Marchew, Pomidory pelati, Por, Cebula, Pomidory pelati kostka, Papryka czerwona, Fasolka szparagowa zielona cięta 2,5kg, Kapusta biała, SELER KORZENIOWY, Czosnek, SER PARMEZAN (MLEKO NIEPASTERYZOWANE, SÓL, PODPUSZCZKA, SUBSTANCJA KONSERWUJĄCA: LIZOZYM JAJECZNY), Koper ogrodowy, Bazylia świeża, Natka pietruszki"
+      }
+    ]
+  }
+]

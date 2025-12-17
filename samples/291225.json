@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Serek wiejski z rzodkiewką, sałatką z burakiem, kalarepą i jabłkiem oraz bułeczką wieloziarnistą",
+        "ingredientsList": "SEREK WIEJSKI (NATURALNY), BUŁECZKA RUSTICO (MĄKA (PSZENNA, ŻYTNIA), PŁATKI OWSIANE, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, DROŻDŻE, SEZAM, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Rzodkiewka, Ogórek zielony (długi), Słonecznik, Cebula czerwona, Rzepa arbuzowa, Kalarepa, Burak gotowany, Jabłko, Cebula dymka, Sól morska, Pieprz mielony, Sok z cytryny"
+      },
+      {
+        "dishName": "Ciabatta z pesto, pomidorem i serem mozzarella, sos bazyliowy",
+        "ingredientsList": "CIABATTA (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), Pomidor malinowy, SER MOZZARELLA (125G KULKA), JOGURT NATURALNY, Bazylia świeża, Oliwa z oliwek, Sok z cytryny, PARMEZAN, ORZECHY NERKOWCA, Oliwa czosnkowa, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Migdałowe placuszki z rzodkiewką i ogórkiem i sosem szczypiorkowym",
+        "ingredientsList": "JAJA KURZE, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Ogórek zielony (długi), Rzodkiewka, MĄKA MIGDAŁOWA, Tahini, MAJONEZ Z OLEJEM RZEPAKOWYM, Babka płesznik (jajowata), Szczypiorek, MASŁO KLAROWANE, Pietruszka, liście, Sól morska, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Hummus z dynią i czarnuszką, sałatka z papryką, oliwkami i prażoną ciecierzycą",
+        "ingredientsList": "CHLEB ŻYTNI NA ZAKWASIE HB (MĄKA: ŻYTNIA TYP 1400, ŻYTNIA RAZOWA 2000, PSZENNA PEŁNOZIARNISTA TYP 2000, WODA, SÓL, SŁÓD JĘCZMIENNY, ZAKWAS), Woda, Ciecierzyca w zalewie, Ciecierzyca nasiona suche, Dynia hokaido, Sałata lodowa, Pomidor malinowy, Oliwki czarne całe b/p*, Tahini, Papryka czerwona, Papryka zielona, Papryka żółta, Krem balsamiczny, Czarnuszka, Woda mineralna niegazowana, Oliwa z oliwek, Pomidory suszone z oregano, Sok z cytryny, Sumak, Czosnek granulowany"
+      },
+      {
+        "dishName": "Owsianka orzechowa z jagodami i malinami w sosie",
+        "ingredientsList": "MLEKO, PŁATKI OWSIANE, Maliny, Jagody czarne (mrożone), Woda, Ksylitol, ORZECHY ARACHIDOWE, ORZECHY LASKOWE, ORZECHY NERKOWCA, ORZECHY ZIEMNE GRYS, MASŁO ORZECHOWE, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Skrobia ziemniaczana, Sok cytrynka"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Risotto z cukinią i kurkami",
+        "ingredientsList": "BULION WARZYWNY, PARMEZAN, Cukinia zielona, Ryż krótkoziarnisty (typu arborio), Kurki (mrożone), Cebula, ŚMIETANKA 15%, Pomidory cherry czerwone, Kurka do sosów, Szpinak, Oliwa z oliwek, Czosnek, Natka pietruszki, Rozmaryn (świeży), Pieprz mielony, WINO BIAŁE PÓŁWYTRAWNE, Sól morska"
+      },
+      {
+        "dishName": "Waniliowe placuszki z serka wiejskiego z jogurtem i owocami leśnymi",
+        "ingredientsList": "SEREK WIEJSKI (NATURALNY), JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Owoce mix: truskawka, porzeczka, owoce leśne, JAJA KURZE, MĄKA PSZENNA, TYP 500, Woda, Ksylitol, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Koncentrat kompotu owoce leśne z jabłkiem bez cukru, Skrobia ziemniaczana, Sok cytrynka"
+      },
+      {
+        "dishName": "Bites z kalafiora w panierce kukurydzianej z sosem pomidorowym z mozzarellą",
+        "ingredientsList": "Kalafior, Pomidory pelati, Płatki kukurydziane bezglutenowe, MLEKO SPOŻYWCZE 2%, MĄKA ORKISZOWA JASNA, Cebula, SER MOZZARELLA WIÓRKI, Oliwa z oliwek, Czosnek, Sól, Pieprz mielony, Rama Combi Profi, Marynata premium do drobiu, Papryka słodka (mielona), Mielona papryka chili"
+      },
+      {
+        "dishName": "Twarogowe kopytka z duszoną śliwką i migdałami",
+        "ingredientsList": "Ziemniaki obrane, Śliwki, MĄKA PSZENNA, TYP 500, SER NA SERNIK, TWARÓG CHUDY, JAJA KURZE, MIGDAŁY, Skrobia ziemniaczana, Ksylitol, Olej kokosowy (nierafinowany), Cynamon, Sól"
+      },
+      {
+        "dishName": "Sernik wiedeński",
+        "ingredientsList": "TWARÓG BEZ LAKTOZY MLEKOVITA, JAJA KURZE, MASŁO, Erytrol, ORZECHY ZIEMNE GRYS, Mąka kokosowa, CZEKOLADA CIEMNA 60% BEZ CUKRU, Olej rzepakowy"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Kurczak Tandorii z ryżem basmati z kurkumą i zielonymi warzywami: fasolką, brokułem i kiełkami fasoli mung",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Woda, Ryż basmati Punjabi, Brokuł (mrożony), Fasolka szparagowa zielona cięta 2,5kg, BULION WARZYWNY, ŚMIETANKA 15%, Cebula, Fasola mung, kiełki, Pasta Tandoori, Oliwa z oliwek, Kolendra (świeża), Czosnek, Natka pietruszki, SEZAM BIAŁY, Pieprz mielony, Kurkuma, Sól morska, OLEJ SEZAMOWY"
+      },
+      {
+        "dishName": "Kuleczki wołowe z karkówki w sosie BBQ z frytkami z dyni, pietruszki i pieczoną kolorową papryką",
+        "ingredientsList": "Karkówka wołowa chłodzona, Dynia hokaido, Pietruszka, korzeń, Passata pomidorowa (przecier), Włoszczyzna, Papryka czerwona, Papryka zielona, Papryka żółta, Cebula czerwona, Oliwa z oliwek, Cebula, Koncentrat pomidorowy, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Erytrol, Ocet jabłkowy z dojrzałych jabłek, Czosnek, Oliwa z oliwek, Rama Combi Profi, Tymianek, Mielona papryka chili, BULION WARZYWNY, Rozmaryn (świeży), Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Polędwica z mintaja w panierce kukurydzianej z pieczonymi batatami i zielonym groszkiem i marchewką paryską",
+        "ingredientsList": "MINTAJ (POLĘDWICA), Bataty, Pomidory pelati, Marchew paryska, Groszek zielony, JAJA KURZE, Płatki kukurydziane bezglutenowe, MĄKA PSZENNA, TYP 500, Ksylitol, Oliwa czosnkowa nasza, Bazylia świeża, Sól, Rama Combi Profi, Oliwa z oliwek, Pieprz mielony"
+      },
+      {
+        "dishName": "Pierogi orkiszowe ze szpinakiem i serem, sos jogurtowo-bazyliowy",
+        "ingredientsList": "Szpinak, MĄKA PERFECJA SPECIALE NA PIEROGI, JOGURT NATURALNY, Woda, MĄKA ORKISZOWA JASNA, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), SER TALLEGIO, MĄKA KRUPCZATKA, Oliwa z oliwek, Cebula, Czosnek, Szpinak baby, Bazylia świeża, Sok cytrynka, Pieprz mielony, Sól morska, Rozmaryn (świeży)"
+      },
+      {
+        "dishName": "Indyk po koreańsku z czerwonym ryżem i warzywami: papryką, cukinią i marchewką",
+        "ingredientsList": "Filet z piersi indyka, bez skóry, Ryż czerwony, Pomidory pelati, Woda, Cukinia zielona, Papryka czerwona, Marchew, Ksylitol, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), MĄKA ORKISZOWA CIEMNA, MĄKA ORKISZOWA JASNA, Czosnek, Ocet ryżowy, OLEJ SEZAMOWY, Pieprz mielony, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Imbir mielony, Czosnek granulowany, Cebula dymka, BIAŁKO JAJA KURZEGO, Sól, Mirin Fumi zaprawa, Rama Combi Profi, Papryka słodka (mielona)"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Mini drożdżówki z truskawkami",
+        "ingredientsList": "Truskawki, MĄKA PSZENNA, TYP 500, MLEKO, Ksylitol, MIGDAŁY (PŁATKI), MĄKA ORKISZOWA JASNA, JAJA KURZE, MASŁO, JAJA KURZE, Woda, Oliwa z oliwek, Budyń waniliowy w proszku, Drożdże suszone, Cukier wanilinowy, Cukier, Sól"
+      },
+      {
+        "dishName": "Jogurt waniliowy z karmelizowanymi brzoskwiniami",
+        "ingredientsList": "JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Brzoskwinia połówki, ORZECHY ZIEMNE GRYS, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), MASŁO, Ksylitol"
+      },
+      {
+        "dishName": "Ciasteczko z ciecierzycy z musem malinowym",
+        "ingredientsList": "Maliny (mrożone), Ciecierzyca nasiona suche, Woda, MĄKA MIGDAŁOWA, MASŁO ORZECHOWE, Mąka ryżowa, Syrop z agawy, CZEKOLADA DESEROWA, Ksylitol, Woda mineralna niegazowana, Soda oczyszczona"
+      },
+      {
+        "dishName": "Zapiekanka na spodzie serowym z mozzarellą, salami spinata i oliwkami",
+        "ingredientsList": "JAJA KURZE, SER GOUDA, MĄKA ORKISZOWA JASNA, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), Pomidor malinowy, Pomidory pelati, SALAMI (SPINIATA), Szpinak baby, Oliwki czarne, Oregano, PROSZEK DO PIECZENIA, Czosnek, Ksylitol"
+      },
+      {
+        "dishName": "Zupa krem kalafiorowo - serowa z serem cheddar",
+        "ingredientsList": "BULION MIĘSNY, Kalafior, SER GOUDA, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Cebula, SER CHEDDAR, ŚMIETANKA 15%, Natka pietruszki, Olej rzepakowy, Sól, Pieprz mielony, Tymianek"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Pełnoziarniste nachos z guacamole i wegetariańskim chili con carne",
+        "ingredientsList": "Guacamole, TORTILLA PEŁNOZIARNISTA (MĄKA PSZENNA PEŁNOZIARNISTA, WODA, OLEJ RZEPAKOWY, STABILIZATORY: GLICEROL, GUMA GUAR, GLUTEN PSZENNY, SÓL, GLUKOZA, EMULGATOR: MONO- I DIGLICERYDY KW. TŁUSZCZOWYCH, WĘGLANY SODU), Pomidory pelati, Fasola czerwona w zalewie (konserwowa), Papryka czerwona, TOFU NATURALNE, Woda, Kukurydza konserwowa, ORZECHY ARACHIDOWE, Cebula, Papryczka ostra (chili), Oliwa z oliwek, Czosnek, Kmin rzymski (kumin), Płatki chili, Kolendra (świeża), Marynata premium do drobiu, Papryka słodka (mielona), Papryka słodka, wędzona (mielona), Sambal"
+      },
+      {
+        "dishName": "Seler zapiekany z serem i szynką podana z sosem czosnkowym i pieczonymi warzywami",
+        "ingredientsList": "SELER KORZENIOWY, Ziemniaki obrane, Szynka ciemna Mróż, JOGURT NATURALNY, Cukinia zielona, Cebula czerwona, Dynia piżmowa, BIAŁKO JAJA KURZEGO, SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), SER CHEDDAR, Marchew, MLEKO, Sok z cytryny, Czosnek granulowany, Oregano, Pieprz mielony, Koncentrat pomidorowy, Zioła prowansalskie, Oliwa z oliwek, Mielona gałka muszkatołowa, Sól morska, Olej rzepakowy, Natka pietruszki, Sól"
+      },
+      {
+        "dishName": "Sałatka z ananasem, kaszą kuskus i serem typu feta",
+        "ingredientsList": "SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Ananas, Cukinia zielona, Woda, KASZA KUSKUS, Groszek cukrowy strączkowy Snap Peas Bond, Olej rzepakowy, Miód pszczeli, Sok cytrynka, Woda, Granat, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Ziołowe placuszki ryżowe z sosem szczypiorkowym i warzywami: burakami, pietruszką i marchewką",
+        "ingredientsList": "JOGURT NATURALNY, Woda, Ryż brązowy, Burak, Marchew, Cebula, JAJA KURZE, Pietruszka korzeń, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), Skrobia ziemniaczana, Oliwa z oliwek, Szczypiorek, Koper ogrodowy, Natka pietruszki, Oregano, Sól, Pieprz mielony, Sok z cytryny, Profesor Ziółko - kiełki słonecznika"
+      },
+      {
+        "dishName": "Makaron penne pełnoziarnisty z sosem kokosowo- pomidorowym i kuleczkami z piersi kurczaka",
+        "ingredientsList": "Woda, MAKARON PENNE (PEŁNOZIARNISTY), Cukinia zielona, Pomidory pelati, Polędwiczki z kurczaka, SER MOZZARELLA MINI, Mleczko kokosowe RealThai, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), Pomidory cherry żółte, Pomidory koktajlowe, śliwkowe, BIAŁKO JAJA KURZEGO, Cebula, Suszone pomidory, Włoszczyzna, Natka pietruszki, Bazylia świeża, Oliwa z oliwek, Pieprz mielony, Sól"
+      }
+    ]
+  }
+]

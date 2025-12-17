@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Owsianka ze śliwkami, orzechami, jogurtem z miodem i owocami: melon, jabłko i winogrona",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO, Śliwki, PŁATKI OWSIANE, Melon, Winogrona, Jabłko, Ksylitol, Miód pszczeli, Żurawina suszona, Śliwki suszone, MIGDAŁY (PŁATKI), OTRĘBY OWSIANE, ORZECHY NERKOWCA, Jagody goji (suszone), Agar"
+      },
+      {
+        "dishName": "Placuszki z morelami z serkiem waniliowym i musem truskawkowym",
+        "ingredientsList": "MĄKA PSZENNA, TYP 500, Truskawki, Morele mrożone, BIAŁKO JAJA (KURZEGO), TWARÓG RACIBORSKI, ŻÓŁTKO JAJA, JOGURT NATURALNY (2% TŁ.), Ksylitol, Miód pszczeli, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), PROSZEK DO PIECZENIA, Kurkuma"
+      },
+      {
+        "dishName": "Baba ghanoush z pitą i sałatką libańską",
+        "ingredientsList": "CHLEB PITA (MĄKA PSZENNA, WODA, DROŻDŻE, SÓL JODOWANA, CUKIER, OLEJ ROŚLINNY), Bakłażan, Pomidor, Woda, Ogórek zielony (długi), Ciecierzyca nasiona suche, Sałata rzymska, ORZECHY WŁOSKIE, Cebula czerwona, Tahini, Sok z cytryny, Granat, Oliwa z oliwek, Natka pietruszki, Czosnek, Mięta liście, Syrop z agawy, Sumak, Kmin rzymski (kumin), Sól"
+      },
+      {
+        "dishName": "Frittata z serem mozzarella i pieczarkami, sosem pomidorowo- paprykowym i pieczywo żytnie",
+        "ingredientsList": "JAJA KURZE, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), Peperonata, Pomidory pelati, Cukinia duet Minute, Pieczarki, Słonecznik, DYNIA PESTKI, Cebula, Czosnek, Szczypiorek, Roszponka, Oliwa z oliwek, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Tortilla de \"patatas\" z kalarepą i sosem tatarskim",
+        "ingredientsList": "JAJA KURZE, Kalarepa, Cebula, JOGURT NATURALNY, MAJONEZ Z OLEJEM RZEPAKOWYM, SER GOUDA, Słonecznik, MĄKA MIGDAŁOWA, Pieczarki marynowane, Ogórki konserwowe, Olej rzepakowy, OGÓRKI KISZONE, SEZAM BIAŁY, PROSZEK DO PIECZENIA, Oregano, Sól, Pieprz mielony, Natka pietruszki, Szczypiorek"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Koktajl brzoskwiniowy",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO, Brzoskwinia kostka, Banan"
+      },
+      {
+        "dishName": "Ciasto jogurtowe z jagodami",
+        "ingredientsList": "MĄKA PSZENNA, SKROBIA PSZENNA, KSYLITOL, SERWATKA MLEKA KROWIEGO, MLEKO W PROSZKU, Jagody czarne (mrożone), Olej rzepakowy, JAJA KURZE, Woda mineralna niegazowana"
+      },
+      {
+        "dishName": "Mini kanapeczki z serem camembert, winogronami i orzechami włoskimi",
+        "ingredientsList": "BAGIETKA FINTES (MĄKA (PSZENNA, ŻYTNIA), WODA, PŁATKI OWSIANE, SIEMIĘ LNIANE, SOJA, SŁONECZNIK, DROŻDŻE, SEZAM, SÓL, SŁÓD JĘCZMIENNY), SER CAMEMBERT PRESIDENT, TWARÓG RACIBORSKI, Winogrona ciemne, SEZAM CZARNY, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), ORZECHY WŁOSKIE, Szpinak baby, Rukola, Sok z cytryny"
+      },
+      {
+        "dishName": "Placuszki gryczane z jabłkami, jogurtem naturalnym i kremem czekoladowym z cukinii",
+        "ingredientsList": "JOGURT NATURALNY, Cukinia zielona, Jabłko, JAJA KURZE, Mąka gryczana, CZEKOLADA DESEROWA, Ksylitol, NAPÓJ SOJOWY BEZ CUKRU, MĄKA OWSIANA (PEŁNOZIARNISTA), Kakao, Oliwa z oliwek, Soda oczyszczona, Mięta liście, Cynamon, Sól"
+      },
+      {
+        "dishName": "Zupa curry na mleczku kokosowym z krewetką",
+        "ingredientsList": "BULION WARZYWNY, Włoszczyzna, KREWETKI, Mleczko kokosowe, JAJA KURZE, Cebula, Sok z limonki, SOS RYBNY, Szczypiorek, Pasta curry żółta, Sok z cytryny, Kolendra (świeża), OLEJ SEZAMOWY, Olej kokosowy (rafinowany), Imbir świeży, Mąka kokosowa, Babka płesznik (jajowata), Czosnek, SEZAM BIAŁY, Oliwa z oliwek, Tom ka (pasta), PROSZEK DO PIECZENIA, Liść limonki, Trawa cytrynowa surowa cała, Sól himalajska, Bazylia suszona, Oregano, Sól, Pieprz mielony"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Polędwiczka wieprzowa w sosie grzybowym z kopytkami i buraczkami",
+        "ingredientsList": "Polędwica wieprzowa (surowa), KOPYTKA ZIEMNIACZANE (ZIEMNIAKI, SKROBIA ZIEMNIACZANA, MĄKA PSZENNA, JAJA), Kuleczki buraka ze słoika, ŚMIETANKA 15%, Pieczarka mała, Borowik do sosów kostka, BULION WARZYWNY, Cebula, Słonecznik, Czosnek, WINO BIAŁE PÓŁWYTRAWNE, Natka pietruszki, Olej rzepakowy, Miód pszczeli, Sok z cytryny, Tymianek, Fond grzybowy, Rozmaryn (świeży), Sól, Pieprz mielony, Oliwa z oliwek"
+      },
+      {
+        "dishName": "Makaron soba z krewetkami z orzeszkami ziemnymi, groszkiem cukrowym, kiełkami fali mung i cukinią",
+        "ingredientsList": "KREWETKI, Woda, MAKARON GRYCZANY SOBA, BULION MIĘSNY, SOS OSTRYGOWY MEA KRUA (EKSTRAKT Z OSTRYG, CUKIER, SÓL, FASOLKA SOI, MĄKA PSZENNA, SKROBIA KUKURYDZIANA, SUBSTANCJA KONSERWUJĄCA: E211), Marchew, Kiełki fasoli mung, SELER NACIOWY, Cukinia zielona, Groszek cukrowy strączkowy Snap Peas Bond, Groszek zielony, ORZECHY ZIEMNE GRYS, Kolendra (świeża), Skrobia ziemniaczana, OLEJ SEZAMOWY, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), SOS RYBNY, Sól, Sok z limonki, Pieprz mielony"
+      },
+      {
+        "dishName": "Makaron fetucinnie z sosem dyniowym i serem typu greckiego",
+        "ingredientsList": "Woda, MAKARON FETUCCINE SEMOLINA, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Dynia, Suszone pomidory (w oleju z ziołami, odsączone), Flora Professional Plant 15% (roztwór białka soczewicy (woda, białko soczewicy 2,5%), olej rzepakowy, tłuszcz kokosowy, cukier, modyfikowana skrobia ziemniaczana, emulgator (polisorbat 60), stabilizatory (metyloceluloza, guma ksantanowa), regulator kwasowości (cytrynian trisodowy), aromat naturalny, sól, barwnik (karoteny)), ORZECHY NERKOWCA, Szpinak baby, BULION WARZYWNY, Olej rzepakowy, Czosnek, Sól, Pieprz mielony, Mielona papryka chili, Curry"
+      },
+      {
+        "dishName": "Pieczony ser z sosem ogórkowym",
+        "ingredientsList": "SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), OGÓRKI KISZONE, Papryka czerwona, JAJA KURZE, MĄKA MIGDAŁOWA, Flora Professional Plant 15% (roztwór białka soczewicy (woda, białko soczewicy 2,5%), olej rzepakowy, tłuszcz kokosowy, cukier, modyfikowana skrobia ziemniaczana, emulgator (polisorbat 60), stabilizatory (metyloceluloza, guma ksantanowa), regulator kwasowości (cytrynian trisodowy), aromat naturalny, sól, barwnik (karoteny)), SER PARMEGRANA DOJRZEWAJĄCY 18 MIESIĘCY, Cebula, Ogórek zielony (długi), Cebula czerwona, MUSZTARDA DIJON, Cebula dymka, MUSZTARDA STOŁOWA, Pieprz mielony, Ksylitol, GORCZYCA"
+      },
+      {
+        "dishName": "Filet z piersi kurczaka w sosie śliwkowym z kaszą bulgur i czerwoną kapustą",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Czerwona kapusta z jabłkiem, Woda, KASZA BULGUR, ŚMIETANKA 15%, Śliwki suszone, ORZECHY WŁOSKIE, DEMI GLAZE, Natka pietruszki, Cebula, Czosnek, Olej rzepakowy, Pieprz mielony, Majeranek, Oliwa z oliwek, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Mini serniczki na kruchym kakaowym spodzie",
+        "ingredientsList": "SER NA SERNIK, MASŁO, Ksylitol, BIAŁKO JAJA KURZEGO, MĄKA PSZENNA, TYP 500, MĄKA ORKISZOWA JASNA, ŻÓŁTKO JAJA, JAJA KURZE, Budyń waniliowy bez cukru, Kakao, Cukier wanilinowy, Mięta liście, PROSZEK DO PIECZENIA, Sól morska"
+      },
+      {
+        "dishName": "Paszteciki drożdżowe z kurczakiem",
+        "ingredientsList": "MĄKA PSZENNA, TYP 500, Polędwiczki z kurczaka, Woda, Wątróbka (z kurczaka), BULION WARZYWNY, Marchew, Pietruszka, korzeń, MLEKO, Oliwa z oliwek, Drożdże suszone, Tymianek, Sól morska, Pieprz mielony, Majeranek, Profesor Ziółko - groszek czepny"
+      },
+      {
+        "dishName": "Smoothie truskawkowo-bananowe",
+        "ingredientsList": "MLEKO, Truskawki, Banan, Ksylitol, Sok z cytryny"
+      },
+      {
+        "dishName": "Krem z cukinii z makaronem pełnoziarnistym i mini mozzarellą",
+        "ingredientsList": "BULION WARZYWNY, Cukinia zielona, Woda, MAKARON PENNE (PEŁNOZIARNISTY), SER MOZZARELLA MINI, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Pietruszka, korzeń, SELER KORZENIOWY, SELER NACIOWY, Cebula, Czosnek, Bazylia świeża, Pieprz mielony, Ziele angielskie, Liść laurowy, Zioła prowansalskie, Sól morska"
+      },
+      {
+        "dishName": "Placuszki cukiniowe z boczkiem wędzonym i sosem koperkowym",
+        "ingredientsList": "MAJONEZ Z OLEJEM RZEPAKOWYM, Cukinia zielona, JAJA KURZE, JOGURT NATURALNY TYPU GRECKIEGO, Boczek wieprzowy wędzony parzony plastry, Cebula, Pieczarki, SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Koper ogrodowy, Babka płesznik (jajowata), Czosnek, MASŁO KLAROWANE, Sól morska, Pieprz mielony"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Twarożek z rzodkiewką i szczypiorkiem oraz pieczywem",
+        "ingredientsList": "TWARÓG RACIBORSKI, CHLEB GRAHAM KROPEK (MĄKA PSZENNA, PSZENNA GRAHAM), WODA, DROŻDŻE, CUKIER, SÓL, KWAS ASKORBINOWY), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Ogórek zielony (długi), Rzodkiewka, JOGURT NATURALNY, Słonecznik, Sałata rzymska, Bazylia świeża, Szczypiorek, Cebula dymka, Koper ogrodowy, Pieprz mielony, Sól, Sok cytrynka"
+      },
+      {
+        "dishName": "Krem z pieczonego jabłka z chrustem pszennym",
+        "ingredientsList": "BULION WARZYWNY, Jabłko, BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), Marchew, SELER KORZENIOWY, MASŁO, Pietruszka, korzeń, ŚMIETANKA 15%, Papryka słodka (mielona), Oregano, Majeranek, Pieprz mielony, Mielona gałka muszkatołowa, Sól morska, Sól"
+      },
+      {
+        "dishName": "Quinoa po meksykańsku",
+        "ingredientsList": "Komosa ryżowa czarna, Woda, Passata pomidorowa (przecier), Cukinia zielona, Kukurydza konserwowa, Fasola czarna (konserwowa), Papryka drobna kostka, Cebula, Olej rzepakowy, Czosnek, Natka pietruszki, Sól, Pieprz mielony, Papryka słodka (mielona), Kmin rzymski (kumin), Oregano, Mielona papryka chili, Kurkuma"
+      },
+      {
+        "dishName": "Naleśnik pełnoziarnisty z kurczakiem, serkiem mascarpone i brokułem, sos szczypiorkowy na jogurcie",
+        "ingredientsList": "NALEŚNIKI HOLENDERSKIE PEŁNOZIARNISTE (WODA, MĄKA Z PEŁNEGO ZIARNA PSZENICY, JAJA, OLIWA Z OLIWEK, SÓL, SODA OCZYSZCZONA), Brokuł kalibrowany 10-20, JOGURT NATURALNY, Filet z piersi kurczaka, bez skóry, SER CHEDDAR, SEREK MASCARPONE, Szczypiorek, Cebula, Oliwa z oliwek, Czosnek, Pieprz mielony, Sól morska, ŚMIETANKA 15%, Sól"
+      },
+      {
+        "dishName": "Sałatka z kurczakiem, serem camembert i granatem",
+        "ingredientsList": "Pomidory koktajlowe, Filet z piersi kurczaka, bez skóry, Ogórek zielony (długi), SER CAMEMBERT, Cebula czerwona, Sałata lodowa, Oliwa z oliwek, ORZECHY WŁOSKIE, Granat, Szpinak baby, MUSZTARDA FRANCUSKA, Woda, Ocet biały winny, Ksylitol, Natka pietruszki, MUSZTARDA, Koper ogrodowy, Marynata premium do drobiu, Czosnek niedźwiedzi, Pieprz mielony, Papryka słodka, wędzona (mielona), Sól morska"
+      }
+    ]
+  }
+]

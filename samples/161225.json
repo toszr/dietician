@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Frittata z bazylią i cukinią, sosem jogurtowo - bazyliowym oraz pieczywem",
+        "ingredientsList": "JAJA KURZE, JOGURT NATURALNY, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), BIAŁKO JAJA KURZEGO, Cukinia zielona, MOZZARELLA BIERUŃSKA BLOK 1.5 KG (PODPUSZCZKA MIKROBIOLOGICZNA), Bazylia świeża, Pomidory cherry czerwone, Oliwki czarne, Rukola, Profesor Ziółko - groszek czepny, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Bazyliowy serek wiejski z bułeczką i plastrami rzodkwi",
+        "ingredientsList": "SEREK WIEJSKI (NATURALNY), MIX BUŁECZEK PODSTAWOWY ( MĄKA PSZENNA, MĄKA ŻYTNIA, MĄKA GRAHAM, SEZAM,  KASZA JĘCZMIENNA, SIEMIĘ LNIANE, DROŻDŻE, OLEJ RZEPAKOWY, SOJA, SÓL), Rzepa arbuzowa, DYNIA PESTKI, Bazylia świeża"
+      },
+      {
+        "dishName": "Placuszki jogurtowe z czekoladą, jogurtem i owocami: melonem i jabłkiem",
+        "ingredientsList": "JOGURT NATURALNY, MĄKA PSZENNA, SKROBIA PSZENNA, KSYLITOL, SERWATKA MLEKA KROWIEGO, MLEKO W PROSZKU, Melon cantaloupe, Melon, Jabłko, Olej rzepakowy, JAJA KURZE, Woda mineralna niegazowana, CZEKOLADA DESEROWA"
+      },
+      {
+        "dishName": "Żytnianka ze śliwkami, jogurtem naturalny oraz owocami: jabłkiem, ananasem i gruszką",
+        "ingredientsList": "MLEKO, Śliwki, JOGURT NATURALNY, PŁATKI ORKISZOWE (PEŁNOZIARNISTE), Gruszka, Jabłko, Ananas, Ksylitol, Len, MIGDAŁY (PŁATKI), Żurawina suszona, Nasiona chia, Żelatyna"
+      },
+      {
+        "dishName": "Gratin muffin z kalarepy z keto pieczywem i sałatką",
+        "ingredientsList": "Pomidory cherry czerwone, Kalafior, SER CHEDDAR, JAJA KURZE, Flora Professional Plant 31%, Kalarepa, Burak, SER GOUDA, MĄKA MIGDAŁOWA, ORZECHY WŁOSKIE, Boczek wieprzowy wędzony parzony plastry, Rukola, Sałata lodowa, Sałata rzymska, Oliwa z oliwek, SEZAM BIAŁY, PROSZEK DO PIECZENIA, Oregano, Cebula dymka, Sól morska, Pieprz mielony"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Linguine Verde- makaron z sosem szpinakowym z serem Gorgonzola oraz parmezanem",
+        "ingredientsList": "MAKARON LINGUINE SEMOLINA, Pomidory koktajlowe, ŚMIETANKA 15%, BULION WARZYWNY, SER GORGONZOLA, Szpinak, Cebula, Szpinak baby, SER PARMEZAN (MLEKO NIEPASTERYZOWANE, SÓL, PODPUSZCZKA, SUBSTANCJA KONSERWUJĄCA: LIZOZYM JAJECZNY), Czosnek, WINO BIAŁE PÓŁWYTRAWNE"
+      },
+      {
+        "dishName": "Muffinka z jabłkiem prażonym",
+        "ingredientsList": "MĄKA PSZENNA, SKROBIA PSZENNA, KSYLITOL, SERWATKA MLEKA KROWIEGO, MLEKO W PROSZKU, Jabłka prażone, Olej rzepakowy, JAJA KURZE, Woda mineralna niegazowana"
+      },
+      {
+        "dishName": "Pasta jajeczna z pieczywem, ogórkiem i rzodkiewką",
+        "ingredientsList": "JAJA KURZE, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Rzodkiewka, Ogórek zielony (długi), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Cebula, Sałata rzymska, Szczypiorek, Oliwa z oliwek, MUSZTARDA, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Kremowa zupa pieczarkowa",
+        "ingredientsList": "BULION WARZYWNY, Pieczarki, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Cebula, ŚMIETANKA 15%, DYNIA PESTKI, Olej rzepakowy, Natka pietruszki, Pieprz mielony, Tymianek, Sól"
+      },
+      {
+        "dishName": "Keto ciasto czekoladowe z porzeczkami",
+        "ingredientsList": "Porzeczki czerwone, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, JAJA KURZE, Mąka kokosowa, MASŁO, Erytrol, Kakao, PROSZEK DO PIECZENIA"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Filet z suma w sosie koperkowym z ziemniaczkami i surówką z białej kapusty z ogórkiem kiszonym",
+        "ingredientsList": "Ziemniaki obrane, FILET Z SUMA, Kapusta biała, ŚMIETANKA 30% BEZ LAKTOZY, BULION WARZYWNY, Papryka czerwona, OGÓRKI KISZONE, Por, Olej rzepakowy, Cebula, Oliwa z oliwek, Koper ogrodowy, Czosnek, Skrobia ziemniaczana, Erytrol, Sól, Pieprz mielony, Pietruszka, liście, Sok cytrynka, Sól morska"
+      },
+      {
+        "dishName": "Kuleczki wołowe w sosie pieczeniowym z kaszą perłową i buraczkami na ciepło",
+        "ingredientsList": "Burak gotowany, Woda, Mięso wołowe mielone (I trimming wołowy), KASZA JĘCZMIENNA, PERŁOWA, Włoszczyzna, ŚMIETANKA 15%, BULION WARZYWNY, JAJA KURZE, DEMI GLAZE, Pietruszka, korzeń, Ksylitol, MĄKA PSZENNA, TYP 500, Rozmaryn (świeży), Oliwa z oliwek, Sól, Sok z cytryny, Pieprz mielony"
+      },
+      {
+        "dishName": "Klopsiki wegetariańskie sojowe z sosem koperkowym, komosą i czerwoną kapustą z jabłkiem",
+        "ingredientsList": "Czerwona kapusta z jabłkiem, THE VEGETARIAN BUTCHER JAK KLOPSIKI (NO MEATBALLS) 2 KG, Komosa ryżowa biała, Woda, BULION WARZYWNY, ŚMIETANKA 15%, Słonecznik, Cebula, Koper ogrodowy, Czosnek, Oliwa z oliwek, Mąka z tapioki, Olej rzepakowy, Sól"
+      },
+      {
+        "dishName": "Filet z piersi indyka w pieczeniowym sosie z kaszą gryczaną i bukietem warzyw",
+        "ingredientsList": "Filet z piersi indyka, bez skóry, Woda, Kasza gryczana niepalona (biała), ŚMIETANKA 15%, Brokuł kalibrowany 10-20, Kalafior, BULION WARZYWNY, Brukselka, DEMI GLAZE, Sok z cytryny, Rozmaryn (świeży), Koper ogrodowy, Pieprz mielony, Oliwa z oliwek, Natka pietruszki, Sól morska, Sól"
+      },
+      {
+        "dishName": "Karkówka wołowa z sosem musztardowym, keto ziemniaczkami z kalarepy i kiszoną kapustą",
+        "ingredientsList": "Karkówka wołowa chłodzona, Kapusta kiszona, Kalarepa, ŚMIETANA, MUSZTARDA DIJON, SEREK MASCARPONE, Jabłko, Marchew, MASŁO, Olej rzepakowy, Cebula, Ksylitol, Czosnek, Pieprz mielony, Sól himalajska, Koper ogrodowy, Przyprawa do ziemniaków, Sambal, Sól morska, Czosnek granulowany, Majeranek, Kurkuma, Marynata premium do drobiu, Papryka słodka (mielona), Mielona papryka chili"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Muffiny czekoladowe z malinami",
+        "ingredientsList": "MĄKA PSZENNA, CZEKOLADA GORZKA, KSYLITOL, KAKAO, SERWATKA W PROSZKU, SKROBIA ZIEMNIACZANA, Olej rzepakowy, JAJA KURZE, Maliny (mrożone), Woda, Miód pszczeli, Żelatyna"
+      },
+      {
+        "dishName": "Sałatka z filetem z kurczaka, grillowanym ananasem i dressingiem limonkowym",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Pomidory koktajlowe, Ogórek zielony (długi), Melon, Ananas, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Komosa ryżowa biała, Woda, Oliwki czarne całe b/p*, Szpinak baby, Rukola, Sałata lodowa, Miód pszczeli, Sok z limonki, Sok z cytryny, Imbir mielony, OLEJ SEZAMOWY, Sok cytrynka, Sól morska, Kolendra (świeża)"
+      },
+      {
+        "dishName": "Ryżanka z jogurtem straciatella",
+        "ingredientsList": "MLEKO SPOŻYWCZE 2%, JOGURT NATURALNY, Ryż basmati Punjabi, Banan, Borówki amerykańskie, ORZECHY NERKOWCA, Ksylitol, CZEKOLADA DESEROWA, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Erytrol, Kardamon zielony cały"
+      },
+      {
+        "dishName": "Pieczeń z soczewicy i filetem z kurczaka, sosem porzeczkowym, ogórkiem konserwowym i pieczywem",
+        "ingredientsList": "OGÓRKI KISZONE, Woda, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), Polędwiczki z kurczaka, Soczewica czerwona, nasiona suche, Papryka czerwona, Porzeczki czarne, Porzeczki czerwone, Cebula, JAJA KURZE, Pietruszka korzeń, Marchew, Sok cytrynka, Czosnek, Erytrol, Pieprz mielony, Sól morska, Kolendra mielona"
+      },
+      {
+        "dishName": "Kokosowy pudding z chia i musem jagodowym",
+        "ingredientsList": "Mleczko kokosowe RealThai, Jagody czarne (mrożone), Nasiona chia, Erytrol"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Pasztet drobiowo - wołowy z sosem jeżynowym, pieczywem i słupkami ogórka kiszonego",
+        "ingredientsList": "CHLEB DRWALSKI (MĄKA PSZENNA, ŻYTNIA, WODA, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, SÓL, DROŻDŻE, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Ogórek kiszony, Mięso wołowe zrazowa górna, Polędwiczki z kurczaka, Wątróbka (z kurczaka), Jeżyny, BIAŁKO JAJA KURZEGO, ŚMIETANKA 15%, Cebula, Marchew, DYNIA PESTKI, Pietruszka, korzeń, Jabłko, Śliwki suszone, Rozmaryn (świeży), Czosnek, Jałowiec, Majeranek, Ziele angielskie, Liść laurowy, Ksylitol"
+      },
+      {
+        "dishName": "Warzywna lasagne z dynią i sałatka z winogronami i cukinią",
+        "ingredientsList": "MLEKO SPOŻYWCZE 2%, Pomidory pelati, Dynia hokaido, MAKARON LASAGNE, Polędwiczki z kurczaka, Cukinia zielona, Pomidory koktajlowe, Winogrona ciemne, MĄKA PSZENNA, TYP 500, SER MOZZARELLA WIÓRKI, Oliwki czarne całe b/p*, DYNIA PESTKI, Sałata lodowa, Szpinak baby, Sól morska, Bazylia świeża, Ksylitol, Rozmaryn (świeży), Oliwa z oliwek, Pieprz mielony, Mielona gałka muszkatołowa, Sól"
+      },
+      {
+        "dishName": "Pełnoziarnisty makaron spaghetti z krewetkami w sosie pomidorowym",
+        "ingredientsList": "KREWETKI, Woda, Pomidory pelati, MAKARON SPAGHETTI PEŁNOZIARNISTY, Cukinia zielona, Cebula, Oliwki czarne, Kapary, Kapary z ogonkiem, PARMEZAN, Czosnek, Oliwa z oliwek, Sól, Pieprz mielony, Sambal, Sok z limonki"
+      },
+      {
+        "dishName": "Mix past: Pasta z czarnych oliwek oraz słonecznikowa pasta z suszonymi pomidorami z keto chlebkiem z masła orzechowego",
+        "ingredientsList": "Oliwki czarne całe b/p*, Słonecznik, SELER NACIOWY, Marchew, JAJA KURZE, SER GOUDA, MĄKA MIGDAŁOWA, Suszone pomidory, Woda, Oliwa z oliwek, Sałata rzymska, Sok z cytryny, SEZAM BIAŁY, Czosnek, Tymianek, Pieprz mielony, PROSZEK DO PIECZENIA, Oregano, Sól"
+      },
+      {
+        "dishName": "Zupa krem z batatów z makaronem grandine i mini mozzarellą",
+        "ingredientsList": "BULION WARZYWNY, Bataty, Woda, MAKARON GRANDINE, SER MOZZARELLA MINI, Mleczko kokosowe, Cebula, Oliwa z oliwek, Czosnek, Rozmaryn (świeży), Imbir, Papryka słodka (mielona), Kurkuma, Kmin rzymski (kumin)"
+      }
+    ]
+  }
+]
