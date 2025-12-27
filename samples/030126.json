@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Placki warzywne z wędzonym łososiem i mozzarellą, sos jogurtowo-chrzanowy",
+        "ingredientsList": "JOGURT NATURALNY, Cukinia zielona, Marchew, JAJA KURZE, MOZZARELLA BIERUŃSKA BLOK 1.5 KG (PODPUSZCZKA MIKROBIOLOGICZNA), MĄKA PSZENNA TYP 750, Rzodkiewka, ŁOSOŚ NORWESKI, WĘDZONY, Chrzan ostry, DYNIA PESTKI, MAJONEZ Z OLEJEM RZEPAKOWYM, Sok z cytryny, Sałata rzymska, Olej rzepakowy, Czosnek, Szczypiorek, Koper ogrodowy, Sól, Pieprz mielony, Papryka słodka (mielona)"
+      },
+      {
+        "dishName": "Pancakes z musem truskawkowym, gruszką i melonem",
+        "ingredientsList": "NALEŚNIKI AMERYKAŃSKIE (MĄKA PSZENNA, WODA, CUKIER, JAJKO, MLEKO, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY, GUMA KSANTANOWA), Truskawki, Melon, Gruszka, Ksylitol, ORZECHY LASKOWE, CZEKOLADA DESEROWA, Olej rzepakowy, Mięta liście"
+      },
+      {
+        "dishName": "Musli z orzechami i czekoladą, jogurtem naturalnym i owocami: jabłko i gruszka",
+        "ingredientsList": "JOGURT NATURALNY, Kiwi, PŁATKI OWSIANE, Gruszka, Jabłko, ORZECHY WŁOSKIE, CZEKOLADA DESEROWA, ORZECHY ARACHIDOWE, MIGDAŁY (PŁATKI), ORZECHY NERKOWCA, Nasiona chia"
+      },
+      {
+        "dishName": "Owsianka cytrynowo-migdałowa z jogurtem naturalnym i musem z owoców jagodowych z miętą",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO SPOŻYWCZE 2%, Owoce mix: truskawka, porzeczka, owoce leśne, PŁATKI OWSIANE, MIGDAŁY, Ksylitol, OTRĘBY OWSIANE, MIGDAŁY (PŁATKI), Skórka z cytryny (starta), Mięta liście"
+      },
+      {
+        "dishName": "Tarta jajeczna z szynką, karmelizowaną czerwoną cebulą, sosem koperkowym",
+        "ingredientsList": "JOGURT NATURALNY, JAJA KURZE, Biała rzepa, Rzepa arbuzowa, Papryka zielona, Pomidor śliwkowy (daktylowy), Cebula czerwona, Szynka Farmerska, wędzona Duda, MASŁO, Oliwa z oliwek, MĄKA MIGDAŁOWA, Babka płesznik (jajowata), Słonecznik, Szczypiorek, Koper ogrodowy, Oliwa z oliwek, Sok z cytryny, Olej rzepakowy, Pieprz mielony, Profesor ziółko - rukola, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Jaglany shake owocowy z czerwoną porzeczką i truskawką",
+        "ingredientsList": "MLEKO, Porzeczki czerwone, Woda, Truskawki, Daktyle suszone, Kasza jaglana"
+      },
+      {
+        "dishName": "Ciasteczko z nasion dyni z jogurtem stracciatella",
+        "ingredientsList": "JOGURT NATURALNY, DYNIA PESTKI, Woda, Daktyle suszone, Aquafaba, Siemię lniane (mielone), Nasiona chia, CZEKOLADA DESEROWA, Erytrol, Mięta liście"
+      },
+      {
+        "dishName": "Żytnie panini z mozarellą i pesto",
+        "ingredientsList": "MĄKA ŻYTNIA (TYP 720), Woda, Filet z piersi kurczaka, bez skóry, Pomidor śliwkowy (daktylowy), Suszone pomidory, SER MOZZARELLA (125G KULKA), Rukola, Oliwa z oliwek, Drożdże suszone, Bazylia świeża, Sok z cytryny, ORZECHY NERKOWCA, SER PARMEZAN (MLEKO NIEPASTERYZOWANE, SÓL, PODPUSZCZKA, SUBSTANCJA KONSERWUJĄCA: LIZOZYM JAJECZNY), Czosnek, Ksylitol, Rozmaryn (świeży), Sól, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Keto ciasto ze śliwkami",
+        "ingredientsList": "Śliwki, JAJA KURZE, MĄKA MIGDAŁOWA, MASŁO, ORZECHY ARACHIDOWE, Mąka kokosowa, Erytrol, PROSZEK DO PIECZENIA, Cynamon, Sól morska"
+      },
+      {
+        "dishName": "Sałatka Caprese z sosem bazyliowym",
+        "ingredientsList": "Pomidor, SER MOZZARELLA (125G KULKA), Cukinia zielona, Cukinia żółta, Sałata lodowa, Oliwa z oliwek, Sałata rzymska, Szpinak, Rukola, Bazylia świeża, Natka pietruszki, Miód pszczeli, Sok z cytryny, Sól morska, Skórka z cytryny (starta), Pieprz mielony, Profesor ziółko- bazylia świeża"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Filet z indyka z chutney z pieczonego rabarbaru i czerwonej cebuli, z kaszą orkiszową i pieczoną marchewką z harissą",
+        "ingredientsList": "Filet z piersi indyka, bez skóry, Marchew, Woda, KASZA ORKISZOWA, Cebula czerwona, Rabarbar, Woda, Oliwa z oliwek, Oliwa z oliwek, Miód pszczeli, MUSZTARDA FRANCUSKA, Harissa, Ocet jabłkowy z dojrzałych jabłek, Sól, Pieprz mielony, Sok z cytryny, Tymianek gałązka do ozdoby, Tymianek"
+      },
+      {
+        "dishName": "Kuleczki z szynki w sosie z suszonymi pomidorami, kaszą perłową i pieczonymi warzywami korzeniowymi",
+        "ingredientsList": "Szynka wieprzowa (surowa), Woda, ŚMIETANKA 15%, KASZA JĘCZMIENNA, PERŁOWA, BULION WARZYWNY, Włoszczyzna, Pietruszka, korzeń, SELER KORZENIOWY, Marchew żółta, Marchew, Suszone pomidory, Oliwa z oliwek, Natka pietruszki, Sól, WINO BIAŁE, WYTRAWNE, Bazylia świeża, Pieprz mielony, Oregano"
+      },
+      {
+        "dishName": "Spaghetti puttanesca z zieloną soczewicą i kaparami",
+        "ingredientsList": "Woda, Szalotka, MAKARON SPAGHETTI PEŁNOZIARNISTY, Pomidory pelati, Soczewica zielona nasiona suche, Słonecznik, Oliwki czarne całe b/p*, Kapary z ogonkiem, Oliwa z oliwek, Papryczka ostra (chili), Kapary, Czosnek, Rozmaryn, Profesor ziółko- bazylia świeża"
+      },
+      {
+        "dishName": "Filet z halibuta z kaszą gryczaną ze strączkami i surówką z kiszonej kapusty",
+        "ingredientsList": "FILET Z HALIBUTA, Woda, Kapusta kiszona, Kasza gryczana niepalona (biała), Pomidory pelati, BULION WARZYWNY, Jabłko, Ciecierzyca nasiona suche, Soczewica zielona nasiona suche, Czosnek, Oliwa z oliwek, ORZECHY WŁOSKIE, Cebula, SELER KORZENIOWY, Koper ogrodowy, Natka pietruszki, Ksylitol, Sok z cytryny, Tymianek gałązka do ozdoby"
+      },
+      {
+        "dishName": "Filet z piersi kurczaka w truflach z talarkami z kalarepy i grillowanymi warzywami",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Kalarepa, Papryka zielona, ŚMIETANKA 30% BEZ LAKTOZY, Cukinia zielona, ORZECHY ZIEMNE GRYS, Bakłażan, Pasta truflowa, Papryka czerwona, WINO BIAŁE, WYTRAWNE, Cebula, Oliwa z oliwek, Czosnek, Natka pietruszki, Olej rzepakowy, Koper ogrodowy, Przyprawa do ziemniaków, Sól morska, Pieprz mielony, Czosnek granulowany, Cząber, Mielona papryka chili, Kurkuma, Majeranek"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Wędzone kluski twarogowe z chrupiącą posypką a'la dukkah",
+        "ingredientsList": "JOGURT NATURALNY, TWARÓG WĘDZONY SOLANKOWY 275 G, Cukinia zielona, MĄKA ORKISZOWA CIEMNA, JAJA KURZE, ORZECHY ZIEMNE GRYS, MĄKA PSZENNA, TYP 500, Rukola, Oliwa z oliwek, SEZAM BIAŁY, Siemię lniane, Koper ogrodowy, Kminek polski susz, Koper włoski ziarno, Pieprz mielony, Sól, Mielona gałka muszkatołowa"
+      },
+      {
+        "dishName": "Owsianka z owocami leśnymi",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO, Owoce mix: truskawka, porzeczka, owoce leśne, PŁATKI OWSIANE, ODŻYWKA BIAŁKOWA (WPC), Ksylitol, Len, Żurawina suszona, Nasiona chia, Żelatyna, KREM ANGIELSKI"
+      },
+      {
+        "dishName": "Muffinki jajeczne z suszonymi pomidorami oraz sałatką z ogórkami i oliwkami",
+        "ingredientsList": "SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Ogórek zielony (długi), Suszone pomidory (w oleju z ziołami, odsączone), JAJA KURZE, JAJA KURZE, Pomidory koktajlowe, śliwkowe, Brokuł kalibrowany 10-20, Rukola, Sałata rzymska, BIAŁKO JAJA KURZEGO, ŚMIETANKA 15%, Oliwki czarne, Szczypiorek, Oregano, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Krem brokułowo-serowy z pestkami dyni i grzankami",
+        "ingredientsList": "BULION WARZYWNY, Brokuł (mrożony), CHLEB WIELOZIARNISTY (MĄKA (PSZENNA, ŻYTNIA, WODA, PŁATKI OWSIANE, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, DROŻDŻE, SEZAM, SÓL, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), DYNIA PESTKI, Pietruszka, korzeń, SER TOPIONY, Cebula, SELER KORZENIOWY, Marchew, Czosnek, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), SER LAZUR SREBRZYSTY, Oliwa z oliwek, Sól, Pieprz mielony, Rozmaryn (świeży), Tymianek, Oregano"
+      },
+      {
+        "dishName": "Mus czekoladowo - twarogowy z sosem truskawkowym",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, TWARÓG RACIBORSKI, Truskawki, Ksylitol, Płatki kokosowe bez cukru, CZEKOLADA DESEROWA, Erytrol, Kakao"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Sałatka z filetem z kurczaka po tajsku i dressingiem orzechowym",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Marchew, EDAMAME FASOLA SOI ŁUSKANA, Groszek cukrowy strączkowy Snap Peas Bond, Kapusta Pak Choi, MASŁO ORZECHOWE, Olej rzepakowy, Limonka, Papryczka ostra (chili), SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Sok z limonki, Miód pszczeli, Ocet ryżowy, OLEJ SEZAMOWY, Cebula dymka, SOS RYBNY, Czosnek, Kolendra (świeża), Imbir świeży, SOS TERIYAKI, Fasola mung, kiełki, Kiełki soczewicy stir fry"
+      },
+      {
+        "dishName": "Krem z marchewki",
+        "ingredientsList": "BULION WARZYWNY, Marchew, BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), ŚMIETANA, Ziemniaki obrane, Oliwa z oliwek, Sok z cytryny, Rozmaryn (świeży), Ziele angielskie, Liść laurowy, Profesor Ziółko - kiełki słonecznika, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Hiszpańska zupa z selerem naciowym, cieciorką i czarną komosą ryżową",
+        "ingredientsList": "BULION WARZYWNY, Woda, Pomidory pelati kostka, Komosa ryżowa czarna, Papryka czerwona, Ciecierzyca nasiona suche, SELER NACIOWY, Cebula czerwona, Oliwa z oliwek, Sok z cytryny, Natka pietruszki, Sól, Pieprz mielony, Papryka słodka (mielona), Mielona papryka chili, Pasta szafranowa"
+      },
+      {
+        "dishName": "Tortilla z ajwarem i kurczakiem",
+        "ingredientsList": "TORTILLA PEŁNOZIARNISTA (MĄKA PSZENNA PEŁNOZIARNISTA, WODA, OLEJ RZEPAKOWY, STABILIZATORY: GLICEROL, GUMA GUAR, GLUTEN PSZENNY, SÓL, GLUKOZA, EMULGATOR: MONO- I DIGLICERYDY KW. TŁUSZCZOWYCH, WĘGLANY SODU), Filet z piersi kurczaka, bez skóry, Ajwar łagodny, Cebula czerwona, Papryka czerwona, Papryka zielona, Papryka żółta, Szpinak baby, Zielone papryczki ostre (jalapeno), Oliwa z oliwek, Sok z limonki, Papryka słodka (mielona), Kmin rzymski (kumin), Przyprawa fajita, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Kalafiorowo - jajeczne placuszki z sosem szczypiorkowym i słupkami warzyw",
+        "ingredientsList": "JAJA KURZE, Kalafior brunoise, JOGURT NATURALNY, MAJONEZ Z OLEJEM RZEPAKOWYM, SELER NACIOWY, Kalarepa, SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Szpinak baby, SEZAM CZARNY, Szczypiorek, MASŁO KLAROWANE, Pieprz mielony, Sól, Sól morska"
+      }
+    ]
+  }
+]

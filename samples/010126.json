@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Twarożek ze szczypiorkiem i bazylią, pieczywo graham",
+        "ingredientsList": "TWARÓG RACIBORSKI, CHLEB GRAHAM KROPEK (MĄKA PSZENNA, PSZENNA GRAHAM), WODA, DROŻDŻE, CUKIER, SÓL, KWAS ASKORBINOWY), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Ogórek zielony (długi), JOGURT NATURALNY, Słonecznik, Rzodkiewka, Sałata rzymska, Bazylia świeża, Szczypiorek, Cebula dymka, Koper ogrodowy, Pieprz mielony, Sól, Sok cytrynka"
+      },
+      {
+        "dishName": "Naleśnik z twarożkiem bananowym i sosem waniliowym",
+        "ingredientsList": "NALEŚNIKI HOLENDERSKIE (WODA, MĄKA PSZENNA, MLEKO, OLEJ SŁONECZNIKOWY, JAJA KURZE, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY), TWARÓG RACIBORSKI, JOGURT NATURALNY, Banan, JOGURT NATURALNY, KREM ANGIELSKI , Ksylitol, Sok z cytryny, CZEKOLADA DESEROWA, Mięta liście, Olej rzepakowy, Kurkuma"
+      },
+      {
+        "dishName": "Pasta koperkowa z tofu ze słupkami kolorowej papryki i ogórka oraz bułeczką (Bułeczkę delikatnie podgrzać)",
+        "ingredientsList": "MIX BUŁEK (HOTELOWY, WYKWINTNY) (MĄKA (PSZENNA, ŻYTNIA), PŁATKI OWSIANE, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, DROŻDŻE, SEZAM, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), TOFU NATURALNE, TOFU SIKEN, JOGURT NATURALNY, Ogórek zielony (długi), Słonecznik, ORZECHY ZIEMNE GRYS, Papryka czerwona, Papryka zielona, Papryka żółta, Koper ogrodowy, Szczypiorek, Bazylia świeża, Sól morska, Pieprz mielony, Kiełki groszku czepnego"
+      },
+      {
+        "dishName": "Frittata z chorizo, słupki warzyw: marchew i seler",
+        "ingredientsList": "JAJA KURZE, Papryka mix paski (Papryka zielona, papryka czerwona, papryka żółta), SELER NACIOWY, Marchew, Chorizo, ŚMIETANKA 15%, Cebula czerwona, Słonecznik, SER PARMEZAN (MLEKO NIEPASTERYZOWANE, SÓL, PODPUSZCZKA, SUBSTANCJA KONSERWUJĄCA: LIZOZYM JAJECZNY), Oliwki czarne, Oregano, Pieprz mielony, Sól morska"
+      },
+      {
+        "dishName": "Orzechowo-czekoladowa siemianka z jogurtem i wiśniami w sosie",
+        "ingredientsList": "MLEKO BEZLAKTOZOWE 1,5%UHT, JOGURT NATURALNY, Wiśnie, Siemię lniane (mielone), MIGDAŁY (PŁATKI), Erytrol, KREM ANGIELSKI , MASŁO ORZECHOWE, CZEKOLADA DESEROWA, Maliny, Ksylitol"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Mini pizzerka z krewetką i karczochem",
+        "ingredientsList": "Pomidory pelati, MĄKA PSZENNA TYP \"00\" NA PIZZĘ, ŚMIETANKA 15%, KREWETKI TYGRYSIE 16/20 OBRANA B/O, Pomidory cherry czerwone, Woda, Karczochy, Oliwki królewskie czarne, Szpinak baby, MĄKA ORKISZOWA JASNA, Pasta truflowa, Oliwa z oliwek, Drożdże suszone, Ksylitol, Sól morska, Pieprz mielony, Natka pietruszki, Sól, Oregano"
+      },
+      {
+        "dishName": "Krem z białych warzyw z grzanką i pestkami dyni",
+        "ingredientsList": "BULION WARZYWNY, BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), Kalafior, Pietruszka, korzeń, Ziemniaki obrane, SELER KORZENIOWY, ŚMIETANKA 15%, DYNIA PESTKI, Oliwa czosnkowa nasza, Sól morska, Pieprz mielony, Mielona gałka muszkatołowa"
+      },
+      {
+        "dishName": "Sernik na zimno na kakaowym biszkopcie z owocami leśnymi",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Banan, Owoce mix: truskawka, porzeczka, owoce leśne, BIAŁKO JAJA KURZEGO, MĄKA ORKISZOWA JASNA, ODŻYWKA BIAŁKOWA (WPC), ŻÓŁTKO JAJA, Ksylitol, Agar, Kakao, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%))"
+      },
+      {
+        "dishName": "Wytrawny muffin z suszonym pomidorem, papryką i oliwkami",
+        "ingredientsList": "MLEKO BEZLAKTOZOWE 1,5%UHT, MĄKA MIGDAŁOWA, SER CHEDDAR, Suszone pomidory (w oleju z ziołami, odsączone), Papryka czerwona, Papryka żółta, JAJA KURZE, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Oliwki zielone krojone*, Oliwa z oliwek, Cebula dymka, Czosnek, Sól, Pieprz mielony, PROSZEK DO PIECZENIA"
+      },
+      {
+        "dishName": "Koktajl porzeczkowy z jagodami i otrębami",
+        "ingredientsList": "MLEKO, Porzeczki czarne, Woda mineralna niegazowana, Jagody czarne (mrożone), Mleczko kokosowe RealThai, Siemię lniane (mielone), OTRĘBY ŻYTNIE, Erytrol"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Polędwiczka wieprzowa w sezamie z makaronem udon",
+        "ingredientsList": "MAKARON UDON, Polędwica wieprzowa (surowa), SOS TERIYAKI, Cukinia zielona, Papryka zielona, SEZAM CZARNY, Papryka czerwona długa, Cebula czerwona, Kapusta pekińska, Woda mineralna niegazowana, JAJA KURZE, SEZAM BIAŁY, MĄKA PSZENNA, TYP 500, SOS SOJOWY GRZYBOWY, Cebula dymka, Imbir świeży, Czosnek, Sambal, Kolendra (świeża), SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA)"
+      },
+      {
+        "dishName": "Kuleczki z karmazyna z sosem koperkowym, pieczonymi ziemniaczkami i surówką z marchewki i selera",
+        "ingredientsList": "KARMAZYN, FILET BEZ SKÓRY, Ziemniaki obrane, ŚMIETANKA 15%, BULION WARZYWNY, Marchew, Jabłko, SELER KORZENIOWY, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, BIAŁKO JAJA KURZEGO, Cytryna, Koper ogrodowy, Skrobia ziemniaczana, Natka pietruszki, Sok z cytryny, Pieprz mielony, Sól, Tymianek, Oliwa z oliwek"
+      },
+      {
+        "dishName": "Kotleciki z soczewicy z sosem pomidorowo - koperkowym, kaszą gryczaną i fasolką szparagową",
+        "ingredientsList": "Soczewica zielona nasiona suche, Fasolka szparagowa żóła, Woda, Kasza gryczana niepalona (biała), BULION WARZYWNY, Fasolka szparagowa zielona cięta 2,5kg, Cebula czerwona, BUŁKA TARTA, PANKO, ŚMIETANKA 15%, JAJA KURZE, Pomidory pelati, Passata pomidorowa (przecier), Marchew, Rama Combi Profi, Cebula, Czosnek, Oliwa z oliwek, MASŁO, Koper ogrodowy, Oliwa z oliwek, Oregano, Natka pietruszki, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Karkówka wieprzowa z sosem grzybowym, puree z kalafiora i buraczkami",
+        "ingredientsList": "Karkówka wieprzowa, Buraczki wiórka, Kalafior, Podgrzybek (mrożony), ŚMIETANKA 15%, ŚMIETANKA VEGETOP 33%, Cebula, Pieczarki, Czosnek, Natka pietruszki, Olej rzepakowy, Pieprz mielony, Sól, Ksylitol, Ocet, Czosnek granulowany, Papryka słodka (mielona), Majeranek, Marynata Premium do wołowiny"
+      },
+      {
+        "dishName": "Kurczak po tajsku z czarnym ryżem",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Ryż czarny, Woda, Mleczko kokosowe RealThai, ŚMIETANKA 15%, Papryka czerwona, Marchew, Cebula czerwona, Wok Thai (Marchew, Kukurydza, Por, Cebula, Grzyby mun, Fasolka szparagowa), Cebula, Groszek cukrowy strączkowy Snap Peas Bond, ORZECHY ZIEMNE GRYS, Kiełki fasoli mung, Czosnek, Pasta curry żółta, Imbir świeży, Cebula dymka, Oliwa z oliwek, Sok z limonki, Kolendra (świeża), Imbir mielony, Pieprz mielony, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Brownie (Uwaga! Daktyle mogą zawierać pestkę.)",
+        "ingredientsList": "BIAŁKO JAJA (KURZEGO), CZEKOLADA DESEROWA, Daktyle suszone, MĄKA ORKISZOWA JASNA, MLEKO, Olej kokosowy (rafinowany), Olej rzepakowy, PROSZEK DO PIECZENIA"
+      },
+      {
+        "dishName": "Smoothie z mango",
+        "ingredientsList": "MLEKO, Puree mango, Ksylitol"
+      },
+      {
+        "dishName": "Ravioli z ricottą, szpinakiem i sosem śmietanowo - pietruszkowym",
+        "ingredientsList": "RAVIOLI ZE SZPINAKIEM I RICOTTĄ (MĄKA PSZENNA, JAJKA, SZPINAK, SER GRANA PADANO, SER RICOTTA), ŚMIETANKA 15%, Słonecznik, Cebula, Oliwa z oliwek, Natka pietruszki, SER PARMEZAN (MLEKO NIEPASTERYZOWANE, SÓL, PODPUSZCZKA, SUBSTANCJA KONSERWUJĄCA: LIZOZYM JAJECZNY), Czosnek, WINO BIAŁE PÓŁWYTRAWNE, Oliwa z oliwek"
+      },
+      {
+        "dishName": "Hummus limonkowy z pieczywem słonecznikowym i pomidorkami koktajlowymi",
+        "ingredientsList": "Pomidory koktajlowe, Woda, CHLEB SŁONECZNIKOWY (MĄKA: ŻYTNIA TYP 2000, MĄKA PSZENNA TYP 1850, WODA, SŁONECZNIK, SÓL, DROŻDŻE), NAPÓJ SOJOWY BEZ CUKRU, Ciecierzyca nasiona suche, Tahini, Szpinak, OLEJ SEZAMOWY, Sok z cytryny, Sok z limonki, Kolendra (świeża), Roszponka, Sól morska"
+      },
+      {
+        "dishName": "Ciasteczka z fasoli z masłem orzechowym i polewą czekoladową",
+        "ingredientsList": "BIAŁKO JAJA KURZEGO, MĄKA MIGDAŁOWA, Woda, Fasola biała nasiona suche, Olej kokosowy (rafinowany), MASŁO ORZECHOWE, Kakao, CZEKOLADA GORZKA 72%, CZEKOLADA DESEROWA, PROSZEK DO PIECZENIA, Olej rzepakowy"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Pierogi orkiszowe z burakiem i serem kozim, sos rozmarynowy",
+        "ingredientsList": "Burak gotowany, MĄKA PSZENNA, TYP 500, ŚMIETANKA 15%, Woda, SER KOZI ROLADA TWAROGOWA, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), JAJA KURZE, Cebula, Szpinak baby, MĄKA KRUPCZATKA, BULION WARZYWNY, MASŁO, Czosnek, Tymianek, DEMI GLAZE, Olej rzepakowy, Rozmaryn (świeży), Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Pasztet z kaczką, podawany z ogórkiem i pieczywem",
+        "ingredientsList": "Ogórek zielony (długi), BAGIETKA KORZENNA (MĄKA PSZENNA, WODA, GLUTEN PSZENNY, SŁÓD JĘCZMIENNY, SÓL, DROŻDŻE, KWAS ASKORBINOWY), Polędwiczki z kurczaka, Wątróbka (z kurczaka), BIAŁKO JAJA KURZEGO, Filet z piersi kaczki, DYNIA PESTKI, Żurawina mrożona, Żurawina z żelu Fanex, ŚMIETANKA 15%, Marchew, Wątróbka z gęsi, WINO CZERWONE (PÓŁWYTRAWNE), Oliwa z oliwek, Pietruszka, korzeń, Majeranek, Tymianek gałązka do ozdoby, Rozmaryn"
+      },
+      {
+        "dishName": "Sałatka z jarmużem, batatami, fasolą i sosem balsamicznym",
+        "ingredientsList": "Pomidory koktajlowe, śliwkowe, Bataty, Oliwki zielone całe, Woda, Fasola czarna nasiona suche, Oliwa z oliwek, Jarmuż, Ocet balsamiczny, Miód pszczeli, Granat, Szpinak baby, Sałata lodowa, Oliwa z oliwek"
+      },
+      {
+        "dishName": "Makaron penne z sosem śmietanowym z dodatkiem prosciutto cotto i szparagów",
+        "ingredientsList": "Woda, MAKARON PENNE (PEŁNOZIARNISTY), ŚMIETANKA 15%, Prosciutto Cotto, Szparagi zielone (mrożone), BULION WARZYWNY, Papryka żółta, Czosnek, Fasolka szparagowa zielona, SER PARMEGRANA DOJRZEWAJĄCY 18 MIESIĘCY, Rukola, Szpinak baby, Oliwa z oliwek, MASŁO, WINO BIAŁE, WYTRAWNE, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Pasta z makreli i jajka z keto chlebkiem własnej produkcji i słupkami warzyw: selerem naciowym i papryką",
+        "ingredientsList": "Papryka czerwona, SELER NACIOWY, JAJA KURZE, MIĘSO Z MAKRELI WĘDZONEJ, JAJA KURZE, OGÓRKI KISZONE, Słonecznik, SEREK MASCARPONE, MASŁO ORZECHOWE, MAJONEZ Z OLEJEM RZEPAKOWYM, Cebula, Sałata rzymska, MUSZTARDA, Czosnek, PROSZEK DO PIECZENIA, Pieprz mielony, Sól"
+      }
+    ]
+  }
+]
