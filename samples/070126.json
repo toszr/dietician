@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Naleśniki z twarożkiem bananowym i musem malinowym",
+        "ingredientsList": "NALEŚNIKI HOLENDERSKIE PEŁNOZIARNISTE (WODA, MĄKA Z PEŁNEGO ZIARNA PSZENICY, JAJA, OLIWA Z OLIWEK, SÓL, SODA OCZYSZCZONA), Banan, TWARÓG RACIBORSKI, Maliny (mrożone), CZEKOLADA DESEROWA, Miód pszczeli, Ksylitol, Woda mineralna niegazowana, Olej rzepakowy, Mięta liście"
+      },
+      {
+        "dishName": "Kasza manna waniliowa z jogurtem wiśniowym",
+        "ingredientsList": "MLEKO, JOGURT NATURALNY, Wiśnie, KASZA MANNA, POSYPKA DUO WIÓRKI, KREM ANGIELSKI , Ksylitol, Cukier wanilinowy, Mięta liście"
+      },
+      {
+        "dishName": "Pomidorowe placuszki z sosem jogurtowym z kaparami",
+        "ingredientsList": "Pomidory pelati kostka, JOGURT GRECKI, Rzodkiewka, MĄKA ORKISZOWA JASNA, Cebula, JAJA KURZE, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Kapary, Słonecznik, Koper ogrodowy, Natka pietruszki, Oregano, Czosnek, Sól, Pieprz mielony, Ocet jabłkowy z dojrzałych jabłek, Profesor ziółko- kiełki rzodkiewki"
+      },
+      {
+        "dishName": "Owsianka kokosowa z mango, jogurt naturalny i owoce: jabłko, melon, granat",
+        "ingredientsList": "JOGURT NATURALNY, Mango, MLEKO, PŁATKI OWSIANE, Jabłko, Mleczko kokosowe RealThai, Melon, Ksylitol, MIGDAŁY (PŁATKI), Granat, Marakuja puree, Siemię lniane, Jagody goji (suszone), OTRĘBY OWSIANE, Żelatyna, Sok z cytryny"
+      },
+      {
+        "dishName": "Zapiekanka na keto chlebku z pieczarkami i żółtym serem, sos koperkowy",
+        "ingredientsList": "JAJA KURZE, Pieczarki, SER GOUDA, MAJONEZ Z OLEJEM RZEPAKOWYM, Cebula, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Olej kokosowy (rafinowany), Mąka kokosowa, Babka płesznik (jajowata), Szpinak baby, Koper ogrodowy, PROSZEK DO PIECZENIA, Pieprz mielony, Sól morska, Sól himalajska, Oregano, Bazylia suszona, Olej rzepakowy, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Rozmarynowy krem z marchewki z grzankami z pesto pietruszkowym",
+        "ingredientsList": "BULION WARZYWNY, Marchew, CHLEB ŻYTNI NA ZAKWASIE HB (MĄKA: ŻYTNIA TYP 1400, ŻYTNIA RAZOWA 2000, PSZENNA PEŁNOZIARNISTA TYP 2000, WODA, SÓL, SŁÓD JĘCZMIENNY, ZAKWAS), Jabłko t, Natka pietruszki, Cebula, Czosnek, Pietruszka, korzeń, Oliwa z oliwek, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), WINO BIAŁE PÓŁWYTRAWNE, Sok z cytryny, PARMEZAN, Rozmaryn (świeży), ORZECHY NERKOWCA, Olej rzepakowy"
+      },
+      {
+        "dishName": "Cynamonki z jogurtem naturalnym",
+        "ingredientsList": "JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, MĄKA PSZENNA TYP 750, MLEKO, Borówki amerykańskie, MASŁO, Porzeczki czerwone, JAJA KURZE, ŻÓŁTKO JAJA, Drożdże (piekarskie świeże), Skórka z cytryny (starta), Cukier wanilinowy, Ksylitol, Cynamon"
+      },
+      {
+        "dishName": "Pasta pieczarkowa z serkiem Philadelphia i ziołami z pieczywem",
+        "ingredientsList": "BAGIETKA KORZENNA MAŁA (MĄKA PSZENNA, WODA, GLUTEN PSZENNY, SŁÓD JĘCZMIENNY, SÓL, DROŻDŻE, KWAS ASKORBINOWY), SEREK PHILADELPHIA ŚMIETANKOWY, Pieczarki, Cebula, DYNIA PESTKI, Szczypiorek, Natka pietruszki, Sałata rzymska, Koper ogrodowy, Oliwa z oliwek, Pieprz mielony, Sól morska"
+      },
+      {
+        "dishName": "Malezyjska laksa z kurczakiem i makaronem sojowym",
+        "ingredientsList": "BULION WARZYWNY, Filet z piersi kurczaka, bez skóry, Mleczko kokosowe RealThai, Papryka czerwona, Woda, Pomidory pelati, Włoszczyzna, Pomidory pelati kostka, Pieczarki, Por, MAKARON SOJOWY VERMICELLI, Ksylitol, SOS RYBNY, Kolendra (świeża), Czosnek, Galangal, Imbir świeży, Sok z limonki, Trawa cytrynowa surowa cała, Oliwa z oliwek, Pasta curry czerwona, Czosnek granulowany, Liść limonki, Pieprz mielony, Imbir mielony, Sól"
+      },
+      {
+        "dishName": "Jogurt grecki straciatella z malinami w sosie",
+        "ingredientsList": "JOGURT GRECKI, Maliny, CZEKOLADA DESEROWA, Ksylitol, Mąka z tapioki"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Makaron bucatini z krewetkami sosem śmietanowo - cukiniowym i świeżym papardelle z cukinii i marchewki",
+        "ingredientsList": "KREWETKI, Woda, Cukinia zielona, MAKARON BUCATINI, ŚMIETANKA 15%, Marchew, BULION WARZYWNY, PARMEZAN, Suszone pomidory, Szpinak baby, Sól morska, Cebula, Czosnek, Pieprz mielony, Mielona gałka muszkatołowa, Sól, Sok z limonki, SOS RYBNY"
+      },
+      {
+        "dishName": "Sandacz z koperkowym puree i sałatką z pieczoną cukinią",
+        "ingredientsList": "Ziemniaki obrane, SANDACZ, Cukinia duet Minute, ŚMIETANKA 15%, Pomidory pelati, Suszone pomidory (w oleju z ziołami, odsączone), Słonecznik, Oliwki czarne całe b/p*, Oliwa z oliwek, Sok z cytryny, KONCENTRAT FONDU ZE SKORUPIAKÓW, Koper ogrodowy, Skórka z cytryny (starta), Mielona gałka muszkatołowa, Pieprz mielony, Natka pietruszki, Tymianek, Sól morska, Rozmaryn (świeży), Sok cytrynka, Oliwa z suszonych pomidorów (oliwa)"
+      },
+      {
+        "dishName": "Wegańskie pierogi orkiszowe z wędzonym tofu i ziemniakami oraz pieczonym burakiem",
+        "ingredientsList": "Burak gotowany, MĄKA PSZENNA, TYP 500, Ziemniaki obrane, TOFU WĘDZONE, Cebula czerwona, Woda, Woda, JAJA KURZE, MĄKA KRUPCZATKA, Oliwa z oliwek, MASŁO, Olej rzepakowy, Natka pietruszki, Sól, Pieprz mielony, Majeranek, Tymianek, Sok cytrynka, Ksylitol"
+      },
+      {
+        "dishName": "Filet z piersi kurczaka w sosie rozmarynowym z ryżem brązowym, kolorową papryką, cukinią i bakłażanem",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, ŚMIETANKA 15%, Ryż brązowy, Woda, Cukinia zielona, Bakłażan, Papryka czerwona, Papryka zielona, Papryka żółta, Cebula, BULION WARZYWNY, Czosnek, DEMI GLAZE, Olej rzepakowy, Oliwa z suszonych pomidorów (oliwa), Rozmaryn (świeży), Pieprz mielony, Sól morska, Oregano, Tymianek gałązka do ozdoby, Sól, Sok cytrynka, Pieprz młotkowany kolorowy, Rozmaryn, Natka pietruszki"
+      },
+      {
+        "dishName": "Pierś z kurczaka owinięta w szynce Prosciutto Cotto ze szpinakiem, couils paprykowym i kalafiorem w pesto",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Kalafior, Papryka czerwona, Peperonata, Oliwa z oliwek, Prosciutto Cotto, Słonecznik, Cebula, Natka pietruszki, Szpinak, Szpinak, Sok z cytryny, PARMEZAN, Czosnek, ORZECHY NERKOWCA, Profesor ziółko - rukola, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Sernik tradycyjny z polewą czekoladową",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, BIAŁKO JAJA KURZEGO, ŻÓŁTKO JAJA, MASŁO, Ksylitol, Cytryna, Skrobia ziemniaczana, CZEKOLADA DESEROWA, Olej rzepakowy"
+      },
+      {
+        "dishName": "Krem z salsefii z grzankami pszennymi",
+        "ingredientsList": "BULION WARZYWNY, Skorzonera (salsefia), BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), Pasternak, Kalafior, Marchew, Oliwki czarne całe b/p*, SELER NACIOWY, Olej rzepakowy, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Jagielnik kokosowy na spodzie daktylowym (Uwaga! Orzechy mogą zawierać łupiny!)",
+        "ingredientsList": "Truskawki, MLEKO BEZLAKTOZOWE 1,5%UHT, Mleczko kokosowe RealThai, Kasza jaglana, ORZECHY WŁOSKIE, Daktyle suszone, Ksylitol, Olej kokosowy (nierafinowany), Woda, Agar, Kakao"
+      },
+      {
+        "dishName": "Sałatka z serem Halloumi i ananasem",
+        "ingredientsList": "Ananas, Pomidory koktajlowe, śliwkowe, Ogórek zielony (długi), SER HALLOUMI, Rzodkiewka, JOGURT NATURALNY (2% TŁ.), Granat, Sałata rzymska, Szpinak baby, Sałata radicho, Sumak, Przyprawa arabska, Sok cytrynka"
+      },
+      {
+        "dishName": "Keto trufle",
+        "ingredientsList": "ŚMIETANKA VEGETOP 33%, ORZECHY ZIEMNE GRYS, Olej kokosowy (nierafinowany), CZEKOLADA CIEMNA 60% BEZ CUKRU, Żelatyna, Erytrol, Woda"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Pierożki gyoza z warzywami i kurczakiem, sosem sojowym i sałatką z wakame",
+        "ingredientsList": "PIEROŻKI GYOZA Z KURCZAKIEM, PIEROŻKI GYOZA Z WARZYWAMI, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), Grzyby shitake całe (suszone), Woda mineralna niegazowana, Glony wakame, Kapusta biała, Por, Marchew, Papryka czerwona, Szczypiorek, Sos sweet-chili (cukier, woda, czerwone chili, czosnek, sól, skrobia kukurydziana, kwas octowy), SEZAM BIAŁY, Czosnek, OLEJ SEZAMOWY"
+      },
+      {
+        "dishName": "Tagliatelle w sosie szparagowym z grillowaną cukinią i kurczakiem",
+        "ingredientsList": "Woda, Cukinia zielona, Filet z piersi kurczaka, bez skóry, MAKARON TAGLIATELLE (JASNY), Szparagi zielone (mrożone), ŚMIETANKA 15%, BULION WARZYWNY, Szpinak baby, SER PARMEZAN (MLEKO NIEPASTERYZOWANE, SÓL, PODPUSZCZKA, SUBSTANCJA KONSERWUJĄCA: LIZOZYM JAJECZNY), Oliwa z oliwek, Pieprz mielony, Pietruszka, liście, Sól morska, Sól"
+      },
+      {
+        "dishName": "Sałatka z suszonymi pomidorami, grillowaną cukinią, oliwkami, czerwoną fasolą i kuskusem",
+        "ingredientsList": "Cukinia zielona, Pomidory cherry żółte, Pomidory koktajlowe, Oliwki czarne całe b/p*, Woda, Woda, Fasola czerwona nasiona suche, KASZA KUSKUS, Suszone pomidory, Sałata lodowa, Oliwa z oliwek, SEZAM CZARNY, Sałata rzymska, MUSZTARDA FRANCUSKA, Szpinak, Rukola, Natka pietruszki, Ocet biały winny, Miód pszczeli, MUSZTARDA STOŁOWA, Koper ogrodowy"
+      },
+      {
+        "dishName": "Pasta rybna z tuńczyka z serkiem, pieczywem i ogórkami kiszonymi",
+        "ingredientsList": "OGÓRKI KISZONE, TUŃCZYK W SOSIE WŁASNYM, CHLEB ŻYTNI 100% KROPEK (MĄKA ŻYTNIA TYP 750, MĄKA ŻYTNIA TYP 1400, MĄKA PSZENNA TYP 1400, ZAKWAS ŻYTNI ,SÓL), TWARÓG RACIBORSKI, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), DYNIA PESTKI, Szczypiorek, Profesor Ziółko - kiełki słonecznika"
+      },
+      {
+        "dishName": "Fasolka po bretońsku z chorizo i keto chlebkiem ziołowym",
+        "ingredientsList": "Pomidory pelati, Chorizo, Woda, Fasola biała nasiona suche, JAJA KURZE, Koncentrat pomidorowy, Cebula, Olej kokosowy (rafinowany), Mąka kokosowa, Babka płesznik (jajowata), SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Olej rzepakowy, Ziele angielskie, Liść laurowy, PROSZEK DO PIECZENIA, Lubczyk, Papryka słodka (mielona), Majeranek, Papryka słodka, wędzona (mielona), Mielona papryka chili, Kminek mielony, Sól himalajska, Bazylia suszona, Oregano, Natka pietruszki"
+      }
+    ]
+  }
+]

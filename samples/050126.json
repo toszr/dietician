@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Pasta z sera Ricotta z sałatką z kalarepy i białej rzodkwi, pieczywo",
+        "ingredientsList": "CHLEB DRWALSKI (MĄKA PSZENNA, ŻYTNIA, WODA, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, SÓL, DROŻDŻE, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), SER RICOTTA MIĘKKA, Ogórek zielony (długi), SER NA SERNIK, Kalarepa, DYNIA PESTKI, Rzodkiew biała, Sałata rzymska, Szczypiorek, Rukola, Koper ogrodowy"
+      },
+      {
+        "dishName": "Frittata z zielonymi warzywami, bagietką pszenną i warzywami",
+        "ingredientsList": "JAJA KURZE, BAGIETKA DE TRADITION (MĄKA PSZENNA, WODA, SÓL, DROŻDŻE), Cukinia zielona, JAJA KURZE, Brokuł kalibrowany 10-20, BIAŁKO JAJA KURZEGO, Burak, Marchew, SELER NACIOWY, Szpinak, Groszek zielony, Rukola, Sałata lodowa, DYNIA PESTKI, Oliwa z oliwek, Sałata rzymska, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Owsianka z malinami i orzechami, jogurt i owoce: jabłko i gruszka",
+        "ingredientsList": "MLEKO, JOGURT NATURALNY, Maliny, PŁATKI OWSIANE, Gruszka, Jabłko, Ksylitol, Żurawina suszona, Śliwki suszone, MIGDAŁY (PŁATKI), OTRĘBY OWSIANE, ORZECHY NERKOWCA, Jagody goji (suszone), Agar"
+      },
+      {
+        "dishName": "Placuszki cukiniowo-batatowe z sosem koperkowym i słupkami kolorowych warzyw",
+        "ingredientsList": "Cukinia zielona, JOGURT NATURALNY, Bataty, Marchew, SELER NACIOWY, MĄKA ORKISZOWA JASNA, JAJA KURZE, Cebula, DYNIA PESTKI, Słonecznik, PARMEZAN, Koper ogrodowy, Czosnek, Oliwa z oliwek, Rozmaryn, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Angielskie śniadanie z jajkiem, boczkiem, frankfurterką i fasolką w sosie pomidorowym",
+        "ingredientsList": "JAJA KURZE, Pomidory koktajlowe, śliwkowe, Frankfurterki, Boczek wieprzowy wędzony parzony plastry, Woda, Passata pomidorowa (przecier), Fasola biała Cannellini, nasiona suche, Pieczarki, Cebula, Koncentrat pomidorowy, Czosnek, Szczypiorek, Ksylitol, Olej rzepakowy, Pietruszka, liście, Oliwa z oliwek, Papryka słodka (mielona), Majeranek, Pieprz mielony, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Makaron linguine w sosie z dodatkiem gruszki, Pecorino Romano oraz cebulki balsamicznej",
+        "ingredientsList": "MAKARON LINGUINE SEMOLINA, BULION WARZYWNY, Gruszka, ŚMIETANKA 15%, Cebulka balsamiczna, SELER NACIOWY, SER PECORINO ROMANO (MLEKO OWCZE PASTERYZOWANE, SÓL, PODPUSZCZKA), Cebula czerwona, PARMEZAN, Rozmaryn (świeży), Czosnek, Skrobia ziemniaczana, Natka pietruszki, WINO BIAŁE PÓŁWYTRAWNE, Profesor Ziółko - groszek czepny"
+      },
+      {
+        "dishName": "Drożdżowe babeczki z jabłkiem i kruszonką",
+        "ingredientsList": "Jabłko, MĄKA PSZENNA, TYP 500, MLEKO, Ksylitol, MĄKA ORKISZOWA JASNA, Maliny, JAJA KURZE, MASŁO, Woda, Oliwa z oliwek, Drożdże suszone, Cukier, Sól"
+      },
+      {
+        "dishName": "Krem z pomarańczowych warzyw z grzankami z dodatkiem rozmarynu",
+        "ingredientsList": "BULION WARZYWNY, Pomidory pelati, Marchew, Marchew kostka (mrożona), CHLEB WIELOZIARNISTY (MĄKA (PSZENNA, ŻYTNIA, WODA, PŁATKI OWSIANE, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, DROŻDŻE, SEZAM, SÓL, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Cebula, ŚMIETANKA 15%, Czosnek, Sól, Rozmaryn (świeży), Oliwa z oliwek, Pieprz mielony"
+      },
+      {
+        "dishName": "Ciasto czekoladowo - pistacjowe",
+        "ingredientsList": "Fasola czerwona w zalewie (konserwowa), TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, JAJA KURZE, KREM PISTACJOWY, MASŁO ORZECHOWE, Olej kokosowy (rafinowany), CZEKOLADA DESEROWA, Ksylitol, PISTACJE, Kakao, ŚMIETAN-FIX, PROSZEK DO PIECZENIA"
+      },
+      {
+        "dishName": "Ciasto śliwkowo - migdałowe",
+        "ingredientsList": "Śliwki, MĄKA MIGDAŁOWA, JAJA KURZE, NAPÓJ MIGDAŁOWY NIESŁODZONY, MASŁO, Erytrol, ODŻYWKA BIAŁKOWA (WPC), MIGDAŁY (PŁATKI), Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), PROSZEK DO PIECZENIA, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Mini gołąbki w kapuście w sosie pomidorowym z kaszą gryczaną i mizerią",
+        "ingredientsList": "Kasza gryczana prażona, Kapusta pekińska, Woda, Ogórek zielony (długi), Włoszczyzna, Polędwiczki z kurczaka, Szynka wieprzowa (surowa), Pomidory pelati, Cebula, Marchew, ŚMIETANA CREME FRAICHE 30%, BULION WARZYWNY, Koper ogrodowy, Czosnek, Oliwa z oliwek, Natka pietruszki, SELER KORZENIOWY, Koncentrat pomidorowy, Sok z cytryny, Ksylitol, Oliwa z oliwek"
+      },
+      {
+        "dishName": "Filet z piersi kurczaka z sosem żurawinowym, kluskami śląskimi i kolorowymi marchewkami",
+        "ingredientsList": "KLUSKI ŚLASKIE MAŁE Z DZIURKĄ (ZIEMNIAKI, SKROBIA ZIEMNIACZANA, JAJA KURZE, PŁATKI ZIEMNIACZANE, SÓL, OLEJ RZEPAKOWY), Filet z piersi kurczaka, bez skóry, Żurawina, Żurawina, Marchew, Marchew filetowa - czarna, Marchew żółta, Słonecznik, MLEKO SPOŻYWCZE 2%, Tymianek, Sól morska"
+      },
+      {
+        "dishName": "Spaghetti bolognese z wegańskim mielonym",
+        "ingredientsList": "Woda, MAKARON SPAGHETTI PEŁNOZIARNISTY, BURGER WEGAŃSKI LINDA MCCARTNEY, Włoszczyzna, Pomidory pelati, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), MLEKO SPOŻYWCZE 2%, Słonecznik, Cebula, Koncentrat pomidorowy, Czosnek, Rozmaryn, Oliwa z oliwek, Ksylitol, Liść laurowy, WINO CZERWONE (PÓŁWYTRAWNE), Sambal, Profesor ziółko- bazylia świeża"
+      },
+      {
+        "dishName": "Dorsz w sosie curry z brązowym ryżem oraz warzywami: groszkiem cukrowym i brokułem",
+        "ingredientsList": "POLĘDWICA Z DORSZA CZARNEGO, Mleczko kokosowe RealThai, Ryż brązowy, Woda, Brokuły, Groszek zielony, Groszek cukrowy strączkowy Snap Peas Bond, Cebula, Olej rzepakowy, Pasta curry żółta, Czosnek, Kolendra (świeża), Oliwa z oliwek, Sok z limonki, OLEJ SEZAMOWY, Imbir świeży, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), Sól morska"
+      },
+      {
+        "dishName": "Schab w sosie grzybowym z surówką z czerwonej kapusty",
+        "ingredientsList": "Schab wieprzowy (bez kości), Kapusta czerwona, Podgrzybek (mrożony), ŚMIETANKA 15%, Pieczarki, Oliwa z oliwek, DYNIA PESTKI, Natka pietruszki, Oliwa extra virgin, Olej rzepakowy, Cebula, Pieprz mielony, Sok z cytryny, Sól, Marynata Premium do wołowiny, Tymianek, Tymianek gałązka do ozdoby"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Dwusmakowe risotto: czekolada - wanilia z borówkami amerykańskimi",
+        "ingredientsList": "MLEKO, Ryż do sushi, KREM ANGIELSKI , ORZECHY ZIEMNE GRYS, CZEKOLADA DESEROWA, Borówki amerykańskie, Cukier wanilinowy, Ksylitol, Kakao"
+      },
+      {
+        "dishName": "Jagodowy sernik ombre",
+        "ingredientsList": "Jagody czarne (mrożone), JOGURT NATURALNY, TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Woda, KREM ANGIELSKI , Miód pszczeli, Żelatyna, MIGDAŁY (PŁATKI)"
+      },
+      {
+        "dishName": "Rogaliki serowe z posypką cynamonową",
+        "ingredientsList": "JOGURT NATURALNY, MĄKA PSZENNA, TYP 500, TWARÓG RACIBORSKI, MASŁO, KREM ANGIELSKI , Ksylitol, Cynamon"
+      },
+      {
+        "dishName": "Makaron fusilli w sosie gorgonzola z boczkiem",
+        "ingredientsList": "Woda, MAKARON FUSILLI (PEŁNOZIARNISTY ORKISZOWY), ŚMIETANKA 15%, SER GORGONZOLA, Boczek pieczony w płatkach, Szpinak baby, Natka pietruszki, Oliwa z oliwek, Mielona gałka muszkatołowa, Pieprz mielony"
+      },
+      {
+        "dishName": "Placuszki brokułowe z sosem szczypiorkowym i ogórkami konserwowymi",
+        "ingredientsList": "Ogórki, konserwowe, JOGURT NATURALNY, BIAŁKO JAJA KURZEGO, JAJA KURZE, MAJONEZ Z OLEJEM RZEPAKOWYM, SER GOUDA, Brokuł kalibrowany 10-20, Natka pietruszki, Szczypiorek, Pieprz mielony, Sól, Sól morska, Profesor Ziółko - groszek czepny"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Bouillabaisse - czerwona zupa rybna z owocami morza",
+        "ingredientsList": "BULION RYBNY (DOMOWY), Włoszczyzna, Pomidory pelati kostka, KAŁAMARNICA PIERŚCIENIE, KREWETKI, ŁOSOŚ (ŚWIEŻY) FILET Z/S TRYM D, Cebula, Pomidory pelati, Mule św w siatce niepasteryzowane, Czosnek, WINO BIAŁE PÓŁWYTRAWNE, Koper ogrodowy, SOS RYBNY, KONCENTRAT FONDU ZE SKORUPIAKÓW, Pieprz cytrynowy, Sok cytrynka, Natka pietruszki, Sambal, Oliwa z oliwek, Imbir, Fenkuł, Sól, Sok z limonki, Pieprz mielony"
+      },
+      {
+        "dishName": "Pita buraczana ze szpinakiem, jajkiem i rukolą, sos koperkowy",
+        "ingredientsList": "JAJA KURZE, JOGURT NATURALNY, MĄKA PSZENNA TYP \"00\" NA PIZZĘ, Szpinak, Burak gotowany, Woda, Rukola, ORZECHY ZIEMNE GRYS, Szpinak baby, Oliwa z oliwek, Drożdże suszone, Koper ogrodowy, Sól morska, Pieprz mielony, Kiełki buraka"
+      },
+      {
+        "dishName": "Hummus klasyczny z pieczywem drwalskim",
+        "ingredientsList": "Woda, CHLEB DRWALSKI (MĄKA PSZENNA, ŻYTNIA, WODA, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, SÓL, DROŻDŻE, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Ciecierzyca nasiona suche, Woda mineralna niegazowana, Sok z cytryny, Tahini, Oliwki czarne całe b/p*, OLEJ SEZAMOWY, Czosnek, Oliwa z oliwek, Sumak, Zatar, Kurkuma, Oliwa extra virgin, Profesor ziółko - rukola"
+      },
+      {
+        "dishName": "Pasztet drobiowy z sosem malinowym, rzodkiewkami i pieczywem",
+        "ingredientsList": "CHLEB ŻYTNI NA ZAKWASIE HB (MĄKA: ŻYTNIA TYP 1400, ŻYTNIA RAZOWA 2000, PSZENNA PEŁNOZIARNISTA TYP 2000, WODA, SÓL, SŁÓD JĘCZMIENNY, ZAKWAS), Rzodkiewka, Maliny (mrożone), Polędwiczki z kurczaka, Filet z piersi kurczaka, bez skóry, Wątróbka (z kurczaka), BIAŁKO JAJA KURZEGO, ŚMIETANKA 15%, DYNIA PESTKI, Cebula, Marchew, Pietruszka, korzeń, Jabłko, Śliwki suszone, Rozmaryn (świeży), Ksylitol, Czosnek, Jałowiec, Majeranek, Ziele angielskie, Liść laurowy, Profesor ziółko- kiełki rzodkiewki"
+      },
+      {
+        "dishName": "Fasola Edame z kurczakiem po koreańsku i makaronem z marchewki",
+        "ingredientsList": "Marchew, Filet z piersi kurczaka, bez skóry, BULION WARZYWNY, EDAMAME FASOLA SOI ŁUSKANA, Cebula, Glony wakame, Por, SOS OSTRYGOWY MEA KRUA (EKSTRAKT Z OSTRYG, CUKIER, SÓL, FASOLKA SOI, MĄKA PSZENNA, SKROBIA KUKURYDZIANA, SUBSTANCJA KONSERWUJĄCA: E211), Fasola mung, kiełki, Sos sweet-chili (cukier, woda, czerwone chili, czosnek, sól, skrobia kukurydziana, kwas octowy), ORZECHY ZIEMNE GRYS, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Oliwa z oliwek, OLEJ SEZAMOWY, Czosnek, Imbir świeży, Ksylitol, Cebula dymka, SEZAM BIAŁY, NANAMI TOGARASHI (PRZYPRAWA), Cukier trzcinowy, Pasta z tamaryndowca, Sól morska"
+      }
+    ]
+  }
+]

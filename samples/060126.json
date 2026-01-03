@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Pancakes amerykańskie z musem śliwkowym",
+        "ingredientsList": "NALEŚNIKI AMERYKAŃSKIE (MĄKA PSZENNA, WODA, CUKIER, JAJKO, MLEKO, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY, GUMA KSANTANOWA), Śliwki, MIGDAŁY (PŁATKI), CZEKOLADA OŁÓWKI MINI, Ksylitol, Mięta liście"
+      },
+      {
+        "dishName": "Twarogowa pasta śmietankowa z czarnuszką, bułeczka pszenna i słupki selera naciowego",
+        "ingredientsList": "SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), BUŁECZKA MAŁA (PSZENNA 30 G) (MĄKA PSZENNA, WODA, DROŻDŻE, SÓL, OLEJ RZEPAKOWY, KWAS ASKORBINOWY), SELER NACIOWY, TWARÓG CHUDY, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, Pieprz mielony, Czarnuszka, Sól morska, Tymianek"
+      },
+      {
+        "dishName": "Naleśniki z twarożkiem kokosowym i wiśniami w sosie",
+        "ingredientsList": "NALEŚNIKI HOLENDERSKIE (WODA, MĄKA PSZENNA, MLEKO, OLEJ SŁONECZNIKOWY, JAJA KURZE, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY), TWARÓG RACIBORSKI, Wiśnie, JOGURT NATURALNY, Mleczko kokosowe RealThai, Wiórki kokosowe, Miód pszczeli, Granat, Ksylitol, CZEKOLADA DESEROWA, Mąka z tapioki, Olej rzepakowy, Mięta liście"
+      },
+      {
+        "dishName": "Omlety z szynką dojrzewającą z sosem musztardowym",
+        "ingredientsList": "JAJA KURZE, JOGURT NATURALNY, Szynka Farmerska, wędzona Duda, MĄKA OWSIANA (PEŁNOZIARNISTA), SELER NACIOWY, Kalarepa, Cebula czerwona, Oliwki czarne całe b/p*, Suszone pomidory, MUSZTARDA, Szczypiorek, Sok z cytryny, Ksylitol, Pieprz mielony, Profesor Ziółko - kiełki słonecznika"
+      },
+      {
+        "dishName": "Frittata z boczkiem, szczypiorkiem i kolorową papryką oraz sosem remulada",
+        "ingredientsList": "JAJA KURZE, Papryka czerwona, Papryka mix kostka, Papryka żółta, MAJONEZ Z OLEJEM RZEPAKOWYM, Boczek pieczony w płatkach, SER PARMEGRANA DOJRZEWAJĄCY 18 MIESIĘCY, MLEKO BEZLAKTOZOWE 1,5%UHT, ŚMIETANKA VEGETOP 33%, Cebula, Kapusta kiszona, Ogórek kiszony, Cebula czerwona, Czosnek, Koper ogrodowy, Olej rzepakowy, Kurkuma, Pieprz mielony, Oregano, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Sałatka z serem brie, winogronami i dressingiem vinegrette",
+        "ingredientsList": "SER BRIE NATURALNY (PODPUSZCZKA MIKROBIOLOGICZNA), Pomidory koktajlowe, Cukinia zielona, Winogrona jasne, Winogrona ciemne, Sałata lodowa, Oliwa z oliwek, Szpinak baby, MUSZTARDA FRANCUSKA, Woda, Ocet biały winny, Miód pszczeli, MUSZTARDA STOŁOWA, Natka pietruszki, Koper ogrodowy, Bazylia suszona, Sól"
+      },
+      {
+        "dishName": "Jogurt borówkowy",
+        "ingredientsList": "JOGURT NATURALNY, Borówki amerykańskie, Miód pszczeli, ORZECHY ZIEMNE GRYS"
+      },
+      {
+        "dishName": "Tarta wytrawna ze szpinakiem i suszonymi pomidorami",
+        "ingredientsList": "ŚMIETANKA 15%, JAJA KURZE, MĄKA PSZENNA, TYP 500, Szpinak, BIAŁKO JAJA KURZEGO, Cebula, SER MOZZARELLA WIÓRKI, SER PLEŚNIOWY KAMIENNOGÓRSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Suszone pomidory, Czosnek, Natka pietruszki, Oliwa z oliwek, Rozmaryn (świeży), Sól, Pieprz mielony, Mielona gałka muszkatołowa, Sól morska"
+      },
+      {
+        "dishName": "Risotto z brązowego ryżu z zielonymi warzywami i płatkami parmezanu",
+        "ingredientsList": "BULION WARZYWNY, Ryż brązowy, Por, Cebula, Szparagi zielone (mrożone), PARMEZAN, MASŁO, Natka pietruszki, Szpinak baby, Koper ogrodowy, Czosnek, Sok z cytryny, Pieprz mielony, Sól morska"
+      },
+      {
+        "dishName": "Ketogeniczne muffiny z wiórkami kokosowymi i cynamonem",
+        "ingredientsList": "Dynia, BIAŁKO JAJA (KURZEGO), ŻÓŁTKO JAJA, Mąka kokosowa, Ksylitol, Wiórki kokosowe, ORZECHY NERKOWCA, Kakao, Proszek do pieczenia bezglutenowy, Przyprawa korzenna bezglutenowa, Cynamon"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Filet z gęsi z żurawiną, kluseczkami śląskimi i czerwoną kapustą",
+        "ingredientsList": "Filet z piersi gęsi, KLUSKI ŚLASKIE MAŁE Z DZIURKĄ (ZIEMNIAKI, SKROBIA ZIEMNIACZANA, JAJA KURZE, PŁATKI ZIEMNIACZANE, SÓL, OLEJ RZEPAKOWY), Czerwona kapusta z jabłkiem, BULION WARZYWNY, Mięso wołowe zrazowa górna, Cebula, Żurawina, Żurawina, Marchew, Skrobia ziemniaczana, Pietruszka, korzeń, Czosnek, Rozmaryn (świeży), Olej rzepakowy, DEMI GLAZE, Majeranek, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Kuleczki z indykiem i oregano w sosie śmietanowo- pietruszkowym z kaszą jęczmienną, marchewką paryską i groszkiem zielonym",
+        "ingredientsList": "Polędwiczki z kurczaka, Woda, Polędwiczki z indyka, Marchew paryska, KASZA JĘCZMIENNA, PERŁOWA, BULION WARZYWNY, Groszek zielony, ŚMIETANKA 15%, Włoszczyzna, MĄKA PSZENNA TYP 750, JAJA KURZE, BUŁKA TARTA, Natka pietruszki, DYNIA PESTKI, Olej rzepakowy, Sól, Pieprz mielony, Oregano"
+      },
+      {
+        "dishName": "Kung Pao z tofu i boczniakami z ryżem basmati, papryką oraz cukinią",
+        "ingredientsList": "Woda, Ryż basmati Punjabi, Cukinia zielona, TOFU NATURALNE, Woda, Papryka czerwona, SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA), Boczniaki, Skrobia ziemniaczana, SOS HOISIN ŚLIWKOWY, Cukier trzcinowy, Czosnek, Imbir, Mirin Fumi zaprawa, Szczypiorek, ORZECHY ZIEMNE GRYS, OLEJ SEZAMOWY, Płatki chili, Pieprz biały, Olej rzepakowy"
+      },
+      {
+        "dishName": "Pieczeń wieprzowa z sosem pieprzowym z kaszą pęczak i surówką z kiszonej kapusty",
+        "ingredientsList": "Schab wieprzowy (bez kości), Kapusta kiszona, Woda, KASZA JĘCZMIENNA, PĘCZAK, BULION WARZYWNY, Marchew, ŚMIETANKA 15%, Szalotka, MASŁO KLAROWANE, Pieprz zielony, Olej rzepakowy, Natka pietruszki, Pieprz mielony, MUSZTARDA DIJON, Sól morska, Zioła prowansalskie, WINO BIAŁE, WYTRAWNE, Rozmaryn (świeży), Tymianek, Ksylitol, Sól"
+      },
+      {
+        "dishName": "Dzwonek z halibuta w sosie kaparowym z puree z selera i zielonymi warzywami",
+        "ingredientsList": "HALIBUT TUSZKA, SELER KORZENIOWY, Brokuł (mrożony), ŚMIETANKA 15%, Fasolka szparagowa żóła, Oliwa z oliwek, ŚMIETANKA VEGETOP 33%, Fasolka szparagowa zielona cięta 2,5kg, MLEKO BEZLAKTOZOWE 1,5%UHT, Kapary, Cebula, MASŁO, WINO BIAŁE PÓŁWYTRAWNE, Chrzan, Czosnek, Pieprz cytrynowy, Sok cytrynka, Koper ogrodowy, Sól morska, Sól, Pieprz mielony"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Sycylijski pudding z migdałów z pomarańczami",
+        "ingredientsList": "SER NA SERNIK, Pomarańcza, MLEKO SPOŻYWCZE 2%, MĄKA PSZENNA, TYP 500, MIGDAŁY (PŁATKI), Ksylitol, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Woda, Mięta liście"
+      },
+      {
+        "dishName": "Sernik na zimno na biszkopcie z malinami",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Woda mineralna niegazowana, Maliny, Woda, BIAŁKO JAJA KURZEGO, MĄKA ORKISZOWA JASNA, ŻÓŁTKO JAJA, Ksylitol, Galaretka truskawkowa, GALARETKA NEUTRALNA, Żelatyna, Kakao, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%))"
+      },
+      {
+        "dishName": "Makaron strozzapreti z sosem orzechowym i groszkiem",
+        "ingredientsList": "Woda, Flora Professional Plant 15% (roztwór białka soczewicy (woda, białko soczewicy 2,5%), olej rzepakowy, tłuszcz kokosowy, cukier, modyfikowana skrobia ziemniaczana, emulgator (polisorbat 60), stabilizatory (metyloceluloza, guma ksantanowa), regulator kwasowości (cytrynian trisodowy), aromat naturalny, sól, barwnik (karoteny)), MAKARON STROZZAPRETI ŚWIEŻY, Groszek zielony, Groszek cukrowy strączkowy Snap Peas Bond, MASŁO ORZECHOWE, ORZECHY ZIEMNE GRYS, Rukola, Sok cytrynka, Natka pietruszki, Sól morska, Kolendra (świeża), Sambal, Pieprz mielony"
+      },
+      {
+        "dishName": "Sałatka z filetem z kurczaka, selerem naciowym i ananasem",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Ananas, Pomidory koktajlowe, śliwkowe, SELER NACIOWY, Oliwki czarne całe b/p*, ORZECHY ZIEMNE GRYS, Rukola, Sałata lodowa, Oliwa z oliwek, MUSZTARDA FRANCUSKA, Woda, Ocet biały winny, Ksylitol, Natka pietruszki, MUSZTARDA, Koper ogrodowy, Marynata premium do drobiu"
+      },
+      {
+        "dishName": "Koktajl z czerwoną porzeczką i nasionami chia",
+        "ingredientsList": "MLEKO, Porzeczki czerwone, Owoce mix: truskawka, porzeczka, owoce leśne, ORZECHY WŁOSKIE, Ksylitol, Nasiona chia"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Pasztet staropolski z sosem żurawinowym, sałatką z pieczarkami i ogórkiem konserwowym oraz pieczywem",
+        "ingredientsList": "PALUCH RUSTICO (MĄKA (PSZENNA, ŻYTNIA), PŁATKI OWSIANE, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, DROŻDŻE, SEZAM, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Wątróbka (z kurczaka), Polędwiczki z kurczaka, Cebula, Pieczarki marynowane, Ogórki konserwowe, Pomidory koktajlowe, śliwkowe, Wieprzowina (schab, szynka, karkówka), Żurawina, Żurawina, BIAŁKO JAJA KURZEGO, ŚMIETANKA 15%, Marchew, Cebula czerwona, Śliwki suszone, Pietruszka, korzeń, Czosnek, Rozmaryn (świeży), Tymianek gałązka do ozdoby, Jałowiec, Majeranek, Ziele angielskie"
+      },
+      {
+        "dishName": "Tacos kukurydziane z pastą z ricotty i salsą pomidorową",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Pomidor, Taco Shells, SER RICOTTA MIĘKKA, Pomidory pelati, SELER NACIOWY, Słonecznik, Kolendra (świeża), Sok z limonki, Ksylitol, Czosnek niedźwiedzi, Sól morska, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Tortilla de patatas z sałatką z ogórkiem, pomidorkami i oliwkami",
+        "ingredientsList": "Ziemniaki obrane, Cebula, JAJA KURZE, MAJONEZ WEGAŃSKI CREMAJO 20%, Pomidory koktajlowe, śliwkowe, Ogórek zielony (długi), SER EDAMSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Sałata lodowa, Oliwki zielone całe, Ocet biały winny, Czosnek, Sambal, Papryka słodka (mielona), Sól morska, Kmin rzymski (kumin), Sól, Mielona gałka muszkatołowa, Pieprz mielony"
+      },
+      {
+        "dishName": "Pełnoziarnisty makaron spaghetti z drobiowym sosem bolońskim, tartą mozzarellą i świeżą bazylią",
+        "ingredientsList": "Woda, MAKARON SPAGHETTI PEŁNOZIARNISTY, Polędwiczki z kurczaka, Pomidory pelati, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), Koncentrat pomidorowy, Pietruszka, korzeń, Marchew, Cebula, SELER KORZENIOWY, SELER NACIOWY, Czosnek, Bazylia świeża, Tymianek, Rozmaryn, Papryka słodka, wędzona (mielona), Oregano"
+      },
+      {
+        "dishName": "Hummus z czarnuszką, keto chlebkiem i warzywami: pomidorem i oliwkami",
+        "ingredientsList": "Pomidor malinowy, Woda, Ciecierzyca nasiona suche, JAJA KURZE, SER GOUDA, MĄKA MIGDAŁOWA, Woda mineralna niegazowana, Oliwki czarne całe b/p*, Sok z cytryny, Tahini, Rukola, Czarnuszka, OLEJ SEZAMOWY, Czosnek, SEZAM BIAŁY, PROSZEK DO PIECZENIA, Oregano"
+      }
+    ]
+  }
+]
