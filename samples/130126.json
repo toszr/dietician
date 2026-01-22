@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Naleśniki z twarożkiem waniliowym i musem z owoców leśnych",
+        "ingredientsList": "NALEŚNIKI HOLENDERSKIE (WODA, MĄKA PSZENNA, MLEKO, OLEJ SŁONECZNIKOWY, JAJA KURZE, SÓL, SKROBIA KUKURYDZIANA, KWASEK CYTRYNOWY), Owoce mix: truskawka, porzeczka, owoce leśne, TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, TWARÓG RACIBORSKI, KREM ANGIELSKI , Ksylitol, ORZECHY ZIEMNE GRYS, Cukier wanilinowy, CZEKOLADA DESEROWA, Olej rzepakowy"
+      },
+      {
+        "dishName": "Żytnianka z owocami leśnymi, jogurtem i owocami: jabłkiem i gruszką",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO, Porzeczki czerwone, PŁATKI ŻYTNIE, Gruszka, Jabłko, Owoce mix: truskawka, porzeczka, owoce leśne, ORZECHY NERKOWCA, Ksylitol, Len, Morele suszone, Jagody goji (suszone), Nasiona chia, Żelatyna"
+      },
+      {
+        "dishName": "Awanturka - pasta z makreli z keto chlebkiem i selerem naciowym",
+        "ingredientsList": "SELER NACIOWY, JAJA KURZE, MIĘSO Z MAKRELI WĘDZONEJ, TWARÓG RACIBORSKI, ŚMIETANKA 15%, SEREK ALMETTE BEZ LAKTOZY, Mąka kokosowa, Olej kokosowy (rafinowany), Szczypiorek, Babka płesznik (jajowata), Sól, Pieprz mielony, Czosnek, Czosnek granulowany, Bazylia suszona, Ocet balsamiczny, Oregano"
+      },
+      {
+        "dishName": "Angielskie muffiny (lekko podgrzać) z jajkiem w koszulce, sosem bazyliowo-cytrynowym, pieczonymi warzywami",
+        "ingredientsList": "JAJA KURZE, MĄKA PSZENNA, TYP 500, Pomidor malinowy, MLEKO SPOŻYWCZE 2%, JOGURT NATURALNY (2% TŁ.), Cukinia zielona, Oliwa z oliwek, KASZA MANNA, Sól morska, Sałata lodowa, Pieprz mielony, Sok cytrynka, Bazylia świeża, Skórka z cytryny (starta), Drożdże suszone, Polenta il Molino, Sałata rzymska mini, Szpinak, Rukola, Sałata radicho, Profesor Ziółko - kiełki słonecznika, Sól"
+      },
+      {
+        "dishName": "Jogurtowe pancakes z prażonymi jabłkami, karmelem daktylowym i musem porzeczkowym (Uwaga! Daktyle mogą zawierać pestki!)",
+        "ingredientsList": "Porzeczki czarne, MĄKA PSZENNA, SKROBIA PSZENNA, KSYLITOL, SERWATKA MLEKA KROWIEGO, MLEKO W PROSZKU, Jabłka prażone, Woda, Daktyle suszone, Olej rzepakowy, JAJA KURZE, Woda mineralna niegazowana, MASŁO ORZECHOWE, Erytrol, Sól"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Muffinki z suszonym pomidorem i sos szczypiorkowy",
+        "ingredientsList": "JOGURT NATURALNY, Pomidory pelati kostka, TWARÓG RACIBORSKI, MLEKO, MĄKA PSZENNA, TYP 500, MĄKA ORKISZOWA JASNA, JAJA KURZE, SER GOUDA, Szczypiorek, Oliwa z oliwek, PROSZEK DO PIECZENIA, Pieprz mielony, Czosnek, Sól morska"
+      },
+      {
+        "dishName": "Pasta z kurczaka i ogórka konserwowego z pieczywem",
+        "ingredientsList": "Mięso z podudzia kurczaka (bez skóry i kości), Ogórki, konserwowe, CHLEB GRAHAM KROPEK (MĄKA PSZENNA, PSZENNA GRAHAM), WODA, DROŻDŻE, CUKIER, SÓL, KWAS ASKORBINOWY), Ogórek kiszony, Cebula czerwona, JOGURT NATURALNY TYPU GRECKIEGO, DYNIA PESTKI, MUSZTARDA STOŁOWA, Sos Sriracha Asiana (woda, papryczka chili, cukier, kwas cytrynowy, czosnek, sól, skrobia, substancja zakwaszająca E260, konserwant E202), Pieprz mielony, Sól morska, Papryka słodka (mielona), Profesor Ziółko - kiełki słonecznika"
+      },
+      {
+        "dishName": "Sałatka z cukinią, melonem i serem brie",
+        "ingredientsList": "Melon cantaloupe, Pomidory cherry czerwone, SER BRIE NATURALNY (PODPUSZCZKA MIKROBIOLOGICZNA), Ogórek zielony (długi), Cukinia zielona, Winogrona rodzynkowe ciemne, Sałata lodowa, Olej słonecznikowy, MUSZTARDA FRANCUSKA, Natka pietruszki, Sałata Freeze, Rukola, MUSZTARDA STOŁOWA, Miód pszczeli, Czosnek"
+      },
+      {
+        "dishName": "Waniliowy pudding z tapioki z musem jagodowym",
+        "ingredientsList": "MLEKO, Jagody czarne (mrożone), Tapioka (granulat suchy), Ksylitol, ORZECHY ZIEMNE GRYS, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Erytrol"
+      },
+      {
+        "dishName": "Ryż z kolorowymi warzywami i ciecierzycą",
+        "ingredientsList": "BULION WARZYWNY, Woda, Ciecierzyca nasiona suche, Papryka czerwona, Fasola biała (konserwowa), Ryż bomba, Fasolka szparagowa zielona cięta 2,5kg, Cukinia zielona, Groszek zielony, Pomidory pelati kostka, Cukinia żółta, Cebula, Szpinak baby, Oliwa z oliwek, Oliwa z oliwek, Papryczka ostra (chili), Pomidory suszone z oregano, Papryka słodka, wędzona (mielona), Pasta szafranowa"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Polędwiczka wieprzowa w sezamie z makaronem udon",
+        "ingredientsList": "MAKARON UDON, Polędwica wieprzowa (surowa), SOS TERIYAKI, Cukinia zielona, Papryka zielona, SEZAM CZARNY, Papryka czerwona długa, Cebula czerwona, Kapusta pekińska, Woda mineralna niegazowana, JAJA KURZE, SEZAM BIAŁY, MĄKA PSZENNA, TYP 500, SOS SOJOWY GRZYBOWY, Cebula dymka, Imbir świeży, Czosnek, Sambal, Kolendra (świeża), SOS SOJOWY JASNY LEE KUM KEE (WODA, SÓL, SOJA, MĄKA PSZENNA)"
+      },
+      {
+        "dishName": "Filet kurczęcy w sosie pieczarkowym z kaszą jęczmienną pęczak i kiszoną kapustą",
+        "ingredientsList": "Filet z piersi kurczaka, bez skóry, Woda, Kapusta kiszona, KASZA JĘCZMIENNA, PĘCZAK, ŚMIETANKA VEGETOP 33%, Pieczarka mała, Cebula, Jabłko, DYNIA PESTKI, Marchew, Natka pietruszki, Olej rzepakowy, Czosnek, SOS SOJOWY BEZGLUTENOWY (TAMARI) NATURALNIE WARZONY, Ksylitol, Koper ogrodowy, Marchew, Majeranek, Rozmaryn (świeży), Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Filet z indyka w majeranku z \"ryżem\" z kalafiora i mizerią",
+        "ingredientsList": "Filet z piersi indyka, bez skóry, Kalafior brunoise, Ogórek zielony (długi), ŚMIETANKA 30% BEZ LAKTOZY, ŚMIETANA, Słonecznik, Cebula, BULION MIĘSNY, OGÓRKI KISZONE, Czosnek, Natka pietruszki, Sok z cytryny, Ksylitol, Koper ogrodowy, Majeranek, Olej rzepakowy, Sól, Pieprz mielony, MASŁO KLAROWANE, Majeranek świeży gałązka, Sól morska"
+      },
+      {
+        "dishName": "Klopsiki cielęce z berberysem i ziołowym jogurtem, gotowaną marchewką i kuskusem z kolendrą",
+        "ingredientsList": "Woda, JOGURT NATURALNY, KASZA KUSKUS, Cielęcina, udziec, BULION MIĘSNY, Marchew żółta, Smak z pieczenia, JAJA KURZE, Marchew filetowa - czarna, Marchew, Włoszczyzna, Pietruszka, korzeń, Natka pietruszki, DEMI GLAZE, Mąka z tapioki, Berberys owoc, Koper ogrodowy, Zatar, Kolendra (świeża), Pieprz mielony, Cynamon, Sól morska"
+      },
+      {
+        "dishName": "Burger z batata i soczewicy z sosem tysiąca wysp",
+        "ingredientsList": "BUŁECZKA HAMBURGEROWA MAŚLANA MAŁA 35 G (MĄKA PSZENNA, WODA, MLEKO W PROSZKU PEŁNE, OLEJ RZEPAKOWY, DROŻDŻE, CUKIER, SÓL, MASŁO 1,5%, BIAŁKO GROSZKU, MĄKA RYŻOWA, KWAS ASKORBINOWY, GLUKOZA), Woda, Pomidor, OGÓRKI KISZONE, SER CHEDDAR, Sałata lodowa, Bataty, Soczewica czerwona, nasiona suche, JOGURT NATURALNY, Cebula czerwona, Ryż basmati Punjabi, Ketchup, JAJA KURZE, Skrobia ziemniaczana, Szczypiorek, Siemię lniane, Sos Worcester"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Ciasteczka ze śliwkami podane z jogurtem waniliowym",
+        "ingredientsList": "JOGURT NATURALNY, Śliwki, PŁATKI OWSIANE, Miód pszczeli, ORZECHY WŁOSKIE, KREM ANGIELSKI , Żurawina suszona, BIAŁKO JAJA (KURZEGO), Olej kokosowy (nierafinowany), Ksylitol, MIGDAŁY"
+      },
+      {
+        "dishName": "Jogurt brzoskwiniowy z jagodami goji i owocami: ananasem, melonem",
+        "ingredientsList": "JOGURT NATURALNY (2% TŁ.), Brzoskwinia kostka, Melon, Ananas, ORZECHY ZIEMNE GRYS, Jagody goji (suszone)"
+      },
+      {
+        "dishName": "Sałatka z serem kozim i gruszką (Uwaga. Orzechy mogą zawierać łupiny.)",
+        "ingredientsList": "Gruszka, Pomidory koktajlowe, śliwkowe, SER KOZI ROLADA TWAROGOWA, Oliwa z oliwek, Oliwki czarne całe b/p*, Sałata lodowa, ORZECHY WŁOSKIE, Krem balsamiczny, Sałata rzymska, Szpinak, Rukola, MUSZTARDA SAREPSKA, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Waniliowy donut z makiem",
+        "ingredientsList": "JAJA KURZE, Mleczko kokosowe RealThai, Erytrol, Mąka kokosowa, BIAŁKO JAJA KURZEGO, Mak niebieski, Olej rzepakowy, MIGDAŁY (PŁATKI), Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), ODŻYWKA BIAŁKOWA (WPC), PROSZEK DO PIECZENIA, Sól"
+      },
+      {
+        "dishName": "Zupa krem z cukinii z tymiankiem",
+        "ingredientsList": "Cukinia zielona, Woda, Kasza jaglana, ŚMIETANKA 15%, DYNIA PESTKI, SELER KORZENIOWY, Pietruszka, korzeń, Oliwa z oliwek, Sok z cytryny, Tymianek, Sól, Pieprz mielony"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Pasta Primavera - makaron papardelle z cukinią, papryką i parmezanem",
+        "ingredientsList": "Woda, MAKARON PAPARDELLE, Fasolka szparagowa zielona, ŚMIETANKA 15%, Cukinia zielona, Papryka czerwona, BULION WARZYWNY, Szparagi zielone (mrożone), PARMEZAN, Papryka żółta, SER PARMEGRANA DOJRZEWAJĄCY 18 MIESIĘCY, Szpinak baby, Rukola, Oliwa z oliwek, Czosnek, MASŁO, WINO BIAŁE, WYTRAWNE, Sól morska, Pieprz mielony, Pomidory suszone z oregano, Sól"
+      },
+      {
+        "dishName": "Indyjska potrawka z tofu, soczewicą i zielonym groszkiem z komosą ryżową",
+        "ingredientsList": "Passata pomidorowa (przecier), Woda, TOFU NATURALNE, Komosa ryżowa biała, Cebula, Soczewica czerwona, nasiona suche, Groszek zielony, Olej rzepakowy, Czosnek, Imbir świeży, Papryczka ostra (chili), Kolendra mielona, Kurkuma, Kmin rzymski (kumin), Papryka słodka (mielona)"
+      },
+      {
+        "dishName": "Placuszki z dyni, marchewki ze słonecznikiem i sos z suszonymi pomidorami",
+        "ingredientsList": "Dynia piżmowa, JAJA KURZE, Marchew, MAJONEZ Z OLEJEM RZEPAKOWYM, Marchew, JOGURT NATURALNY, Słonecznik, Sałata lodowa, MĄKA MIGDAŁOWA, Suszone pomidory (w oleju z ziołami, odsączone), Kolendra (świeża), Sałata rzymska, Szpinak, Rukola, Czosnek, Cebula, Sól, Pieprz mielony, Pieprz cayenne"
+      },
+      {
+        "dishName": "Pasta z tuńczyka z pieczywem pszennym z oliwkami i słupkami ogórka bez skórki",
+        "ingredientsList": "CREAPANE GRANDE Z OLIWKAMI (MĄKA PSZENNA, WODA, OLIWKI CZARNE, MĄKA ŻYTNIA, SÓL, DROŻDŻE), Ogórek zielony (długi), TUŃCZYK PŁATKI/KAWAŁKI W SOSIE WŁASNYM WOREK 1 KG, TWARÓG RACIBORSKI, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Słonecznik, Natka pietruszki, Roszponka, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Sałatka z serem pleśniowym, komosą, cukinią pieczoną, cząsteczkami pomidora i kremem balsamicznym",
+        "ingredientsList": "Pomidor malinowy, Cukinia zielona, SER PLEŚNIOWY KAMIENNOGÓRSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Winogrona rodzynkowe ciemne, Komosa ryżowa czarna, Woda, Szpinak baby, Rukola, Sałata lodowa, Krem balsamiczny, Woda mineralna niegazowana, Pomidory suszone z oregano"
+      }
+    ]
+  }
+]

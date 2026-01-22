@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Placuszki z marchewki i pietruszki z serkiem ze szczypiorkiem",
+        "ingredientsList": "Ziemniaki obrane, TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, Marchew, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), JAJA KURZE, Cebula, Pietruszka, korzeń, Słonecznik, MĄKA PSZENNA, TYP 500, Szpinak baby, Sok z cytryny, Rukola, Sól, Pieprz mielony, Sól morska"
+      },
+      {
+        "dishName": "Owsianka z musem jeżynowym, orzechami arachidowymi, jogurtem naturalnym i kolorowym melonem",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO SPOŻYWCZE 2%, Jeżyny, PŁATKI OWSIANE, Melon cantaloupe, Melon galia, ORZECHY ZIEMNE GRYS, Ksylitol, ORZECHY ARACHIDOWE, Żurawina suszona, MIGDAŁY (PŁATKI), OTRĘBY OWSIANE, Rodzynki, Jagody goji (suszone), Agar"
+      },
+      {
+        "dishName": "Naleśniki pełnoziarniste z masłem orzechowym i jogurtem waniliowym",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, JOGURT NATURALNY, MĄKA ORKISZOWA CIEMNA, MLEKO, Woda, MĄKA ORKISZOWA JASNA, MASŁO ORZECHOWE, JAJA KURZE, Erytrol, Oliwa z oliwek, Ksylitol, CZEKOLADA CIEMNA 60% BEZ CUKRU, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Granat, Olej rzepakowy, Sól"
+      },
+      {
+        "dishName": "Keto chlebek cynamonowy z jogurtem i owocami",
+        "ingredientsList": "JOGURT NATURALNY, Gruszka, Jabłko, BIAŁKO JAJA KURZEGO, JAJA KURZE, Woda, Erytrol, MASŁO, Mąka kokosowa, MIGDAŁY (PŁATKI), ODŻYWKA BIAŁKOWA (WPC), MĄKA MIGDAŁOWA, KREM ANGIELSKI , Ksylitol, Cynamon, Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), PROSZEK DO PIECZENIA, Sól"
+      },
+      {
+        "dishName": "Twarożek koperkowy z bułeczką pszenną i słupkami ogórka",
+        "ingredientsList": "TWARÓG RACIBORSKI, BUŁECZKA MAŁA (PSZENNA 30 G) (MĄKA PSZENNA, WODA, DROŻDŻE, SÓL, OLEJ RZEPAKOWY, KWAS ASKORBINOWY), Ogórek zielony (długi), JOGURT NATURALNY, Słonecznik, Koper ogrodowy, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Sól morska, Pieprz mielony"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Tapenada z czarnych oliwek z grzanką z bagietki i mixem sałat z kolorowymi pomidorkami",
+        "ingredientsList": "PALUCH RUSTICO (MĄKA (PSZENNA, ŻYTNIA), PŁATKI OWSIANE, SŁONECZNIK, SOJA, SIEMIĘ LNIANE, DROŻDŻE, SEZAM, KWAS ASKORBINOWY, SŁÓD JĘCZMIENNY), Oliwki czarne całe b/p*, Pomidory cherry żółte, Pomidory koktajlowe, śliwkowe, Oliwki zielone całe Chalkidiki, Oliwa z oliwek, Sałata lodowa, Kapary, Sok cytrynka, Szpinak baby, Sałata rzymska, Szpinak, Rukola, Czosnek, Pietruszka, liście, Pieprz mielony, Bazylia suszona, Roszponka"
+      },
+      {
+        "dishName": "Makaron linguine z sosem gorgonzola ze szpinakiem i pieczonymi plastrami cukinii",
+        "ingredientsList": "MAKARON LINGUINE SEMOLINA, Cukinia zielona, ŚMIETANKA 15%, SER GORGONZOLA, Oliwki czarne całe b/p*, Szpinak baby, Oliwa czosnkowa nasza, Pieprz mielony, Sól, Mielona gałka muszkatołowa"
+      },
+      {
+        "dishName": "Focaccia z cukinią i pomidorkami koktajlowymi z pesto",
+        "ingredientsList": "Pomidory pelati, Woda, MĄKA PSZENNA TYP \"00\" NA PIZZĘ, MĄKA ORKISZOWA JASNA, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Cukinia zielona, Pomidory koktajlowe, śliwkowe, Oliwa z oliwek, ŚMIETANKA 15%, Suszone pomidory, Rukola, Bazylia świeża, Rozmaryn (świeży), Drożdże suszone, Czosnek, ORZECHY NERKOWCA, Płatki drożdżowe, Sok z cytryny, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Zapiekanka z batatami, soczewicą i mozzarellą, sos szczypiorkowy",
+        "ingredientsList": "JAJA KURZE, JOGURT NATURALNY, Bataty, Soczewica w zalewie, MOZZARELLA BIERUŃSKA BLOK 1.5 KG (PODPUSZCZKA MIKROBIOLOGICZNA), Szczypiorek, Szpinak baby, Czosnek, Koper ogrodowy, Pieprz mielony, Sól morska"
+      },
+      {
+        "dishName": "Tarta z nasion dyni i słonecznika z brokułem i dynią",
+        "ingredientsList": "Brokuł kalibrowany 10-20, Dynia, JAJA KURZE, ŚMIETANKA VEGETOP 33%, BIAŁKO JAJA (KURZEGO), Pomidor, Słonecznik, SER GOUDA, DYNIA PESTKI, Szczypiorek, Profesor Ziółko - kiełki słonecznika"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Rostbef wołowy w sosie własnym z ziemniakami i kapustą zasmażaną",
+        "ingredientsList": "Ziemniaki, Wołowina, rostbef, Kapusta biała, Woda, ŚMIETANKA VEGETOP 33%, Cebula, MUSZTARDA DIJON, ŚMIETANKA 15%, DEMI GLAZE, Koncentrat pomidorowy, Czosnek, Oliwa z oliwek, Koper ogrodowy, Ksylitol, Tymianek, Majeranek, Rama Combi Profi, Sól, Rozmaryn (świeży), Sól morska"
+      },
+      {
+        "dishName": "Filet z kurczaka w sosie majerankowym z gnocchi i surówką z gotowanym buraczków i jabłka",
+        "ingredientsList": "GNOCCHI NATURALNE, Filet z piersi kurczaka, bez skóry, ŚMIETANKA 15%, Jabłko, Burak gotowany, OGÓRKI KISZONE, BULION WARZYWNY, Natka pietruszki, Oliwa z oliwek, Sok cytrynka, DEMI GLAZE, Majeranek, Sok z cytryny, Pieprz mielony, Oliwa z oliwek, Mąka z tapioki, Ksylitol, Sól morska, Tymianek gałązka do ozdoby, Pieprz cytrynowy, Rozmaryn (świeży), Sól"
+      },
+      {
+        "dishName": "Pulpeciki jaglane w sosie cytrynowo-tymiankowym z pęczotto z brokułem i suszonymi pomidorami i pieczonymi buraczkami",
+        "ingredientsList": "BULION WARZYWNY, Burak gotowany, ŚMIETANKA 15%, Kasza jaglana, Cebula, KASZA JĘCZMIENNA, PĘCZAK, Brokuł kalibrowany 10-20, Cytryna, Słonecznik, Pietruszka, korzeń, Marchew, Suszone pomidory, Oliwa z oliwek, BUŁKA TARTA, Czosnek, Natka pietruszki, Sambal, Sok z cytryny, Tymianek, Oregano, WINO BIAŁE PÓŁWYTRAWNE, Rama Combi Profi, WINO BIAŁE, WYTRAWNE, Ksylitol, Pieprz mielony, Sok cytrynka, Sól morska, Sól"
+      },
+      {
+        "dishName": "Filet z piersi indyka nadziewany mozzarellą i suszonymi pomidorami w sosie śmietanowo-pietruszkowym",
+        "ingredientsList": "Filet z piersi indyka, bez skóry, Komosa ryżowa biała, Woda, Cukinia zielona, ŚMIETANKA 15%, Bakłażan, SER MOZZARELLA WIÓRKI, Suszone pomidory, Natka pietruszki, Cebula, Oliwa z oliwek, Czosnek, Zioła prowansalskie, Oregano, Profesor Ziółko - groszek czepny, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Dzwonek z halibuta z frytkami z pietruszki i surówką Colesław",
+        "ingredientsList": "HALIBUT TUSZKA, Pietruszka, korzeń, Kapusta biała, ŚMIETANKA 15%, BULION WARZYWNY, Słonecznik, Marchew, Oliwa z oliwek, Natka pietruszki, Koper ogrodowy, Chrzan ostry, Cebula, Czosnek, Skrobia ziemniaczana, Pieprz cytrynowy, Sok cytrynka"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Ciasto czekoladowe z rokitnikiem",
+        "ingredientsList": "SER NA SERNIK, JOGURT NATURALNY, MĄKA PSZENNA, TYP 500, BIAŁKO JAJA (KURZEGO), JAJA KURZE, CZEKOLADA DESEROWA, Ksylitol, Miód pszczeli, ORZECHY ZIEMNE GRYS, MASŁO, Pasta Rokitnik, CZEKOLADA DESEROWA, Żelatyna, PROSZEK DO PIECZENIA, Kakao"
+      },
+      {
+        "dishName": "Ryżanka kokosowa z mango",
+        "ingredientsList": "MLEKO, Mango, Mleczko kokosowe RealThai, Ryż basmati Punjabi, Chipsy kokosowe, Ksylitol, Wiórki kokosowe, Mięta liście"
+      },
+      {
+        "dishName": "Pasta z pieczonych warzyw z krakersami wielozbożowymi",
+        "ingredientsList": "MINI PIECZYWO MELVIT CRISPY (MĄKA PSZENNA RAZOWA, MĄKA ORKISZOWA 14%, MĄKA PSZENNA, SŁONECZNIK 13%, SEZAM 13%, SIEMIĘ LNIANE 13%, MIÓD NATURALNY (WIELOKWIATOWY), DROŻDŻE, MASŁO, SÓL, OTRĘBY ORKISZOWE 2%, WODA), Woda, Marchew, SELER KORZENIOWY, MASŁO ORZECHOWE, Soczewica czerwona, nasiona suche, Pietruszka, korzeń, Papryka słodka (mielona), Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Ciasto Mocca",
+        "ingredientsList": "ŚMIETANKA VEGETOP 33%, JAJA KURZE, Erytrol, MĄKA ORKISZOWA JASNA, Kawa, napar bez cukru, MĄKA MIGDAŁOWA, MĄKA ORKISZOWA CIEMNA, Żelatyna, Kakao, POSYPKA Z CZEKOLADY DESEROWEJ, CZEKOLADA CIEMNA 60% BEZ CUKRU"
+      },
+      {
+        "dishName": "Keto ciasteczka czekoladowo - migdałowe z musem z owoców leśnych",
+        "ingredientsList": "Owoce mix: truskawka, porzeczka, owoce leśne, Woda, MĄKA MIGDAŁOWA, Ksylitol, ORZECHY LASKOWE, JAJA KURZE, Siemię lniane (mielone), CZEKOLADA CIEMNA 60% BEZ CUKRU, Przyprawa korzenna bezglutenowa"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Krem z pomidorów z pesto z rukoli i serem typu greckiego",
+        "ingredientsList": "Pomidory pelati, Woda, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Rukola, Cebula, Oliwa z oliwek, Czosnek, Pietruszka, korzeń, Marchew, SEREK ŚMIETANKOWY NATURALNY (PIĄTNICA), Sok cytrynka, DYNIA PESTKI, Ksylitol, Oliwa z oliwek, Słonecznik, Pieprz mielony, Sól"
+      },
+      {
+        "dishName": "Sałatka Cezar",
+        "ingredientsList": "Pomidor śliwkowy (daktylowy), Filet z piersi kurczaka, bez skóry, BAGIETKA FINTES (MĄKA (PSZENNA, ŻYTNIA), WODA, PŁATKI OWSIANE, SIEMIĘ LNIANE, SOJA, SŁONECZNIK, DROŻDŻE, SEZAM, SÓL, SŁÓD JĘCZMIENNY), Sałata rzymska, SER TWARDY DOJRZEWAJĄCY GRAN REGALE (PODPUSZCZKA MIKROBIOLOGICZNA), JOGURT NATURALNY, Kapary, Cebula czerwona, PARMEZAN, Oliwa z oliwek, Zioła prowansalskie, Oregano, Czosnek, ANCHOIS, SARDELA EUROPEJSKA (ŚWIEŻA), MUSZTARDA, Olej rzepakowy, Marynata premium do drobiu"
+      },
+      {
+        "dishName": "Zapiekane wrapy z kurczakiem, ogórkiem i szpinakiem z łagodnym sosem słodko-kwaśnym",
+        "ingredientsList": "TORTILLA PSZENNA, Ananas, Ogórek zielony (długi), Filet z piersi kurczaka, bez skóry, BULION WARZYWNY, Kasza jaglana, Pomidory pelati, Marchew, Mango, BULION MIĘSNY, Szpinak, Kolendra (świeża), Sok z limonki, Ksylitol, Sól, Kolendra mielona, Kurkuma, Pieprz mielony, Imbir"
+      },
+      {
+        "dishName": "Chili sin carne z soczewicą i kaszą bulgur",
+        "ingredientsList": "Pomidory pelati, Woda, BULION WARZYWNY, KASZA BULGUR, Fasola czerwona w zalewie (konserwowa), Kukurydza konserwowa, Papryka czerwona, Soczewica czerwona, nasiona suche, ORZECHY ZIEMNE GRYS, CZEKOLADA DESEROWA, Cebula, Oliwa z oliwek, Czosnek, Papryka słodka, wędzona (mielona), Papryka słodka (mielona), Mielona papryka chili, Kmin rzymski (kumin), Oregano, Kolendra mielona"
+      },
+      {
+        "dishName": "Focaccia ketogeniczna z cukinią, szpinakiem, oliwkami i pomidorkami koktajlowymi",
+        "ingredientsList": "JAJA KURZE, Pomidory pelati, SER GOUDA, MĄKA MIGDAŁOWA, ŚMIETANKA VEGETOP 33%, Szpinak, Cukinia zielona, Pomidory koktajlowe, śliwkowe, Oliwki czarne, Szpinak baby, SEZAM BIAŁY, Bazylia świeża, Ksylitol, PROSZEK DO PIECZENIA, Oregano, Sól"
+      }
+    ]
+  }
+]

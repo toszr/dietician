@@ -1,0 +1,127 @@
+[
+  {
+    "mealName": "Śniadanie",
+    "dishes": [
+      {
+        "dishName": "Jaglanka \"Bounty\" z musem malinowym i czekoladowym jogurtem",
+        "ingredientsList": "JOGURT NATURALNY, MLEKO, Maliny (mrożone), Kasza jaglana, Truskawki, Mleczko kokosowe, Ksylitol, Erytrol, Len, Wiórki kokosowe, Kakao, CZEKOLADA DESEROWA, Chipsy kokosowe, POSYPKA Z CZEKOLADY DESEROWEJ, MIGDAŁY (PŁATKI), Wanilia (perły wanilii (62,5%), naturalny koncentrat waniliowy 37,5%)), Sól"
+      },
+      {
+        "dishName": "Chlebek bananowy z cieciorellą i owocami: ananasem i melonem",
+        "ingredientsList": "Melon, Ananas, MĄKA PSZENNA, CZEKOLADA GORZKA, KSYLITOL, KAKAO, SERWATKA W PROSZKU, SKROBIA ZIEMNIACZANA, Woda, Ciecierzyca nasiona suche, Olej rzepakowy, ORZECHY ZIEMNE GRYS, Banan, JAJA KURZE, MLEKO MIGDAŁOWE NATURALNE BIO, Daktyle suszone, Kakao, MASŁO ORZECHOWE"
+      },
+      {
+        "dishName": "Owsianka z malinami, jogurtem migdałowym z chia i owocami: jabłkiem i gruszką",
+        "ingredientsList": "MLEKO, NAPÓJ MIGDAŁOWY, Maliny (mrożone), Gruszka, Jabłko, PŁATKI OWSIANE, Nasiona chia, ORZECHY ZIEMNE GRYS, Ksylitol, Len, Żurawina suszona, MIGDAŁY (PŁATKI), SEZAM BIAŁY, Agar"
+      },
+      {
+        "dishName": "Frittata z jalapeno, serem żółtym i cząstkami pomidora malinowego",
+        "ingredientsList": "JAJA KURZE, Pomidor malinowy, JOGURT NATURALNY BEZ LAKTOZY 0% MALUTA, MAJONEZ Z OLEJEM RZEPAKOWYM, SER GOUDA, Pomidory cherry czerwone, Szczypiorek, Słonecznik, Papryka zielona, Papryka jalapeno, Pietruszka, liście, Pieprz mielony, Sól morska, Profesor Ziółko - groszek czepny"
+      },
+      {
+        "dishName": "Twaróg koryciński z czarnuszką, bagietka korzenna i słupki selera",
+        "ingredientsList": "SER KORYCIŃSKI Z KOZIERADKĄ, SELER NACIOWY, BAGIETKA KORZENNA MAŁA (MĄKA PSZENNA, WODA, GLUTEN PSZENNY, SŁÓD JĘCZMIENNY, SÓL, DROŻDŻE, KWAS ASKORBINOWY), JOGURT NATURALNY, Słonecznik, Roszponka"
+      }
+    ]
+  },
+  {
+    "mealName": "II śniadanie",
+    "dishes": [
+      {
+        "dishName": "Zupa krem z kalafiora i pietruszki z kurkami i tymiankiem",
+        "ingredientsList": "BULION WARZYWNY, Kalafior, Pietruszka, korzeń, CHLEB ŻYTNI NA ZAKWASIE HB (MĄKA: ŻYTNIA TYP 1400, ŻYTNIA RAZOWA 2000, PSZENNA PEŁNOZIARNISTA TYP 2000, WODA, SÓL, SŁÓD JĘCZMIENNY, ZAKWAS), SELER KORZENIOWY, Kurki (mrożone), Cebula, Mleczko kokosowe RealThai, Marchew, Oliwa z oliwek, Pieprz mielony, Rozmaryn (świeży), Tymianek, Oregano, Tymianek, Mielona gałka muszkatołowa, Kmin rzymski (kumin), Sól, Oliwa z oliwek, Sól morska"
+      },
+      {
+        "dishName": "Sałatka z quinoa i serem korycińskim z czarnuszką",
+        "ingredientsList": "Pomidory koktajlowe, śliwkowe, Woda, Komosa ryżowa czarna, SER KORYCIŃSKI Z CZARNUSZKĄ, Ogórek zielony (długi), Oliwa z oliwek, Cebula czerwona, Rukola, MUSZTARDA, Granat, Ocet biały winny, Ksylitol, MUSZTARDA FRANCUSKA, Czarnuszka, Natka pietruszki, Koper ogrodowy"
+      },
+      {
+        "dishName": "Pasta z piersi kurczaka z chlebem gryczanym, rzodkiewką i ogórkiem",
+        "ingredientsList": "Polędwiczki z kurczaka, Woda, Ogórek zielony (długi), Rzodkiewka, Wątróbka (z kurczaka), Kasza gryczana niepalona (biała), Cebula, DYNIA PESTKI, Jabłko, ŚMIETANKA 15%, Marchew, Pietruszka, korzeń, Majeranek, SEZAM BIAŁY, Sól, Bazylia świeża, Drożdże suszone, Słonecznik"
+      },
+      {
+        "dishName": "Tiramisu orzechowe",
+        "ingredientsList": "TWARÓG SERNIKOWY 4% TŁUSZCZU PRÉSIDENT, MASŁO ORZECHOWE, BIAŁKO JAJA KURZEGO, JOGURT NATURALNY, ŻÓŁTKO JAJA, Ksylitol, Mąka kokosowa, MĄKA MIGDAŁOWA, Kawa, napar bez cukru, Erytrol, KAKAO NATURALNE EXTRA CIEMNE CELIKO, Kakao"
+      },
+      {
+        "dishName": "Pancake z czerwoną porzeczką i musem pomarańczowo-dyniowym",
+        "ingredientsList": "BIAŁKO JAJA KURZEGO, Porzeczki czerwone, Dynia piżmowa, MĄKA PSZENNA, TYP 500, Ksylitol, ŻÓŁTKO JAJA, MASŁO, MLEKO SPOŻYWCZE 2%, Miód pszczeli, Skórka z pomarańczy, Sok pomarańczowy, PROSZEK DO PIECZENIA, Żelatyna"
+      }
+    ]
+  },
+  {
+    "mealName": "Obiad",
+    "dishes": [
+      {
+        "dishName": "Shoarma z udka kurczaka z żółtym ryżem z groszkiem i sosem czosnkowym",
+        "ingredientsList": "Mięso z podudzia kurczaka (bez skóry i kości), Woda, JOGURT NATURALNY TYPU GRECKIEGO, Kapusta czerwona, Kapusta biała, Ryż basmati Punjabi, Pomidor, Groszek zielony, Ogórek zielony (długi), MAKARON SPAGHETTI JASNY, Cebula czerwona, Sól morska, Czosnek, Oliwa z oliwek, Sambal, Sok cytrynka, Kolendra mielona, Kmin rzymski (kumin), Cukier, Oliwa z oliwek, Koper ogrodowy, Pieprz mielony, Natka pietruszki, Ocet, Olej rzepakowy, Kurkuma, Sok z cytryny, Mięta liście"
+      },
+      {
+        "dishName": "Spaghetti z tofu w sosie pomidorowym z suszonymi pomidorami i pecorino romano",
+        "ingredientsList": "TOFU NATURALNE, Woda, Pomidory pelati, Papryka zielona, MAKARON SPAGHETTI PEŁNOZIARNISTY, ŚMIETANKA 15%, Suszone pomidory, SER PECORINO ROMANO (MLEKO OWCZE PASTERYZOWANE, SÓL, PODPUSZCZKA), Olej rzepakowy, Cebula, Czosnek, Szpinak baby, Oliwa z oliwek, Sos Sriracha Asiana (woda, papryczka chili, cukier, kwas cytrynowy, czosnek, sól, skrobia, substancja zakwaszająca E260, konserwant E202), Papryka słodka (mielona), Pieprz mielony, Sól, Sól morska, Mielona papryka chili"
+      },
+      {
+        "dishName": "Wegańskie kartacze z czerwoną soczewicą i kaszą jaglaną",
+        "ingredientsList": "Ziemniaki obrane, Kapusta czerwona, Woda, Skrobia ziemniaczana, Suszone pomidory, Kasza jaglana, Soczewica czerwona, nasiona suche, Cebula czerwona, Cebula, DYNIA PESTKI, Oliwa z oliwek, Oliwa z oliwek, Oliwa z suszonych pomidorów (oliwa), Czosnek, Natka pietruszki, Sól, Pieprz mielony, Majeranek"
+      },
+      {
+        "dishName": "Filet z mintaja na musie z kalafiora z ryżem jaśminowym i pieczonymi buraczkami z tymiankiem",
+        "ingredientsList": "MINTAJ, FILET BEZ SKÓRY, Burak gotowany, Woda, Ryż jaśminowy, Kalafior, Kalafior romanesco, Rukola, Ziemniaki obrane, Cytryna, Słonecznik, Natka pietruszki, BULION WARZYWNY, Tymianek, Ksylitol, Pieprz mielony, Sok cytrynka, Tymianek gałązka do ozdoby, Pasta curry żółta, Sól, Sól morska"
+      },
+      {
+        "dishName": "Rostbef w sosie węgierskim z frytkami z selera i surówką z czerwonej kapusty",
+        "ingredientsList": "Wołowina, rostbef, Kapusta czerwona, SELER KORZENIOWY, BULION WARZYWNY, Oliwa z oliwek, Cebula, Olej rzepakowy, Mąka z tapioki, Sól, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Koncentrat pomidorowy, Pieprz mielony, MASŁO, Czosnek, Koper ogrodowy, Rozmaryn (świeży), Sok cytrynka, Sól morska, Ksylitol, Papryka słodka, wędzona (mielona), Marynata premium do drobiu, Papryka słodka (mielona), Ziele angielskie, Liść laurowy, Papryczka ostra (chili)"
+      }
+    ]
+  },
+  {
+    "mealName": "Podwieczorek",
+    "dishes": [
+      {
+        "dishName": "Migdałowe rogaliki z polewą czekoladową",
+        "ingredientsList": "JOGURT NATURALNY, MĄKA PSZENNA, TYP 500, MASŁO, MIGDAŁY (PŁATKI), JAJA KURZE, KREM ANGIELSKI , Ksylitol, CZEKOLADA DESEROWA, ŻÓŁTKO JAJA, Olej rzepakowy, Sól"
+      },
+      {
+        "dishName": "Smoothie orzechowe z mango",
+        "ingredientsList": "MLEKO, Mango, ORZECHY ZIEMNE GRYS, Ksylitol"
+      },
+      {
+        "dishName": "Hiszpańska \"tortilla\" z batatami, czerwoną fasolą i cheddarem z jogurtowym z awokado",
+        "ingredientsList": "JAJA KURZE, Bataty, Pomidor malinowy, Pomidor żółty, SER CHEDDAR, Fasola czerwona w zalewie (konserwowa), Guacamole, JOGURT NATURALNY, Oliwki zielone całe, Sałata lodowa, Szczypiorek, Sałata rzymska, Szpinak, Rukola, Czosnek, Sól morska"
+      },
+      {
+        "dishName": "Muffinki serowe z suszonymi pomidorami, oliwkami i salsą pomidorową",
+        "ingredientsList": "Pomidor malinowy, JAJA KURZE, SER MOZZARELLA WIÓRKI, MĄKA MIGDAŁOWA, Oliwki czarne, Suszone pomidory, Cebula, Słonecznik, Sok z limonki, SEZAM BIAŁY, Papryka jalapeno, Czosnek, Kolendra (świeża), Proszek do pieczenia bezglutenowy, Oregano, Sól, Pieprz mielony"
+      },
+      {
+        "dishName": "Plastry batata z pastą z zielonego groszku, serem typu feta i granatem",
+        "ingredientsList": "Groszek zielony, Bataty, SER DANISH WHITE SAŁATKOWY TYPU FETA (PODPUSZCZKA MIKROBIOLOGICZNA), Granat, DYNIA PESTKI, Roszponka, Sól morska, Pieprz mielony"
+      }
+    ]
+  },
+  {
+    "mealName": "Kolacja",
+    "dishes": [
+      {
+        "dishName": "Dzień Pizzy: Pizza własnego wypieku z salami Spianata, sosem pomidorowym i rukolą",
+        "ingredientsList": "Pomidory pelati, SER MOZZARELLA WIÓRKI (PODPUSZCZKA MIKROBIOLOGICZNA), MĄKA PSZENNA TYP \"00\" NA PIZZĘ, SALAMI (SPINIATA), Woda, Oliwki czarne, Pomidory cherry żółte, Pomidory cherry czerwone, Oliwki czarne całe b/p*, Rukola, MĄKA ORKISZOWA JASNA, Oliwa z oliwek, Drożdże suszone, Ksylitol, Oregano, Sól, Bazylia świeża, Czosnek"
+      },
+      {
+        "dishName": "Biryiani z marynowanym tofu, kalafiorem, fasolką, okrą i orzechami nerkowca",
+        "ingredientsList": "Kalafior, Pomidory pelati kostka, TOFU NATURALNE, Fasolka szparagowa zielona, Okra, Woda, Ryż basmati Punjabi, ORZECHY NERKOWCA, Cebula, SOS SOJOWY CIEMNY LEE KUM KEE (WODA, SÓL, BARWNIK: KARMEL, CUKIER, SOJA), Oliwa z oliwek, Syrop klonowy, Czosnek, Kolendra (świeża), Garam Masala, Sok z cytryny, Czosnek granulowany, Imbir, Cynamon, Mielona papryka chili, Kurkuma, Kmin rzymski (kumin), Przyprawa do piernika (cynamon, goździki, kolendra, ziele angielskie, gałka muszkatołowa, anyż, pieprz, imbir, kardamon)"
+      },
+      {
+        "dishName": "Kotleciki z indykiem i warzywami oraz twarożkiem ziarnistym bazyliowym",
+        "ingredientsList": "SEREK WIEJSKI (NATURALNY), Filet z piersi indyka, bez skóry, JAJA KURZE, Papryka czerwona, Pieczarki, Cebula, SER MOZZARELLA WIÓRKI, MAJONEZ Z OLEJEM RZEPAKOWYM, Słonecznik, MĄKA ORKISZOWA JASNA, Rukola, Bazylia świeża, Pieprz mielony, Sól morska"
+      },
+      {
+        "dishName": "Sałatka z dynią, serem pleśniowym i melonem",
+        "ingredientsList": "Pomidor malinowy, Melon galia, SER PLEŚNIOWY KAMIENNOGÓRSKI (PODPUSZCZKA MIKROBIOLOGICZNA), Papryka żółta, Dynia hokaido, Oliwa z oliwek, ORZECHY ZIEMNE GRYS, Sałata lodowa, Krem balsamiczny, Sałata rzymska mini, Szpinak, Rukola, MUSZTARDA SAREPSKA, Sałata radicho, Sól morska, Pieprz mielony"
+      },
+      {
+        "dishName": "Krem z cukinii z grzankami",
+        "ingredientsList": "Cukinia zielona, Woda, ŚMIETANKA 15%, BAGIETKA PSZENNA JASNA (MĄKA PSZENNA, WODA, SÓL, MĄKA ŻYTNIA, DROŻDŻE, OLEJ RZEPAKOWY, KWAS ASKORBINOWY), SELER KORZENIOWY, Pietruszka, korzeń, Oliwa z oliwek, Oliwa z oliwek, Sok z cytryny, Tymianek, Sól, Pieprz mielony, Rozmaryn (świeży)"
+      }
+    ]
+  }
+]
